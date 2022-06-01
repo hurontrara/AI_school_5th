@@ -1,0 +1,2833 @@
+,Hotel_Name,room,clean,staff,service,design,location,breakfast
+0,1K Hotel,62,0,0,0,0,0,0
+1,1K Hotel,0,5,0,0,0,0,0
+2,1K Hotel,0,0,33,0,0,0,0
+3,1K Hotel,0,0,0,5,0,0,0
+4,1K Hotel,0,0,0,0,7,0,0
+5,1K Hotel,0,0,0,0,0,34,0
+6,1K Hotel,0,0,0,0,0,0,8
+7,9Hotel Republique,55,0,0,0,0,0,0
+8,9Hotel Republique,0,8,0,0,0,0,0
+9,9Hotel Republique,0,0,67,0,0,0,0
+10,9Hotel Republique,0,0,0,7,0,0,0
+11,9Hotel Republique,0,0,0,0,14,0,0
+12,9Hotel Republique,0,0,0,0,0,36,0
+13,9Hotel Republique,0,0,0,0,0,0,25
+14,A La Villa Madame,9,0,0,0,0,0,0
+15,A La Villa Madame,0,1,0,0,0,0,0
+16,A La Villa Madame,0,0,11,0,0,0,0
+17,A La Villa Madame,0,0,0,3,0,0,0
+18,A La Villa Madame,0,0,0,0,2,0,0
+19,A La Villa Madame,0,0,0,0,0,10,0
+20,A La Villa Madame,0,0,0,0,0,0,9
+21,AC Hotel Paris Porte Maillot by Marriott,16,0,0,0,0,0,0
+22,AC Hotel Paris Porte Maillot by Marriott,0,3,0,0,0,0,0
+23,AC Hotel Paris Porte Maillot by Marriott,0,0,26,0,0,0,0
+24,AC Hotel Paris Porte Maillot by Marriott,0,0,0,1,0,0,0
+25,AC Hotel Paris Porte Maillot by Marriott,0,0,0,0,0,16,0
+26,AC Hotel Paris Porte Maillot by Marriott,0,0,0,0,0,0,7
+27,Acad mie H tel Saint Germain,84,0,0,0,0,0,0
+28,Acad mie H tel Saint Germain,0,6,0,0,0,0,0
+29,Acad mie H tel Saint Germain,0,0,112,0,0,0,0
+30,Acad mie H tel Saint Germain,0,0,0,7,0,0,0
+31,Acad mie H tel Saint Germain,0,0,0,0,0,95,0
+32,Acad mie H tel Saint Germain,0,0,0,0,0,0,15
+33,Amarante Beau Manoir,31,0,0,0,0,0,0
+34,Amarante Beau Manoir,0,1,0,0,0,0,0
+35,Amarante Beau Manoir,0,0,47,0,0,0,0
+36,Amarante Beau Manoir,0,0,0,3,0,0,0
+37,Amarante Beau Manoir,0,0,0,0,0,50,0
+38,Amarante Beau Manoir,0,0,0,0,0,0,9
+39,Amarante Champs Elys es,11,0,0,0,0,0,0
+40,Amarante Champs Elys es,0,1,0,0,0,0,0
+41,Amarante Champs Elys es,0,0,28,0,0,0,0
+42,Amarante Champs Elys es,0,0,0,0,0,38,0
+43,Amarante Champs Elys es,0,0,0,0,0,0,2
+44,Amp re,56,0,0,0,0,0,0
+45,Amp re,0,4,0,0,0,0,0
+46,Amp re,0,0,49,0,0,0,0
+47,Amp re,0,0,0,1,0,0,0
+48,Amp re,0,0,0,0,1,0,0
+49,Amp re,0,0,0,0,0,45,0
+50,Amp re,0,0,0,0,0,0,15
+51,Arioso,9,0,0,0,0,0,0
+52,Arioso,0,2,0,0,0,0,0
+53,Arioso,0,0,12,0,0,0,0
+54,Arioso,0,0,0,0,0,11,0
+55,Arioso,0,0,0,0,0,0,5
+56,Artus Hotel by MH,16,0,0,0,0,0,0
+57,Artus Hotel by MH,0,1,0,0,0,0,0
+58,Artus Hotel by MH,0,0,19,0,0,0,0
+59,Artus Hotel by MH,0,0,0,1,0,0,0
+60,Artus Hotel by MH,0,0,0,0,1,0,0
+61,Artus Hotel by MH,0,0,0,0,0,25,0
+62,Artus Hotel by MH,0,0,0,0,0,0,3
+63,Atala Champs Elys es,8,0,0,0,0,0,0
+64,Atala Champs Elys es,0,1,0,0,0,0,0
+65,Atala Champs Elys es,0,0,10,0,0,0,0
+66,Atala Champs Elys es,0,0,0,1,0,0,0
+67,Atala Champs Elys es,0,0,0,0,0,9,0
+68,Atala Champs Elys es,0,0,0,0,0,0,1
+69,Au Manoir Saint Germain,50,0,0,0,0,0,0
+70,Au Manoir Saint Germain,0,2,0,0,0,0,0
+71,Au Manoir Saint Germain,0,0,56,0,0,0,0
+72,Au Manoir Saint Germain,0,0,0,5,0,0,0
+73,Au Manoir Saint Germain,0,0,0,0,0,78,0
+74,Au Manoir Saint Germain,0,0,0,0,0,0,9
+75,Auteuil Tour Eiffel,45,0,0,0,0,0,0
+76,Auteuil Tour Eiffel,0,5,0,0,0,0,0
+77,Auteuil Tour Eiffel,0,0,39,0,0,0,0
+78,Auteuil Tour Eiffel,0,0,0,5,0,0,0
+79,Auteuil Tour Eiffel,0,0,0,0,0,48,0
+80,Auteuil Tour Eiffel,0,0,0,0,0,0,14
+81,B Montmartre,37,0,0,0,0,0,0
+82,B Montmartre,0,1,0,0,0,0,0
+83,B Montmartre,0,0,51,0,0,0,0
+84,B Montmartre,0,0,0,7,0,0,0
+85,B Montmartre,0,0,0,0,0,23,0
+86,B Montmartre,0,0,0,0,0,0,15
+87,Balmoral Champs Elys es,37,0,0,0,0,0,0
+88,Balmoral Champs Elys es,0,3,0,0,0,0,0
+89,Balmoral Champs Elys es,0,0,53,0,0,0,0
+90,Balmoral Champs Elys es,0,0,0,6,0,0,0
+91,Balmoral Champs Elys es,0,0,0,0,1,0,0
+92,Balmoral Champs Elys es,0,0,0,0,0,41,0
+93,Balmoral Champs Elys es,0,0,0,0,0,0,12
+94,Banke H tel,40,0,0,0,0,0,0
+95,Banke H tel,0,1,0,0,0,0,0
+96,Banke H tel,0,0,60,0,0,0,0
+97,Banke H tel,0,0,0,13,0,0,0
+98,Banke H tel,0,0,0,0,4,0,0
+99,Banke H tel,0,0,0,0,0,40,0
+100,Banke H tel,0,0,0,0,0,0,7
+101,Bassano,28,0,0,0,0,0,0
+102,Bassano,0,3,0,0,0,0,0
+103,Bassano,0,0,36,0,0,0,0
+104,Bassano,0,0,0,2,0,0,0
+105,Bassano,0,0,0,0,1,0,0
+106,Bassano,0,0,0,0,0,24,0
+107,Bassano,0,0,0,0,0,0,3
+108,Belfast,34,0,0,0,0,0,0
+109,Belfast,0,1,0,0,0,0,0
+110,Belfast,0,0,29,0,0,0,0
+111,Belfast,0,0,0,2,0,0,0
+112,Belfast,0,0,0,0,0,31,0
+113,Belfast,0,0,0,0,0,0,10
+114,Best Western Allegro Nation,8,0,0,0,0,0,0
+115,Best Western Allegro Nation,0,1,0,0,0,0,0
+116,Best Western Allegro Nation,0,0,5,0,0,0,0
+117,Best Western Allegro Nation,0,0,0,1,0,0,0
+118,Best Western Allegro Nation,0,0,0,0,0,7,0
+119,Best Western Allegro Nation,0,0,0,0,0,0,4
+120,Best Western Amiral Hotel,28,0,0,0,0,0,0
+121,Best Western Amiral Hotel,0,4,0,0,0,0,0
+122,Best Western Amiral Hotel,0,0,30,0,0,0,0
+123,Best Western Amiral Hotel,0,0,0,2,0,0,0
+124,Best Western Amiral Hotel,0,0,0,0,0,20,0
+125,Best Western Amiral Hotel,0,0,0,0,0,0,13
+126,Best Western Aulivia Op ra,33,0,0,0,0,0,0
+127,Best Western Aulivia Op ra,0,4,0,0,0,0,0
+128,Best Western Aulivia Op ra,0,0,36,0,0,0,0
+129,Best Western Aulivia Op ra,0,0,0,2,0,0,0
+130,Best Western Aulivia Op ra,0,0,0,0,0,19,0
+131,Best Western Aulivia Op ra,0,0,0,0,0,0,10
+132,Best Western Bretagne Montparnasse,46,0,0,0,0,0,0
+133,Best Western Bretagne Montparnasse,0,9,0,0,0,0,0
+134,Best Western Bretagne Montparnasse,0,0,51,0,0,0,0
+135,Best Western Bretagne Montparnasse,0,0,0,4,0,0,0
+136,Best Western Bretagne Montparnasse,0,0,0,0,0,35,0
+137,Best Western Bretagne Montparnasse,0,0,0,0,0,0,14
+138,Best Western Ducs de Bourgogne,32,0,0,0,0,0,0
+139,Best Western Ducs de Bourgogne,0,1,0,0,0,0,0
+140,Best Western Ducs de Bourgogne,0,0,43,0,0,0,0
+141,Best Western Ducs de Bourgogne,0,0,0,4,0,0,0
+142,Best Western Ducs de Bourgogne,0,0,0,0,0,45,0
+143,Best Western Ducs de Bourgogne,0,0,0,0,0,0,5
+144,Best Western Hotel Montmartre Sacr Coeur,71,0,0,0,0,0,0
+145,Best Western Hotel Montmartre Sacr Coeur,0,5,0,0,0,0,0
+146,Best Western Hotel Montmartre Sacr Coeur,0,0,88,0,0,0,0
+147,Best Western Hotel Montmartre Sacr Coeur,0,0,0,2,0,0,0
+148,Best Western Hotel Montmartre Sacr Coeur,0,0,0,0,0,28,0
+149,Best Western Hotel Montmartre Sacr Coeur,0,0,0,0,0,0,27
+150,Best Western Le 18 Paris,22,0,0,0,0,0,0
+151,Best Western Le 18 Paris,0,3,0,0,0,0,0
+152,Best Western Le 18 Paris,0,0,20,0,0,0,0
+153,Best Western Le 18 Paris,0,0,0,0,0,1,0
+154,Best Western Le 18 Paris,0,0,0,0,0,0,6
+155,Best Western Le Jardin de Cluny,33,0,0,0,0,0,0
+156,Best Western Le Jardin de Cluny,0,8,0,0,0,0,0
+157,Best Western Le Jardin de Cluny,0,0,50,0,0,0,0
+158,Best Western Le Jardin de Cluny,0,0,0,3,0,0,0
+159,Best Western Le Jardin de Cluny,0,0,0,0,2,0,0
+160,Best Western Le Jardin de Cluny,0,0,0,0,0,55,0
+161,Best Western Le Jardin de Cluny,0,0,0,0,0,0,12
+162,Best Western Mercedes Arc de Triomphe,25,0,0,0,0,0,0
+163,Best Western Mercedes Arc de Triomphe,0,2,0,0,0,0,0
+164,Best Western Mercedes Arc de Triomphe,0,0,19,0,0,0,0
+165,Best Western Mercedes Arc de Triomphe,0,0,0,1,0,0,0
+166,Best Western Mercedes Arc de Triomphe,0,0,0,0,0,17,0
+167,Best Western Mercedes Arc de Triomphe,0,0,0,0,0,0,4
+168,Best Western Nouvel Orl ans Montparnasse,74,0,0,0,0,0,0
+169,Best Western Nouvel Orl ans Montparnasse,0,6,0,0,0,0,0
+170,Best Western Nouvel Orl ans Montparnasse,0,0,46,0,0,0,0
+171,Best Western Nouvel Orl ans Montparnasse,0,0,0,3,0,0,0
+172,Best Western Nouvel Orl ans Montparnasse,0,0,0,0,1,0,0
+173,Best Western Nouvel Orl ans Montparnasse,0,0,0,0,0,52,0
+174,Best Western Nouvel Orl ans Montparnasse,0,0,0,0,0,0,15
+175,Best Western Op ra Batignolles,21,0,0,0,0,0,0
+176,Best Western Op ra Batignolles,0,3,0,0,0,0,0
+177,Best Western Op ra Batignolles,0,0,26,0,0,0,0
+178,Best Western Op ra Batignolles,0,0,0,0,0,6,0
+179,Best Western Op ra Batignolles,0,0,0,0,0,0,9
+180,Best Western Paris Gare Saint Lazare,13,0,0,0,0,0,0
+181,Best Western Paris Gare Saint Lazare,0,5,0,0,0,0,0
+182,Best Western Paris Gare Saint Lazare,0,0,18,0,0,0,0
+183,Best Western Paris Gare Saint Lazare,0,0,0,1,0,0,0
+184,Best Western Paris Gare Saint Lazare,0,0,0,0,1,0,0
+185,Best Western Paris Gare Saint Lazare,0,0,0,0,0,19,0
+186,Best Western Paris Gare Saint Lazare,0,0,0,0,0,0,6
+187,Best Western Plus 61 Paris Nation Hotel,29,0,0,0,0,0,0
+188,Best Western Plus 61 Paris Nation Hotel,0,3,0,0,0,0,0
+189,Best Western Plus 61 Paris Nation Hotel,0,0,21,0,0,0,0
+190,Best Western Plus 61 Paris Nation Hotel,0,0,0,2,0,0,0
+191,Best Western Plus 61 Paris Nation Hotel,0,0,0,0,1,0,0
+192,Best Western Plus 61 Paris Nation Hotel,0,0,0,0,0,7,0
+193,Best Western Plus 61 Paris Nation Hotel,0,0,0,0,0,0,9
+194,Best Western Plus Elys e Secret,18,0,0,0,0,0,0
+195,Best Western Plus Elys e Secret,0,6,0,0,0,0,0
+196,Best Western Plus Elys e Secret,0,0,26,0,0,0,0
+197,Best Western Plus Elys e Secret,0,0,0,0,1,0,0
+198,Best Western Plus Elys e Secret,0,0,0,0,0,36,0
+199,Best Western Plus Elys e Secret,0,0,0,0,0,0,6
+200,Best Western Plus de Neuville Arc de Triomphe,17,0,0,0,0,0,0
+201,Best Western Plus de Neuville Arc de Triomphe,0,0,30,0,0,0,0
+202,Best Western Plus de Neuville Arc de Triomphe,0,0,0,3,0,0,0
+203,Best Western Plus de Neuville Arc de Triomphe,0,0,0,0,0,15,0
+204,Best Western Plus de Neuville Arc de Triomphe,0,0,0,0,0,0,6
+205,Best Western Premier Faubourg 88,76,0,0,0,0,0,0
+206,Best Western Premier Faubourg 88,0,13,0,0,0,0,0
+207,Best Western Premier Faubourg 88,0,0,72,0,0,0,0
+208,Best Western Premier Faubourg 88,0,0,0,7,0,0,0
+209,Best Western Premier Faubourg 88,0,0,0,0,2,0,0
+210,Best Western Premier Faubourg 88,0,0,0,0,0,42,0
+211,Best Western Premier Faubourg 88,0,0,0,0,0,0,23
+212,Best Western Premier Kapital Op ra,136,0,0,0,0,0,0
+213,Best Western Premier Kapital Op ra,0,7,0,0,0,0,0
+214,Best Western Premier Kapital Op ra,0,0,92,0,0,0,0
+215,Best Western Premier Kapital Op ra,0,0,0,16,0,0,0
+216,Best Western Premier Kapital Op ra,0,0,0,0,4,0,0
+217,Best Western Premier Kapital Op ra,0,0,0,0,0,79,0
+218,Best Western Premier Kapital Op ra,0,0,0,0,0,0,21
+219,Best Western Premier Le Swann,27,0,0,0,0,0,0
+220,Best Western Premier Le Swann,0,4,0,0,0,0,0
+221,Best Western Premier Le Swann,0,0,27,0,0,0,0
+222,Best Western Premier Le Swann,0,0,0,3,0,0,0
+223,Best Western Premier Le Swann,0,0,0,0,1,0,0
+224,Best Western Premier Le Swann,0,0,0,0,0,24,0
+225,Best Western Premier Le Swann,0,0,0,0,0,0,14
+226,Best Western Premier Louvre Saint Honor ,49,0,0,0,0,0,0
+227,Best Western Premier Louvre Saint Honor ,0,4,0,0,0,0,0
+228,Best Western Premier Louvre Saint Honor ,0,0,53,0,0,0,0
+229,Best Western Premier Louvre Saint Honor ,0,0,0,13,0,0,0
+230,Best Western Premier Louvre Saint Honor ,0,0,0,0,0,85,0
+231,Best Western Premier Louvre Saint Honor ,0,0,0,0,0,0,15
+232,Best Western Premier Marais Grands Boulevards,68,0,0,0,0,0,0
+233,Best Western Premier Marais Grands Boulevards,0,10,0,0,0,0,0
+234,Best Western Premier Marais Grands Boulevards,0,0,65,0,0,0,0
+235,Best Western Premier Marais Grands Boulevards,0,0,0,6,0,0,0
+236,Best Western Premier Marais Grands Boulevards,0,0,0,0,5,0,0
+237,Best Western Premier Marais Grands Boulevards,0,0,0,0,0,72,0
+238,Best Western Premier Marais Grands Boulevards,0,0,0,0,0,0,14
+239,Best Western Premier Op ra Faubourg Ex Hotel Jules ,98,0,0,0,0,0,0
+240,Best Western Premier Op ra Faubourg Ex Hotel Jules ,0,10,0,0,0,0,0
+241,Best Western Premier Op ra Faubourg Ex Hotel Jules ,0,0,83,0,0,0,0
+242,Best Western Premier Op ra Faubourg Ex Hotel Jules ,0,0,0,9,0,0,0
+243,Best Western Premier Op ra Faubourg Ex Hotel Jules ,0,0,0,0,2,0,0
+244,Best Western Premier Op ra Faubourg Ex Hotel Jules ,0,0,0,0,0,95,0
+245,Best Western Premier Op ra Faubourg Ex Hotel Jules ,0,0,0,0,0,0,28
+246,Best Western Premier Op ra Li ge,39,0,0,0,0,0,0
+247,Best Western Premier Op ra Li ge,0,6,0,0,0,0,0
+248,Best Western Premier Op ra Li ge,0,0,52,0,0,0,0
+249,Best Western Premier Op ra Li ge,0,0,0,10,0,0,0
+250,Best Western Premier Op ra Li ge,0,0,0,0,4,0,0
+251,Best Western Premier Op ra Li ge,0,0,0,0,0,22,0
+252,Best Western Premier Op ra Li ge,0,0,0,0,0,0,9
+253,Best Western Premier Op ra Opal,42,0,0,0,0,0,0
+254,Best Western Premier Op ra Opal,0,4,0,0,0,0,0
+255,Best Western Premier Op ra Opal,0,0,46,0,0,0,0
+256,Best Western Premier Op ra Opal,0,0,0,3,0,0,0
+257,Best Western Premier Op ra Opal,0,0,0,0,0,45,0
+258,Best Western Premier Op ra Opal,0,0,0,0,0,0,5
+259,Best Western Premier Trocadero La Tour,15,0,0,0,0,0,0
+260,Best Western Premier Trocadero La Tour,0,1,0,0,0,0,0
+261,Best Western Premier Trocadero La Tour,0,0,9,0,0,0,0
+262,Best Western Premier Trocadero La Tour,0,0,0,0,0,12,0
+263,Best Western Premier Trocadero La Tour,0,0,0,0,0,0,3
+264,Best Western S vres Montparnasse,42,0,0,0,0,0,0
+265,Best Western S vres Montparnasse,0,6,0,0,0,0,0
+266,Best Western S vres Montparnasse,0,0,59,0,0,0,0
+267,Best Western S vres Montparnasse,0,0,0,2,0,0,0
+268,Best Western S vres Montparnasse,0,0,0,0,0,35,0
+269,Best Western S vres Montparnasse,0,0,0,0,0,0,26
+270,Best Western Tour Eiffel Invalides,21,0,0,0,0,0,0
+271,Best Western Tour Eiffel Invalides,0,3,0,0,0,0,0
+272,Best Western Tour Eiffel Invalides,0,0,25,0,0,0,0
+273,Best Western Tour Eiffel Invalides,0,0,0,3,0,0,0
+274,Best Western Tour Eiffel Invalides,0,0,0,0,0,23,0
+275,Best Western Tour Eiffel Invalides,0,0,0,0,0,0,5
+276,BoB Hotel by Elegancia,27,0,0,0,0,0,0
+277,BoB Hotel by Elegancia,0,1,0,0,0,0,0
+278,BoB Hotel by Elegancia,0,0,26,0,0,0,0
+279,BoB Hotel by Elegancia,0,0,0,4,0,0,0
+280,BoB Hotel by Elegancia,0,0,0,0,6,0,0
+281,BoB Hotel by Elegancia,0,0,0,0,0,11,0
+282,BoB Hotel by Elegancia,0,0,0,0,0,0,11
+283,Boutique H tel Konfidentiel,13,0,0,0,0,0,0
+284,Boutique H tel Konfidentiel,0,0,6,0,0,0,0
+285,Boutique H tel Konfidentiel,0,0,0,0,0,5,0
+286,Boutique H tel Konfidentiel,0,0,0,0,0,0,1
+287,Bradford Elys es Astotel,46,0,0,0,0,0,0
+288,Bradford Elys es Astotel,0,2,0,0,0,0,0
+289,Bradford Elys es Astotel,0,0,34,0,0,0,0
+290,Bradford Elys es Astotel,0,0,0,7,0,0,0
+291,Bradford Elys es Astotel,0,0,0,0,0,25,0
+292,Bradford Elys es Astotel,0,0,0,0,0,0,12
+293,Buddha Bar Hotel Paris,28,0,0,0,0,0,0
+294,Buddha Bar Hotel Paris,0,0,42,0,0,0,0
+295,Buddha Bar Hotel Paris,0,0,0,10,0,0,0
+296,Buddha Bar Hotel Paris,0,0,0,0,3,0,0
+297,Buddha Bar Hotel Paris,0,0,0,0,0,24,0
+298,Buddha Bar Hotel Paris,0,0,0,0,0,0,8
+299,COQ Hotel Paris,99,0,0,0,0,0,0
+300,COQ Hotel Paris,0,11,0,0,0,0,0
+301,COQ Hotel Paris,0,0,82,0,0,0,0
+302,COQ Hotel Paris,0,0,0,9,0,0,0
+303,COQ Hotel Paris,0,0,0,0,32,0,0
+304,COQ Hotel Paris,0,0,0,0,0,43,0
+305,COQ Hotel Paris,0,0,0,0,0,0,60
+306,Castille Paris Starhotels Collezione,30,0,0,0,0,0,0
+307,Castille Paris Starhotels Collezione,0,2,0,0,0,0,0
+308,Castille Paris Starhotels Collezione,0,0,56,0,0,0,0
+309,Castille Paris Starhotels Collezione,0,0,0,16,0,0,0
+310,Castille Paris Starhotels Collezione,0,0,0,0,1,0,0
+311,Castille Paris Starhotels Collezione,0,0,0,0,0,59,0
+312,Castille Paris Starhotels Collezione,0,0,0,0,0,0,12
+313,Chambiges Elys es,61,0,0,0,0,0,0
+314,Chambiges Elys es,0,5,0,0,0,0,0
+315,Chambiges Elys es,0,0,68,0,0,0,0
+316,Chambiges Elys es,0,0,0,7,0,0,0
+317,Chambiges Elys es,0,0,0,0,0,65,0
+318,Chambiges Elys es,0,0,0,0,0,0,34
+319,Chateau Frontenac,46,0,0,0,0,0,0
+320,Chateau Frontenac,0,1,0,0,0,0,0
+321,Chateau Frontenac,0,0,56,0,0,0,0
+322,Chateau Frontenac,0,0,0,7,0,0,0
+323,Chateau Frontenac,0,0,0,0,1,0,0
+324,Chateau Frontenac,0,0,0,0,0,64,0
+325,Chateau Frontenac,0,0,0,0,0,0,18
+326,Crowne Plaza Paris R publique,40,0,0,0,0,0,0
+327,Crowne Plaza Paris R publique,0,2,0,0,0,0,0
+328,Crowne Plaza Paris R publique,0,0,44,0,0,0,0
+329,Crowne Plaza Paris R publique,0,0,0,3,0,0,0
+330,Crowne Plaza Paris R publique,0,0,0,0,0,67,0
+331,Crowne Plaza Paris R publique,0,0,0,0,0,0,25
+332,D clic Hotel,26,0,0,0,0,0,0
+333,D clic Hotel,0,3,0,0,0,0,0
+334,D clic Hotel,0,0,22,0,0,0,0
+335,D clic Hotel,0,0,0,3,0,0,0
+336,D clic Hotel,0,0,0,0,6,0,0
+337,D clic Hotel,0,0,0,0,0,15,0
+338,D clic Hotel,0,0,0,0,0,0,1
+339,Derby Alma,59,0,0,0,0,0,0
+340,Derby Alma,0,3,0,0,0,0,0
+341,Derby Alma,0,0,45,0,0,0,0
+342,Derby Alma,0,0,0,7,0,0,0
+343,Derby Alma,0,0,0,0,2,0,0
+344,Derby Alma,0,0,0,0,0,48,0
+345,Derby Alma,0,0,0,0,0,0,12
+346,Drawing Hotel,2,0,0,0,0,0,0
+347,Drawing Hotel,0,0,4,0,0,0,0
+348,Drawing Hotel,0,0,0,1,0,0,0
+349,Drawing Hotel,0,0,0,0,1,0,0
+350,Drawing Hotel,0,0,0,0,0,8,0
+351,Drawing Hotel,0,0,0,0,0,0,1
+352,Duret,9,0,0,0,0,0,0
+353,Duret,0,1,0,0,0,0,0
+354,Duret,0,0,12,0,0,0,0
+355,Duret,0,0,0,2,0,0,0
+356,Duret,0,0,0,0,1,0,0
+357,Duret,0,0,0,0,0,13,0
+358,Duret,0,0,0,0,0,0,3
+359,Edouard 7 Paris Op ra,54,0,0,0,0,0,0
+360,Edouard 7 Paris Op ra,0,5,0,0,0,0,0
+361,Edouard 7 Paris Op ra,0,0,98,0,0,0,0
+362,Edouard 7 Paris Op ra,0,0,0,10,0,0,0
+363,Edouard 7 Paris Op ra,0,0,0,0,0,66,0
+364,Edouard 7 Paris Op ra,0,0,0,0,0,0,24
+365,Eiffel Trocad ro,32,0,0,0,0,0,0
+366,Eiffel Trocad ro,0,2,0,0,0,0,0
+367,Eiffel Trocad ro,0,0,31,0,0,0,0
+368,Eiffel Trocad ro,0,0,0,4,0,0,0
+369,Eiffel Trocad ro,0,0,0,0,2,0,0
+370,Eiffel Trocad ro,0,0,0,0,0,38,0
+371,Eiffel Trocad ro,0,0,0,0,0,0,6
+372,Elys es R gencia,66,0,0,0,0,0,0
+373,Elys es R gencia,0,4,0,0,0,0,0
+374,Elys es R gencia,0,0,99,0,0,0,0
+375,Elys es R gencia,0,0,0,9,0,0,0
+376,Elys es R gencia,0,0,0,0,0,110,0
+377,Elys es R gencia,0,0,0,0,0,0,17
+378,Etoile Saint Ferdinand,24,0,0,0,0,0,0
+379,Etoile Saint Ferdinand,0,2,0,0,0,0,0
+380,Etoile Saint Ferdinand,0,0,43,0,0,0,0
+381,Etoile Saint Ferdinand,0,0,0,1,0,0,0
+382,Etoile Saint Ferdinand,0,0,0,0,0,28,0
+383,Etoile Saint Ferdinand,0,0,0,0,0,0,9
+384,First Hotel Paris Tour Eiffel,18,0,0,0,0,0,0
+385,First Hotel Paris Tour Eiffel,0,1,0,0,0,0,0
+386,First Hotel Paris Tour Eiffel,0,0,26,0,0,0,0
+387,First Hotel Paris Tour Eiffel,0,0,0,4,0,0,0
+388,First Hotel Paris Tour Eiffel,0,0,0,0,0,28,0
+389,First Hotel Paris Tour Eiffel,0,0,0,0,0,0,9
+390,Forest Hill Paris la Villette,68,0,0,0,0,0,0
+391,Forest Hill Paris la Villette,0,14,0,0,0,0,0
+392,Forest Hill Paris la Villette,0,0,48,0,0,0,0
+393,Forest Hill Paris la Villette,0,0,0,5,0,0,0
+394,Forest Hill Paris la Villette,0,0,0,0,0,40,0
+395,Forest Hill Paris la Villette,0,0,0,0,0,0,12
+396,Four Seasons Hotel George V Paris,23,0,0,0,0,0,0
+397,Four Seasons Hotel George V Paris,0,0,38,0,0,0,0
+398,Four Seasons Hotel George V Paris,0,0,0,22,0,0,0
+399,Four Seasons Hotel George V Paris,0,0,0,0,0,10,0
+400,Four Seasons Hotel George V Paris,0,0,0,0,0,0,2
+401,Francois 1er,23,0,0,0,0,0,0
+402,Francois 1er,0,1,0,0,0,0,0
+403,Francois 1er,0,0,42,0,0,0,0
+404,Francois 1er,0,0,0,8,0,0,0
+405,Francois 1er,0,0,0,0,0,37,0
+406,Francois 1er,0,0,0,0,0,0,27
+407,Franklin Roosevelt,26,0,0,0,0,0,0
+408,Franklin Roosevelt,0,2,0,0,0,0,0
+409,Franklin Roosevelt,0,0,23,0,0,0,0
+410,Franklin Roosevelt,0,0,0,2,0,0,0
+411,Franklin Roosevelt,0,0,0,0,0,32,0
+412,Franklin Roosevelt,0,0,0,0,0,0,7
+413,Garden Elys e,15,0,0,0,0,0,0
+414,Garden Elys e,0,1,0,0,0,0,0
+415,Garden Elys e,0,0,20,0,0,0,0
+416,Garden Elys e,0,0,0,3,0,0,0
+417,Garden Elys e,0,0,0,0,0,18,0
+418,Garden Elys e,0,0,0,0,0,0,7
+419,Gardette Park Hotel,60,0,0,0,0,0,0
+420,Gardette Park Hotel,0,7,0,0,0,0,0
+421,Gardette Park Hotel,0,0,53,0,0,0,0
+422,Gardette Park Hotel,0,0,0,3,0,0,0
+423,Gardette Park Hotel,0,0,0,0,3,0,0
+424,Gardette Park Hotel,0,0,0,0,0,53,0
+425,Gardette Park Hotel,0,0,0,0,0,0,10
+426,Golden Tulip Bercy Gare de Lyon 209,55,0,0,0,0,0,0
+427,Golden Tulip Bercy Gare de Lyon 209,0,6,0,0,0,0,0
+428,Golden Tulip Bercy Gare de Lyon 209,0,0,69,0,0,0,0
+429,Golden Tulip Bercy Gare de Lyon 209,0,0,0,5,0,0,0
+430,Golden Tulip Bercy Gare de Lyon 209,0,0,0,0,3,0,0
+431,Golden Tulip Bercy Gare de Lyon 209,0,0,0,0,0,32,0
+432,Golden Tulip Bercy Gare de Lyon 209,0,0,0,0,0,0,5
+433,Golden Tulip Opera de Noailles,56,0,0,0,0,0,0
+434,Golden Tulip Opera de Noailles,0,9,0,0,0,0,0
+435,Golden Tulip Opera de Noailles,0,0,72,0,0,0,0
+436,Golden Tulip Opera de Noailles,0,0,0,8,0,0,0
+437,Golden Tulip Opera de Noailles,0,0,0,0,2,0,0
+438,Golden Tulip Opera de Noailles,0,0,0,0,0,64,0
+439,Golden Tulip Opera de Noailles,0,0,0,0,0,0,33
+440,Golden Tulip Washington Opera,29,0,0,0,0,0,0
+441,Golden Tulip Washington Opera,0,2,0,0,0,0,0
+442,Golden Tulip Washington Opera,0,0,29,0,0,0,0
+443,Golden Tulip Washington Opera,0,0,0,8,0,0,0
+444,Golden Tulip Washington Opera,0,0,0,0,0,49,0
+445,Golden Tulip Washington Opera,0,0,0,0,0,0,3
+446,Goralska R sidences H tel Paris Bastille,18,0,0,0,0,0,0
+447,Goralska R sidences H tel Paris Bastille,0,0,13,0,0,0,0
+448,Goralska R sidences H tel Paris Bastille,0,0,0,2,0,0,0
+449,Goralska R sidences H tel Paris Bastille,0,0,0,0,2,0,0
+450,Goralska R sidences H tel Paris Bastille,0,0,0,0,0,4,0
+451,Goralska R sidences H tel Paris Bastille,0,0,0,0,0,0,1
+452,Grand H tel Du Palais Royal,52,0,0,0,0,0,0
+453,Grand H tel Du Palais Royal,0,5,0,0,0,0,0
+454,Grand H tel Du Palais Royal,0,0,110,0,0,0,0
+455,Grand H tel Du Palais Royal,0,0,0,23,0,0,0
+456,Grand H tel Du Palais Royal,0,0,0,0,1,0,0
+457,Grand H tel Du Palais Royal,0,0,0,0,0,72,0
+458,Grand H tel Du Palais Royal,0,0,0,0,0,0,16
+459,Grand Hotel Saint Michel,42,0,0,0,0,0,0
+460,Grand Hotel Saint Michel,0,4,0,0,0,0,0
+461,Grand Hotel Saint Michel,0,0,77,0,0,0,0
+462,Grand Hotel Saint Michel,0,0,0,5,0,0,0
+463,Grand Hotel Saint Michel,0,0,0,0,0,54,0
+464,Grand Hotel Saint Michel,0,0,0,0,0,0,34
+465,Grand Pigalle Hotel,54,0,0,0,0,0,0
+466,Grand Pigalle Hotel,0,1,0,0,0,0,0
+467,Grand Pigalle Hotel,0,0,58,0,0,0,0
+468,Grand Pigalle Hotel,0,0,0,5,0,0,0
+469,Grand Pigalle Hotel,0,0,0,0,4,0,0
+470,Grand Pigalle Hotel,0,0,0,0,0,33,0
+471,Grand Pigalle Hotel,0,0,0,0,0,0,21
+472,H tel Ad le Jules,31,0,0,0,0,0,0
+473,H tel Ad le Jules,0,4,0,0,0,0,0
+474,H tel Ad le Jules,0,0,44,0,0,0,0
+475,H tel Ad le Jules,0,0,0,3,0,0,0
+476,H tel Ad le Jules,0,0,0,0,2,0,0
+477,H tel Ad le Jules,0,0,0,0,0,20,0
+478,H tel Ad le Jules,0,0,0,0,0,0,8
+479,H tel Aiglon Esprit de France,87,0,0,0,0,0,0
+480,H tel Aiglon Esprit de France,0,5,0,0,0,0,0
+481,H tel Aiglon Esprit de France,0,0,76,0,0,0,0
+482,H tel Aiglon Esprit de France,0,0,0,10,0,0,0
+483,H tel Aiglon Esprit de France,0,0,0,0,4,0,0
+484,H tel Aiglon Esprit de France,0,0,0,0,0,64,0
+485,H tel Aiglon Esprit de France,0,0,0,0,0,0,25
+486,H tel Amastan Paris,14,0,0,0,0,0,0
+487,H tel Amastan Paris,0,1,0,0,0,0,0
+488,H tel Amastan Paris,0,0,18,0,0,0,0
+489,H tel Amastan Paris,0,0,0,1,0,0,0
+490,H tel Amastan Paris,0,0,0,0,0,3,0
+491,H tel Amastan Paris,0,0,0,0,0,0,5
+492,H tel Arvor Saint Georges,34,0,0,0,0,0,0
+493,H tel Arvor Saint Georges,0,3,0,0,0,0,0
+494,H tel Arvor Saint Georges,0,0,48,0,0,0,0
+495,H tel Arvor Saint Georges,0,0,0,1,0,0,0
+496,H tel Arvor Saint Georges,0,0,0,0,5,0,0
+497,H tel Arvor Saint Georges,0,0,0,0,0,30,0
+498,H tel Arvor Saint Georges,0,0,0,0,0,0,20
+499,H tel Balzac,33,0,0,0,0,0,0
+500,H tel Balzac,0,2,0,0,0,0,0
+501,H tel Balzac,0,0,41,0,0,0,0
+502,H tel Balzac,0,0,0,7,0,0,0
+503,H tel Balzac,0,0,0,0,3,0,0
+504,H tel Balzac,0,0,0,0,0,50,0
+505,H tel Balzac,0,0,0,0,0,0,3
+506,H tel Barri re Le Fouquet s,8,0,0,0,0,0,0
+507,H tel Barri re Le Fouquet s,0,0,7,0,0,0,0
+508,H tel Barri re Le Fouquet s,0,0,0,5,0,0,0
+509,H tel Barri re Le Fouquet s,0,0,0,0,0,6,0
+510,H tel Barri re Le Fouquet s,0,0,0,0,0,0,1
+511,H tel Baume,72,0,0,0,0,0,0
+512,H tel Baume,0,16,0,0,0,0,0
+513,H tel Baume,0,0,91,0,0,0,0
+514,H tel Baume,0,0,0,10,0,0,0
+515,H tel Baume,0,0,0,0,4,0,0
+516,H tel Baume,0,0,0,0,0,62,0
+517,H tel Baume,0,0,0,0,0,0,12
+518,H tel Beauchamps,78,0,0,0,0,0,0
+519,H tel Beauchamps,0,4,0,0,0,0,0
+520,H tel Beauchamps,0,0,80,0,0,0,0
+521,H tel Beauchamps,0,0,0,11,0,0,0
+522,H tel Beauchamps,0,0,0,0,1,0,0
+523,H tel Beauchamps,0,0,0,0,0,103,0
+524,H tel Beauchamps,0,0,0,0,0,0,12
+525,H tel Bedford,121,0,0,0,0,0,0
+526,H tel Bedford,0,11,0,0,0,0,0
+527,H tel Bedford,0,0,128,0,0,0,0
+528,H tel Bedford,0,0,0,17,0,0,0
+529,H tel Bedford,0,0,0,0,0,98,0
+530,H tel Bedford,0,0,0,0,0,0,28
+531,H tel Bel Ami,20,0,0,0,0,0,0
+532,H tel Bel Ami,0,4,0,0,0,0,0
+533,H tel Bel Ami,0,0,43,0,0,0,0
+534,H tel Bel Ami,0,0,0,5,0,0,0
+535,H tel Bel Ami,0,0,0,0,1,0,0
+536,H tel Bel Ami,0,0,0,0,0,33,0
+537,H tel Bel Ami,0,0,0,0,0,0,10
+538,H tel Belloy Saint Germain By Happyculture,17,0,0,0,0,0,0
+539,H tel Belloy Saint Germain By Happyculture,0,0,30,0,0,0,0
+540,H tel Belloy Saint Germain By Happyculture,0,0,0,2,0,0,0
+541,H tel Belloy Saint Germain By Happyculture,0,0,0,0,0,39,0
+542,H tel Belloy Saint Germain By Happyculture,0,0,0,0,0,0,6
+543,H tel Bourgogne Montana by MH,49,0,0,0,0,0,0
+544,H tel Bourgogne Montana by MH,0,3,0,0,0,0,0
+545,H tel Bourgogne Montana by MH,0,0,56,0,0,0,0
+546,H tel Bourgogne Montana by MH,0,0,0,6,0,0,0
+547,H tel Bourgogne Montana by MH,0,0,0,0,2,0,0
+548,H tel Bourgogne Montana by MH,0,0,0,0,0,49,0
+549,H tel Bourgogne Montana by MH,0,0,0,0,0,0,18
+550,H tel Brighton Esprit de France,121,0,0,0,0,0,0
+551,H tel Brighton Esprit de France,0,7,0,0,0,0,0
+552,H tel Brighton Esprit de France,0,0,120,0,0,0,0
+553,H tel Brighton Esprit de France,0,0,0,18,0,0,0
+554,H tel Brighton Esprit de France,0,0,0,0,1,0,0
+555,H tel Brighton Esprit de France,0,0,0,0,0,112,0
+556,H tel Brighton Esprit de France,0,0,0,0,0,0,31
+557,H tel California Champs Elys es,48,0,0,0,0,0,0
+558,H tel California Champs Elys es,0,6,0,0,0,0,0
+559,H tel California Champs Elys es,0,0,74,0,0,0,0
+560,H tel California Champs Elys es,0,0,0,7,0,0,0
+561,H tel California Champs Elys es,0,0,0,0,1,0,0
+562,H tel California Champs Elys es,0,0,0,0,0,63,0
+563,H tel California Champs Elys es,0,0,0,0,0,0,19
+564,H tel Champs lys es Plaza,26,0,0,0,0,0,0
+565,H tel Champs lys es Plaza,0,1,0,0,0,0,0
+566,H tel Champs lys es Plaza,0,0,30,0,0,0,0
+567,H tel Champs lys es Plaza,0,0,0,7,0,0,0
+568,H tel Champs lys es Plaza,0,0,0,0,1,0,0
+569,H tel Champs lys es Plaza,0,0,0,0,0,14,0
+570,H tel Champs lys es Plaza,0,0,0,0,0,0,4
+571,H tel Chaplain Paris Rive Gauche,63,0,0,0,0,0,0
+572,H tel Chaplain Paris Rive Gauche,0,6,0,0,0,0,0
+573,H tel Chaplain Paris Rive Gauche,0,0,52,0,0,0,0
+574,H tel Chaplain Paris Rive Gauche,0,0,0,2,0,0,0
+575,H tel Chaplain Paris Rive Gauche,0,0,0,0,0,47,0
+576,H tel Chaplain Paris Rive Gauche,0,0,0,0,0,0,26
+577,H tel Concorde Montparnasse,172,0,0,0,0,0,0
+578,H tel Concorde Montparnasse,0,18,0,0,0,0,0
+579,H tel Concorde Montparnasse,0,0,128,0,0,0,0
+580,H tel Concorde Montparnasse,0,0,0,22,0,0,0
+581,H tel Concorde Montparnasse,0,0,0,0,2,0,0
+582,H tel Concorde Montparnasse,0,0,0,0,0,160,0
+583,H tel Concorde Montparnasse,0,0,0,0,0,0,58
+584,H tel Crayon Rouge by Elegancia,29,0,0,0,0,0,0
+585,H tel Crayon Rouge by Elegancia,0,1,0,0,0,0,0
+586,H tel Crayon Rouge by Elegancia,0,0,39,0,0,0,0
+587,H tel Crayon Rouge by Elegancia,0,0,0,5,0,0,0
+588,H tel Crayon Rouge by Elegancia,0,0,0,0,5,0,0
+589,H tel Crayon Rouge by Elegancia,0,0,0,0,0,38,0
+590,H tel Crayon Rouge by Elegancia,0,0,0,0,0,0,15
+591,H tel Cristal Champs Elys es,26,0,0,0,0,0,0
+592,H tel Cristal Champs Elys es,0,3,0,0,0,0,0
+593,H tel Cristal Champs Elys es,0,0,33,0,0,0,0
+594,H tel Cristal Champs Elys es,0,0,0,6,0,0,0
+595,H tel Cristal Champs Elys es,0,0,0,0,1,0,0
+596,H tel Cristal Champs Elys es,0,0,0,0,0,39,0
+597,H tel Cristal Champs Elys es,0,0,0,0,0,0,3
+598,H tel D Aubusson,105,0,0,0,0,0,0
+599,H tel D Aubusson,0,4,0,0,0,0,0
+600,H tel D Aubusson,0,0,144,0,0,0,0
+601,H tel D Aubusson,0,0,0,35,0,0,0
+602,H tel D Aubusson,0,0,0,0,1,0,0
+603,H tel D Aubusson,0,0,0,0,0,94,0
+604,H tel D Aubusson,0,0,0,0,0,0,21
+605,H tel Da Vinci Spa,40,0,0,0,0,0,0
+606,H tel Da Vinci Spa,0,2,0,0,0,0,0
+607,H tel Da Vinci Spa,0,0,82,0,0,0,0
+608,H tel Da Vinci Spa,0,0,0,11,0,0,0
+609,H tel Da Vinci Spa,0,0,0,0,1,0,0
+610,H tel Da Vinci Spa,0,0,0,0,0,53,0
+611,H tel Da Vinci Spa,0,0,0,0,0,0,11
+612,H tel De Buci by MH,9,0,0,0,0,0,0
+613,H tel De Buci by MH,0,0,19,0,0,0,0
+614,H tel De Buci by MH,0,0,0,3,0,0,0
+615,H tel De Buci by MH,0,0,0,0,1,0,0
+616,H tel De Buci by MH,0,0,0,0,0,30,0
+617,H tel De Buci by MH,0,0,0,0,0,0,9
+618,H tel De Castiglione,83,0,0,0,0,0,0
+619,H tel De Castiglione,0,6,0,0,0,0,0
+620,H tel De Castiglione,0,0,37,0,0,0,0
+621,H tel De Castiglione,0,0,0,2,0,0,0
+622,H tel De Castiglione,0,0,0,0,0,67,0
+623,H tel De Castiglione,0,0,0,0,0,0,17
+624,H tel De Sers Champs Elys es Paris,25,0,0,0,0,0,0
+625,H tel De Sers Champs Elys es Paris,0,2,0,0,0,0,0
+626,H tel De Sers Champs Elys es Paris,0,0,29,0,0,0,0
+627,H tel De Sers Champs Elys es Paris,0,0,0,5,0,0,0
+628,H tel De Sers Champs Elys es Paris,0,0,0,0,3,0,0
+629,H tel De Sers Champs Elys es Paris,0,0,0,0,0,20,0
+630,H tel De Sers Champs Elys es Paris,0,0,0,0,0,0,15
+631,H tel De Vend me,17,0,0,0,0,0,0
+632,H tel De Vend me,0,2,0,0,0,0,0
+633,H tel De Vend me,0,0,25,0,0,0,0
+634,H tel De Vend me,0,0,0,5,0,0,0
+635,H tel De Vend me,0,0,0,0,0,31,0
+636,H tel De Vend me,0,0,0,0,0,0,8
+637,H tel Diva Opera,81,0,0,0,0,0,0
+638,H tel Diva Opera,0,8,0,0,0,0,0
+639,H tel Diva Opera,0,0,80,0,0,0,0
+640,H tel Diva Opera,0,0,0,7,0,0,0
+641,H tel Diva Opera,0,0,0,0,0,52,0
+642,H tel Diva Opera,0,0,0,0,0,0,6
+643,H tel Du Jeu De Paume,32,0,0,0,0,0,0
+644,H tel Du Jeu De Paume,0,1,0,0,0,0,0
+645,H tel Du Jeu De Paume,0,0,45,0,0,0,0
+646,H tel Du Jeu De Paume,0,0,0,1,0,0,0
+647,H tel Du Jeu De Paume,0,0,0,0,3,0,0
+648,H tel Du Jeu De Paume,0,0,0,0,0,53,0
+649,H tel Du Jeu De Paume,0,0,0,0,0,0,7
+650,H tel Duc De St Simon,32,0,0,0,0,0,0
+651,H tel Duc De St Simon,0,0,40,0,0,0,0
+652,H tel Duc De St Simon,0,0,0,7,0,0,0
+653,H tel Duc De St Simon,0,0,0,0,1,0,0
+654,H tel Duc De St Simon,0,0,0,0,0,28,0
+655,H tel Duc De St Simon,0,0,0,0,0,0,19
+656,H tel Duo,60,0,0,0,0,0,0
+657,H tel Duo,0,2,0,0,0,0,0
+658,H tel Duo,0,0,85,0,0,0,0
+659,H tel Duo,0,0,0,8,0,0,0
+660,H tel Duo,0,0,0,0,3,0,0
+661,H tel Duo,0,0,0,0,0,94,0
+662,H tel Duo,0,0,0,0,0,0,14
+663,H tel Elysees Mermoz,25,0,0,0,0,0,0
+664,H tel Elysees Mermoz,0,7,0,0,0,0,0
+665,H tel Elysees Mermoz,0,0,39,0,0,0,0
+666,H tel Elysees Mermoz,0,0,0,4,0,0,0
+667,H tel Elysees Mermoz,0,0,0,0,1,0,0
+668,H tel Elysees Mermoz,0,0,0,0,0,43,0
+669,H tel Elysees Mermoz,0,0,0,0,0,0,11
+670,H tel Etoile Saint Honor by Happyculture,55,0,0,0,0,0,0
+671,H tel Etoile Saint Honor by Happyculture,0,2,0,0,0,0,0
+672,H tel Etoile Saint Honor by Happyculture,0,0,71,0,0,0,0
+673,H tel Etoile Saint Honor by Happyculture,0,0,0,7,0,0,0
+674,H tel Etoile Saint Honor by Happyculture,0,0,0,0,2,0,0
+675,H tel Etoile Saint Honor by Happyculture,0,0,0,0,0,47,0
+676,H tel Etoile Saint Honor by Happyculture,0,0,0,0,0,0,15
+677,H tel Exquis by Elegancia,64,0,0,0,0,0,0
+678,H tel Exquis by Elegancia,0,1,0,0,0,0,0
+679,H tel Exquis by Elegancia,0,0,66,0,0,0,0
+680,H tel Exquis by Elegancia,0,0,0,2,0,0,0
+681,H tel Exquis by Elegancia,0,0,0,0,15,0,0
+682,H tel Exquis by Elegancia,0,0,0,0,0,37,0
+683,H tel Exquis by Elegancia,0,0,0,0,0,0,11
+684,H tel F licien by Elegancia,18,0,0,0,0,0,0
+685,H tel F licien by Elegancia,0,0,26,0,0,0,0
+686,H tel F licien by Elegancia,0,0,0,5,0,0,0
+687,H tel F licien by Elegancia,0,0,0,0,2,0,0
+688,H tel F licien by Elegancia,0,0,0,0,0,11,0
+689,H tel F licien by Elegancia,0,0,0,0,0,0,8
+690,H tel Fabric,42,0,0,0,0,0,0
+691,H tel Fabric,0,4,0,0,0,0,0
+692,H tel Fabric,0,0,47,0,0,0,0
+693,H tel Fabric,0,0,0,5,0,0,0
+694,H tel Fabric,0,0,0,0,6,0,0
+695,H tel Fabric,0,0,0,0,0,15,0
+696,H tel Fabric,0,0,0,0,0,0,16
+697,H tel France d Antin Op ra,11,0,0,0,0,0,0
+698,H tel France d Antin Op ra,0,0,18,0,0,0,0
+699,H tel France d Antin Op ra,0,0,0,1,0,0,0
+700,H tel France d Antin Op ra,0,0,0,0,0,17,0
+701,H tel France d Antin Op ra,0,0,0,0,0,0,6
+702,H tel Gustave,75,0,0,0,0,0,0
+703,H tel Gustave,0,5,0,0,0,0,0
+704,H tel Gustave,0,0,63,0,0,0,0
+705,H tel Gustave,0,0,0,5,0,0,0
+706,H tel Gustave,0,0,0,0,1,0,0
+707,H tel Gustave,0,0,0,0,0,48,0
+708,H tel Gustave,0,0,0,0,0,0,5
+709,H tel Hor,115,0,0,0,0,0,0
+710,H tel Hor,0,21,0,0,0,0,0
+711,H tel Hor,0,0,160,0,0,0,0
+712,H tel Hor,0,0,0,9,0,0,0
+713,H tel Hor,0,0,0,0,1,0,0
+714,H tel Hor,0,0,0,0,0,75,0
+715,H tel Hor,0,0,0,0,0,0,32
+716,H tel Horset Op ra Best Western Premier Collection,67,0,0,0,0,0,0
+717,H tel Horset Op ra Best Western Premier Collection,0,6,0,0,0,0,0
+718,H tel Horset Op ra Best Western Premier Collection,0,0,68,0,0,0,0
+719,H tel Horset Op ra Best Western Premier Collection,0,0,0,4,0,0,0
+720,H tel Horset Op ra Best Western Premier Collection,0,0,0,0,1,0,0
+721,H tel Horset Op ra Best Western Premier Collection,0,0,0,0,0,67,0
+722,H tel Horset Op ra Best Western Premier Collection,0,0,0,0,0,0,44
+723,H tel Jos phine by Happyculture,21,0,0,0,0,0,0
+724,H tel Jos phine by Happyculture,0,3,0,0,0,0,0
+725,H tel Jos phine by Happyculture,0,0,33,0,0,0,0
+726,H tel Jos phine by Happyculture,0,0,0,1,0,0,0
+727,H tel Jos phine by Happyculture,0,0,0,0,2,0,0
+728,H tel Jos phine by Happyculture,0,0,0,0,0,21,0
+729,H tel Jos phine by Happyculture,0,0,0,0,0,0,19
+730,H tel Juliana Paris,56,0,0,0,0,0,0
+731,H tel Juliana Paris,0,0,56,0,0,0,0
+732,H tel Juliana Paris,0,0,0,18,0,0,0
+733,H tel Juliana Paris,0,0,0,0,5,0,0
+734,H tel Juliana Paris,0,0,0,0,0,56,0
+735,H tel Juliana Paris,0,0,0,0,0,0,22
+736,H tel Keppler,26,0,0,0,0,0,0
+737,H tel Keppler,0,2,0,0,0,0,0
+738,H tel Keppler,0,0,43,0,0,0,0
+739,H tel Keppler,0,0,0,3,0,0,0
+740,H tel Keppler,0,0,0,0,5,0,0
+741,H tel Keppler,0,0,0,0,0,23,0
+742,H tel Keppler,0,0,0,0,0,0,7
+743,H tel L Echiquier Op ra Paris MGallery by Sofitel,58,0,0,0,0,0,0
+744,H tel L Echiquier Op ra Paris MGallery by Sofitel,0,6,0,0,0,0,0
+745,H tel L Echiquier Op ra Paris MGallery by Sofitel,0,0,75,0,0,0,0
+746,H tel L Echiquier Op ra Paris MGallery by Sofitel,0,0,0,10,0,0,0
+747,H tel L Echiquier Op ra Paris MGallery by Sofitel,0,0,0,0,2,0,0
+748,H tel L Echiquier Op ra Paris MGallery by Sofitel,0,0,0,0,0,39,0
+749,H tel L Echiquier Op ra Paris MGallery by Sofitel,0,0,0,0,0,0,37
+750,H tel La Comtesse by Elegancia,48,0,0,0,0,0,0
+751,H tel La Comtesse by Elegancia,0,3,0,0,0,0,0
+752,H tel La Comtesse by Elegancia,0,0,41,0,0,0,0
+753,H tel La Comtesse by Elegancia,0,0,0,5,0,0,0
+754,H tel La Comtesse by Elegancia,0,0,0,0,2,0,0
+755,H tel La Comtesse by Elegancia,0,0,0,0,0,50,0
+756,H tel La Comtesse by Elegancia,0,0,0,0,0,0,14
+757,H tel La Parizienne by Elegancia,38,0,0,0,0,0,0
+758,H tel La Parizienne by Elegancia,0,2,0,0,0,0,0
+759,H tel La Parizienne by Elegancia,0,0,51,0,0,0,0
+760,H tel La Parizienne by Elegancia,0,0,0,5,0,0,0
+761,H tel La Parizienne by Elegancia,0,0,0,0,2,0,0
+762,H tel La Parizienne by Elegancia,0,0,0,0,0,34,0
+763,H tel La Parizienne by Elegancia,0,0,0,0,0,0,12
+764,H tel Lancaster Paris Champs Elys es,19,0,0,0,0,0,0
+765,H tel Lancaster Paris Champs Elys es,0,3,0,0,0,0,0
+766,H tel Lancaster Paris Champs Elys es,0,0,32,0,0,0,0
+767,H tel Lancaster Paris Champs Elys es,0,0,0,4,0,0,0
+768,H tel Lancaster Paris Champs Elys es,0,0,0,0,1,0,0
+769,H tel Lancaster Paris Champs Elys es,0,0,0,0,0,19,0
+770,H tel Lancaster Paris Champs Elys es,0,0,0,0,0,0,2
+771,H tel Le Bellechasse Saint Germain,23,0,0,0,0,0,0
+772,H tel Le Bellechasse Saint Germain,0,1,0,0,0,0,0
+773,H tel Le Bellechasse Saint Germain,0,0,27,0,0,0,0
+774,H tel Le Bellechasse Saint Germain,0,0,0,2,0,0,0
+775,H tel Le Bellechasse Saint Germain,0,0,0,0,2,0,0
+776,H tel Le Bellechasse Saint Germain,0,0,0,0,0,26,0
+777,H tel Le Bellechasse Saint Germain,0,0,0,0,0,0,12
+778,H tel Le M,42,0,0,0,0,0,0
+779,H tel Le M,0,4,0,0,0,0,0
+780,H tel Le M,0,0,43,0,0,0,0
+781,H tel Le M,0,0,0,2,0,0,0
+782,H tel Le M,0,0,0,0,2,0,0
+783,H tel Le M,0,0,0,0,0,42,0
+784,H tel Le M,0,0,0,0,0,0,9
+785,H tel Le Marianne,16,0,0,0,0,0,0
+786,H tel Le Marianne,0,4,0,0,0,0,0
+787,H tel Le Marianne,0,0,18,0,0,0,0
+788,H tel Le Marianne,0,0,0,2,0,0,0
+789,H tel Le Marianne,0,0,0,0,0,15,0
+790,H tel Le Marianne,0,0,0,0,0,0,4
+791,H tel Le Relais Saint Germain,18,0,0,0,0,0,0
+792,H tel Le Relais Saint Germain,0,0,17,0,0,0,0
+793,H tel Le Relais Saint Germain,0,0,0,4,0,0,0
+794,H tel Le Relais Saint Germain,0,0,0,0,0,14,0
+795,H tel Le Relais Saint Germain,0,0,0,0,0,0,8
+796,H tel Le Royal Monceau Raffles Paris,4,0,0,0,0,0,0
+797,H tel Le Royal Monceau Raffles Paris,0,0,8,0,0,0,0
+798,H tel Le Royal Monceau Raffles Paris,0,0,0,6,0,0,0
+799,H tel Le Royal Monceau Raffles Paris,0,0,0,0,2,0,0
+800,H tel Le Royal Monceau Raffles Paris,0,0,0,0,0,2,0
+801,H tel Le Royal Monceau Raffles Paris,0,0,0,0,0,0,1
+802,H tel Le Walt,25,0,0,0,0,0,0
+803,H tel Le Walt,0,2,0,0,0,0,0
+804,H tel Le Walt,0,0,26,0,0,0,0
+805,H tel Le Walt,0,0,0,6,0,0,0
+806,H tel Le Walt,0,0,0,0,0,24,0
+807,H tel Le Walt,0,0,0,0,0,0,7
+808,H tel Les Dames du Panth on,28,0,0,0,0,0,0
+809,H tel Les Dames du Panth on,0,3,0,0,0,0,0
+810,H tel Les Dames du Panth on,0,0,27,0,0,0,0
+811,H tel Les Dames du Panth on,0,0,0,1,0,0,0
+812,H tel Les Dames du Panth on,0,0,0,0,0,29,0
+813,H tel Les Dames du Panth on,0,0,0,0,0,0,6
+814,H tel Madison by MH,36,0,0,0,0,0,0
+815,H tel Madison by MH,0,2,0,0,0,0,0
+816,H tel Madison by MH,0,0,38,0,0,0,0
+817,H tel Madison by MH,0,0,0,6,0,0,0
+818,H tel Madison by MH,0,0,0,0,0,39,0
+819,H tel Madison by MH,0,0,0,0,0,0,9
+820,H tel Mansart Esprit de France,38,0,0,0,0,0,0
+821,H tel Mansart Esprit de France,0,5,0,0,0,0,0
+822,H tel Mansart Esprit de France,0,0,35,0,0,0,0
+823,H tel Mansart Esprit de France,0,0,0,2,0,0,0
+824,H tel Mansart Esprit de France,0,0,0,0,3,0,0
+825,H tel Mansart Esprit de France,0,0,0,0,0,53,0
+826,H tel Mansart Esprit de France,0,0,0,0,0,0,13
+827,H tel Mathis Elys es,62,0,0,0,0,0,0
+828,H tel Mathis Elys es,0,3,0,0,0,0,0
+829,H tel Mathis Elys es,0,0,87,0,0,0,0
+830,H tel Mathis Elys es,0,0,0,12,0,0,0
+831,H tel Mathis Elys es,0,0,0,0,2,0,0
+832,H tel Mathis Elys es,0,0,0,0,0,75,0
+833,H tel Mathis Elys es,0,0,0,0,0,0,5
+834,H tel Mayfair Paris,12,0,0,0,0,0,0
+835,H tel Mayfair Paris,0,1,0,0,0,0,0
+836,H tel Mayfair Paris,0,0,28,0,0,0,0
+837,H tel Mayfair Paris,0,0,0,2,0,0,0
+838,H tel Mayfair Paris,0,0,0,0,0,26,0
+839,H tel Mayfair Paris,0,0,0,0,0,0,2
+840,H tel Moli re,62,0,0,0,0,0,0
+841,H tel Moli re,0,1,0,0,0,0,0
+842,H tel Moli re,0,0,53,0,0,0,0
+843,H tel Moli re,0,0,0,10,0,0,0
+844,H tel Moli re,0,0,0,0,8,0,0
+845,H tel Moli re,0,0,0,0,0,51,0
+846,H tel Moli re,0,0,0,0,0,0,21
+847,H tel Monna Lisa Champs Elys es,29,0,0,0,0,0,0
+848,H tel Monna Lisa Champs Elys es,0,5,0,0,0,0,0
+849,H tel Monna Lisa Champs Elys es,0,0,41,0,0,0,0
+850,H tel Monna Lisa Champs Elys es,0,0,0,5,0,0,0
+851,H tel Monna Lisa Champs Elys es,0,0,0,0,1,0,0
+852,H tel Monna Lisa Champs Elys es,0,0,0,0,0,29,0
+853,H tel Monna Lisa Champs Elys es,0,0,0,0,0,0,8
+854,H tel Montmartre Mon Amour,26,0,0,0,0,0,0
+855,H tel Montmartre Mon Amour,0,0,16,0,0,0,0
+856,H tel Montmartre Mon Amour,0,0,0,2,0,0,0
+857,H tel Montmartre Mon Amour,0,0,0,0,0,20,0
+858,H tel Montmartre Mon Amour,0,0,0,0,0,0,5
+859,H tel Original Paris,18,0,0,0,0,0,0
+860,H tel Original Paris,0,1,0,0,0,0,0
+861,H tel Original Paris,0,0,11,0,0,0,0
+862,H tel Original Paris,0,0,0,0,3,0,0
+863,H tel Original Paris,0,0,0,0,0,11,0
+864,H tel Original Paris,0,0,0,0,0,0,1
+865,H tel Paris Bastille Boutet MGallery by Sofitel,19,0,0,0,0,0,0
+866,H tel Paris Bastille Boutet MGallery by Sofitel,0,1,0,0,0,0,0
+867,H tel Paris Bastille Boutet MGallery by Sofitel,0,0,21,0,0,0,0
+868,H tel Paris Bastille Boutet MGallery by Sofitel,0,0,0,0,1,0,0
+869,H tel Paris Bastille Boutet MGallery by Sofitel,0,0,0,0,0,4,0
+870,H tel Paris Bastille Boutet MGallery by Sofitel,0,0,0,0,0,0,11
+871,H tel Pont Royal,19,0,0,0,0,0,0
+872,H tel Pont Royal,0,0,25,0,0,0,0
+873,H tel Pont Royal,0,0,0,7,0,0,0
+874,H tel Pont Royal,0,0,0,0,0,30,0
+875,H tel Pont Royal,0,0,0,0,0,0,3
+876,H tel Powers,71,0,0,0,0,0,0
+877,H tel Powers,0,1,0,0,0,0,0
+878,H tel Powers,0,0,79,0,0,0,0
+879,H tel Powers,0,0,0,12,0,0,0
+880,H tel Powers,0,0,0,0,2,0,0
+881,H tel Powers,0,0,0,0,0,81,0
+882,H tel Powers,0,0,0,0,0,0,11
+883,H tel R de Paris Boutique Hotel,60,0,0,0,0,0,0
+884,H tel R de Paris Boutique Hotel,0,6,0,0,0,0,0
+885,H tel R de Paris Boutique Hotel,0,0,45,0,0,0,0
+886,H tel R de Paris Boutique Hotel,0,0,0,9,0,0,0
+887,H tel R de Paris Boutique Hotel,0,0,0,0,11,0,0
+888,H tel R de Paris Boutique Hotel,0,0,0,0,0,28,0
+889,H tel R de Paris Boutique Hotel,0,0,0,0,0,0,12
+890,H tel Raphael,29,0,0,0,0,0,0
+891,H tel Raphael,0,1,0,0,0,0,0
+892,H tel Raphael,0,0,20,0,0,0,0
+893,H tel Raphael,0,0,0,7,0,0,0
+894,H tel Raphael,0,0,0,0,2,0,0
+895,H tel Raphael,0,0,0,0,0,15,0
+896,H tel Raphael,0,0,0,0,0,0,6
+897,H tel Recamier,11,0,0,0,0,0,0
+898,H tel Recamier,0,0,12,0,0,0,0
+899,H tel Recamier,0,0,0,2,0,0,0
+900,H tel Recamier,0,0,0,0,0,15,0
+901,H tel Recamier,0,0,0,0,0,0,3
+902,H tel Regent s Garden,35,0,0,0,0,0,0
+903,H tel Regent s Garden,0,1,0,0,0,0,0
+904,H tel Regent s Garden,0,0,41,0,0,0,0
+905,H tel Regent s Garden,0,0,0,6,0,0,0
+906,H tel Regent s Garden,0,0,0,0,1,0,0
+907,H tel Regent s Garden,0,0,0,0,0,19,0
+908,H tel Regent s Garden,0,0,0,0,0,0,16
+909,H tel Regina,141,0,0,0,0,0,0
+910,H tel Regina,0,2,0,0,0,0,0
+911,H tel Regina,0,0,154,0,0,0,0
+912,H tel Regina,0,0,0,42,0,0,0
+913,H tel Regina,0,0,0,0,3,0,0
+914,H tel Regina,0,0,0,0,0,115,0
+915,H tel Regina,0,0,0,0,0,0,14
+916,H tel Regina Op ra Grands Boulevards,22,0,0,0,0,0,0
+917,H tel Regina Op ra Grands Boulevards,0,2,0,0,0,0,0
+918,H tel Regina Op ra Grands Boulevards,0,0,18,0,0,0,0
+919,H tel Regina Op ra Grands Boulevards,0,0,0,1,0,0,0
+920,H tel Regina Op ra Grands Boulevards,0,0,0,0,0,10,0
+921,H tel Regina Op ra Grands Boulevards,0,0,0,0,0,0,3
+922,H tel Saint Marc,43,0,0,0,0,0,0
+923,H tel Saint Marc,0,2,0,0,0,0,0
+924,H tel Saint Marc,0,0,36,0,0,0,0
+925,H tel Saint Marc,0,0,0,9,0,0,0
+926,H tel Saint Marc,0,0,0,0,2,0,0
+927,H tel Saint Marc,0,0,0,0,0,16,0
+928,H tel Saint Marc,0,0,0,0,0,0,5
+929,H tel Saint Paul Rive Gauche,22,0,0,0,0,0,0
+930,H tel Saint Paul Rive Gauche,0,1,0,0,0,0,0
+931,H tel Saint Paul Rive Gauche,0,0,18,0,0,0,0
+932,H tel Saint Paul Rive Gauche,0,0,0,4,0,0,0
+933,H tel Saint Paul Rive Gauche,0,0,0,0,1,0,0
+934,H tel Saint Paul Rive Gauche,0,0,0,0,0,21,0
+935,H tel Saint Paul Rive Gauche,0,0,0,0,0,0,5
+936,H tel San R gis,21,0,0,0,0,0,0
+937,H tel San R gis,0,0,24,0,0,0,0
+938,H tel San R gis,0,0,0,3,0,0,0
+939,H tel San R gis,0,0,0,0,1,0,0
+940,H tel San R gis,0,0,0,0,0,23,0
+941,H tel San R gis,0,0,0,0,0,0,5
+942,H tel Square Louvois,26,0,0,0,0,0,0
+943,H tel Square Louvois,0,1,0,0,0,0,0
+944,H tel Square Louvois,0,0,33,0,0,0,0
+945,H tel Square Louvois,0,0,0,3,0,0,0
+946,H tel Square Louvois,0,0,0,0,0,19,0
+947,H tel Square Louvois,0,0,0,0,0,0,5
+948,H tel Th r se,29,0,0,0,0,0,0
+949,H tel Th r se,0,5,0,0,0,0,0
+950,H tel Th r se,0,0,67,0,0,0,0
+951,H tel Th r se,0,0,0,7,0,0,0
+952,H tel Th r se,0,0,0,0,2,0,0
+953,H tel Th r se,0,0,0,0,0,55,0
+954,H tel Th r se,0,0,0,0,0,0,12
+955,H tel Thoumieux,19,0,0,0,0,0,0
+956,H tel Thoumieux,0,0,13,0,0,0,0
+957,H tel Thoumieux,0,0,0,5,0,0,0
+958,H tel Thoumieux,0,0,0,0,3,0,0
+959,H tel Thoumieux,0,0,0,0,0,7,0
+960,H tel Thoumieux,0,0,0,0,0,0,1
+961,H tel Vernet,26,0,0,0,0,0,0
+962,H tel Vernet,0,1,0,0,0,0,0
+963,H tel Vernet,0,0,34,0,0,0,0
+964,H tel Vernet,0,0,0,8,0,0,0
+965,H tel Vernet,0,0,0,0,5,0,0
+966,H tel Vernet,0,0,0,0,0,27,0
+967,H tel Vernet,0,0,0,0,0,0,4
+968,H tel Victor Hugo Paris Kl ber,8,0,0,0,0,0,0
+969,H tel Victor Hugo Paris Kl ber,0,0,10,0,0,0,0
+970,H tel Victor Hugo Paris Kl ber,0,0,0,2,0,0,0
+971,H tel Victor Hugo Paris Kl ber,0,0,0,0,0,20,0
+972,H tel Victor Hugo Paris Kl ber,0,0,0,0,0,0,4
+973,H tel Waldorf Trocad ro,18,0,0,0,0,0,0
+974,H tel Waldorf Trocad ro,0,1,0,0,0,0,0
+975,H tel Waldorf Trocad ro,0,0,31,0,0,0,0
+976,H tel Waldorf Trocad ro,0,0,0,2,0,0,0
+977,H tel Waldorf Trocad ro,0,0,0,0,1,0,0
+978,H tel Waldorf Trocad ro,0,0,0,0,0,17,0
+979,H tel Waldorf Trocad ro,0,0,0,0,0,0,6
+980,H tel Westminster,87,0,0,0,0,0,0
+981,H tel Westminster,0,1,0,0,0,0,0
+982,H tel Westminster,0,0,118,0,0,0,0
+983,H tel Westminster,0,0,0,16,0,0,0
+984,H tel Westminster,0,0,0,0,1,0,0
+985,H tel Westminster,0,0,0,0,0,116,0
+986,H tel Westminster,0,0,0,0,0,0,36
+987,H tel de Banville,46,0,0,0,0,0,0
+988,H tel de Banville,0,2,0,0,0,0,0
+989,H tel de Banville,0,0,46,0,0,0,0
+990,H tel de Banville,0,0,0,4,0,0,0
+991,H tel de Banville,0,0,0,0,2,0,0
+992,H tel de Banville,0,0,0,0,0,22,0
+993,H tel de Banville,0,0,0,0,0,0,14
+994,H tel de Jos phine BONAPARTE,29,0,0,0,0,0,0
+995,H tel de Jos phine BONAPARTE,0,1,0,0,0,0,0
+996,H tel de Jos phine BONAPARTE,0,0,36,0,0,0,0
+997,H tel de Jos phine BONAPARTE,0,0,0,4,0,0,0
+998,H tel de Jos phine BONAPARTE,0,0,0,0,3,0,0
+999,H tel de Jos phine BONAPARTE,0,0,0,0,0,30,0
+1000,H tel de Jos phine BONAPARTE,0,0,0,0,0,0,5
+1001,H tel de La Tamise Esprit de France,21,0,0,0,0,0,0
+1002,H tel de La Tamise Esprit de France,0,1,0,0,0,0,0
+1003,H tel de La Tamise Esprit de France,0,0,39,0,0,0,0
+1004,H tel de La Tamise Esprit de France,0,0,0,7,0,0,0
+1005,H tel de La Tamise Esprit de France,0,0,0,0,0,21,0
+1006,H tel de La Tamise Esprit de France,0,0,0,0,0,0,7
+1007,H tel de Lille,44,0,0,0,0,0,0
+1008,H tel de Lille,0,2,0,0,0,0,0
+1009,H tel de Lille,0,0,60,0,0,0,0
+1010,H tel de Lille,0,0,0,6,0,0,0
+1011,H tel de Lille,0,0,0,0,2,0,0
+1012,H tel de Lille,0,0,0,0,0,58,0
+1013,H tel de Lille,0,0,0,0,0,0,9
+1014,H tel de Varenne,30,0,0,0,0,0,0
+1015,H tel de Varenne,0,0,39,0,0,0,0
+1016,H tel de Varenne,0,0,0,4,0,0,0
+1017,H tel de Varenne,0,0,0,0,0,20,0
+1018,H tel de Varenne,0,0,0,0,0,0,5
+1019,H tel de la Bourdonnais,116,0,0,0,0,0,0
+1020,H tel de la Bourdonnais,0,12,0,0,0,0,0
+1021,H tel de la Bourdonnais,0,0,130,0,0,0,0
+1022,H tel de la Bourdonnais,0,0,0,17,0,0,0
+1023,H tel de la Bourdonnais,0,0,0,0,1,0,0
+1024,H tel de la Bourdonnais,0,0,0,0,0,116,0
+1025,H tel de la Bourdonnais,0,0,0,0,0,0,37
+1026,H tel des Academies et des Arts,13,0,0,0,0,0,0
+1027,H tel des Academies et des Arts,0,2,0,0,0,0,0
+1028,H tel des Academies et des Arts,0,0,25,0,0,0,0
+1029,H tel des Academies et des Arts,0,0,0,6,0,0,0
+1030,H tel des Academies et des Arts,0,0,0,0,0,17,0
+1031,H tel des Academies et des Arts,0,0,0,0,0,0,5
+1032,H tel des Champs Elys es,47,0,0,0,0,0,0
+1033,H tel des Champs Elys es,0,2,0,0,0,0,0
+1034,H tel des Champs Elys es,0,0,79,0,0,0,0
+1035,H tel des Champs Elys es,0,0,0,8,0,0,0
+1036,H tel des Champs Elys es,0,0,0,0,1,0,0
+1037,H tel des Champs Elys es,0,0,0,0,0,55,0
+1038,H tel des Champs Elys es,0,0,0,0,0,0,13
+1039,H tel des Ducs D Anjou,26,0,0,0,0,0,0
+1040,H tel des Ducs D Anjou,0,3,0,0,0,0,0
+1041,H tel des Ducs D Anjou,0,0,30,0,0,0,0
+1042,H tel des Ducs D Anjou,0,0,0,2,0,0,0
+1043,H tel des Ducs D Anjou,0,0,0,0,1,0,0
+1044,H tel des Ducs D Anjou,0,0,0,0,0,45,0
+1045,H tel des Ducs D Anjou,0,0,0,0,0,0,9
+1046,H tel du Minist re,74,0,0,0,0,0,0
+1047,H tel du Minist re,0,4,0,0,0,0,0
+1048,H tel du Minist re,0,0,79,0,0,0,0
+1049,H tel du Minist re,0,0,0,5,0,0,0
+1050,H tel du Minist re,0,0,0,0,8,0,0
+1051,H tel du Minist re,0,0,0,0,0,70,0
+1052,H tel du Minist re,0,0,0,0,0,0,51
+1053,Hidden Hotel by Elegancia,28,0,0,0,0,0,0
+1054,Hidden Hotel by Elegancia,0,1,0,0,0,0,0
+1055,Hidden Hotel by Elegancia,0,0,46,0,0,0,0
+1056,Hidden Hotel by Elegancia,0,0,0,6,0,0,0
+1057,Hidden Hotel by Elegancia,0,0,0,0,5,0,0
+1058,Hidden Hotel by Elegancia,0,0,0,0,0,15,0
+1059,Hidden Hotel by Elegancia,0,0,0,0,0,0,11
+1060,Hilton Paris Opera,34,0,0,0,0,0,0
+1061,Hilton Paris Opera,0,3,0,0,0,0,0
+1062,Hilton Paris Opera,0,0,30,0,0,0,0
+1063,Hilton Paris Opera,0,0,0,8,0,0,0
+1064,Hilton Paris Opera,0,0,0,0,1,0,0
+1065,Hilton Paris Opera,0,0,0,0,0,33,0
+1066,Hilton Paris Opera,0,0,0,0,0,0,12
+1067,Holiday Inn Paris Elys es,10,0,0,0,0,0,0
+1068,Holiday Inn Paris Elys es,0,0,20,0,0,0,0
+1069,Holiday Inn Paris Elys es,0,0,0,2,0,0,0
+1070,Holiday Inn Paris Elys es,0,0,0,0,0,16,0
+1071,Holiday Inn Paris Elys es,0,0,0,0,0,0,2
+1072,Holiday Inn Paris Gare Montparnasse,58,0,0,0,0,0,0
+1073,Holiday Inn Paris Gare Montparnasse,0,3,0,0,0,0,0
+1074,Holiday Inn Paris Gare Montparnasse,0,0,61,0,0,0,0
+1075,Holiday Inn Paris Gare Montparnasse,0,0,0,7,0,0,0
+1076,Holiday Inn Paris Gare Montparnasse,0,0,0,0,1,0,0
+1077,Holiday Inn Paris Gare Montparnasse,0,0,0,0,0,80,0
+1078,Holiday Inn Paris Gare Montparnasse,0,0,0,0,0,0,27
+1079,Holiday Inn Paris Gare de Lyon Bastille,107,0,0,0,0,0,0
+1080,Holiday Inn Paris Gare de Lyon Bastille,0,8,0,0,0,0,0
+1081,Holiday Inn Paris Gare de Lyon Bastille,0,0,81,0,0,0,0
+1082,Holiday Inn Paris Gare de Lyon Bastille,0,0,0,6,0,0,0
+1083,Holiday Inn Paris Gare de Lyon Bastille,0,0,0,0,0,105,0
+1084,Holiday Inn Paris Gare de Lyon Bastille,0,0,0,0,0,0,37
+1085,Holiday Inn Paris Gare de l Est,272,0,0,0,0,0,0
+1086,Holiday Inn Paris Gare de l Est,0,35,0,0,0,0,0
+1087,Holiday Inn Paris Gare de l Est,0,0,231,0,0,0,0
+1088,Holiday Inn Paris Gare de l Est,0,0,0,18,0,0,0
+1089,Holiday Inn Paris Gare de l Est,0,0,0,0,15,0,0
+1090,Holiday Inn Paris Gare de l Est,0,0,0,0,0,266,0
+1091,Holiday Inn Paris Gare de l Est,0,0,0,0,0,0,94
+1092,Holiday Inn Paris Montmartre,11,0,0,0,0,0,0
+1093,Holiday Inn Paris Montmartre,0,0,20,0,0,0,0
+1094,Holiday Inn Paris Montmartre,0,0,0,2,0,0,0
+1095,Holiday Inn Paris Montmartre,0,0,0,0,0,18,0
+1096,Holiday Inn Paris Montmartre,0,0,0,0,0,0,6
+1097,Holiday Inn Paris Montparnasse Pasteur,7,0,0,0,0,0,0
+1098,Holiday Inn Paris Montparnasse Pasteur,0,1,0,0,0,0,0
+1099,Holiday Inn Paris Montparnasse Pasteur,0,0,9,0,0,0,0
+1100,Holiday Inn Paris Montparnasse Pasteur,0,0,0,0,0,6,0
+1101,Holiday Inn Paris Montparnasse Pasteur,0,0,0,0,0,0,4
+1102,Holiday Inn Paris Notre Dame,76,0,0,0,0,0,0
+1103,Holiday Inn Paris Notre Dame,0,3,0,0,0,0,0
+1104,Holiday Inn Paris Notre Dame,0,0,67,0,0,0,0
+1105,Holiday Inn Paris Notre Dame,0,0,0,8,0,0,0
+1106,Holiday Inn Paris Notre Dame,0,0,0,0,0,126,0
+1107,Holiday Inn Paris Notre Dame,0,0,0,0,0,0,27
+1108,Holiday Inn Paris Op ra Grands Boulevards,27,0,0,0,0,0,0
+1109,Holiday Inn Paris Op ra Grands Boulevards,0,2,0,0,0,0,0
+1110,Holiday Inn Paris Op ra Grands Boulevards,0,0,23,0,0,0,0
+1111,Holiday Inn Paris Op ra Grands Boulevards,0,0,0,2,0,0,0
+1112,Holiday Inn Paris Op ra Grands Boulevards,0,0,0,0,0,38,0
+1113,Holiday Inn Paris Op ra Grands Boulevards,0,0,0,0,0,0,6
+1114,Holiday Inn Paris Saint Germain des Pr s,63,0,0,0,0,0,0
+1115,Holiday Inn Paris Saint Germain des Pr s,0,4,0,0,0,0,0
+1116,Holiday Inn Paris Saint Germain des Pr s,0,0,73,0,0,0,0
+1117,Holiday Inn Paris Saint Germain des Pr s,0,0,0,3,0,0,0
+1118,Holiday Inn Paris Saint Germain des Pr s,0,0,0,0,1,0,0
+1119,Holiday Inn Paris Saint Germain des Pr s,0,0,0,0,0,67,0
+1120,Holiday Inn Paris Saint Germain des Pr s,0,0,0,0,0,0,34
+1121,Hotel Ares Eiffel,57,0,0,0,0,0,0
+1122,Hotel Ares Eiffel,0,3,0,0,0,0,0
+1123,Hotel Ares Eiffel,0,0,104,0,0,0,0
+1124,Hotel Ares Eiffel,0,0,0,10,0,0,0
+1125,Hotel Ares Eiffel,0,0,0,0,1,0,0
+1126,Hotel Ares Eiffel,0,0,0,0,0,68,0
+1127,Hotel Ares Eiffel,0,0,0,0,0,0,28
+1128,Hotel Astor Saint Honor ,5,0,0,0,0,0,0
+1129,Hotel Astor Saint Honor ,0,0,8,0,0,0,0
+1130,Hotel Astor Saint Honor ,0,0,0,1,0,0,0
+1131,Hotel Astor Saint Honor ,0,0,0,0,0,5,0
+1132,Hotel Astor Saint Honor ,0,0,0,0,0,0,1
+1133,Hotel Astra Opera Astotel,13,0,0,0,0,0,0
+1134,Hotel Astra Opera Astotel,0,2,0,0,0,0,0
+1135,Hotel Astra Opera Astotel,0,0,10,0,0,0,0
+1136,Hotel Astra Opera Astotel,0,0,0,0,0,17,0
+1137,Hotel Astra Opera Astotel,0,0,0,0,0,0,9
+1138,Hotel Atmospheres,47,0,0,0,0,0,0
+1139,Hotel Atmospheres,0,4,0,0,0,0,0
+1140,Hotel Atmospheres,0,0,65,0,0,0,0
+1141,Hotel Atmospheres,0,0,0,4,0,0,0
+1142,Hotel Atmospheres,0,0,0,0,1,0,0
+1143,Hotel Atmospheres,0,0,0,0,0,67,0
+1144,Hotel Atmospheres,0,0,0,0,0,0,10
+1145,Hotel Bachaumont,37,0,0,0,0,0,0
+1146,Hotel Bachaumont,0,4,0,0,0,0,0
+1147,Hotel Bachaumont,0,0,58,0,0,0,0
+1148,Hotel Bachaumont,0,0,0,2,0,0,0
+1149,Hotel Bachaumont,0,0,0,0,9,0,0
+1150,Hotel Bachaumont,0,0,0,0,0,63,0
+1151,Hotel Bachaumont,0,0,0,0,0,0,11
+1152,Hotel Cambon,10,0,0,0,0,0,0
+1153,Hotel Cambon,0,1,0,0,0,0,0
+1154,Hotel Cambon,0,0,15,0,0,0,0
+1155,Hotel Cambon,0,0,0,6,0,0,0
+1156,Hotel Cambon,0,0,0,0,0,17,0
+1157,Hotel Cambon,0,0,0,0,0,0,5
+1158,Hotel Carlton s Montmartre,20,0,0,0,0,0,0
+1159,Hotel Carlton s Montmartre,0,2,0,0,0,0,0
+1160,Hotel Carlton s Montmartre,0,0,20,0,0,0,0
+1161,Hotel Carlton s Montmartre,0,0,0,1,0,0,0
+1162,Hotel Carlton s Montmartre,0,0,0,0,0,24,0
+1163,Hotel Carlton s Montmartre,0,0,0,0,0,0,8
+1164,Hotel Champs Elys es Friedland by Happyculture,26,0,0,0,0,0,0
+1165,Hotel Champs Elys es Friedland by Happyculture,0,6,0,0,0,0,0
+1166,Hotel Champs Elys es Friedland by Happyculture,0,0,48,0,0,0,0
+1167,Hotel Champs Elys es Friedland by Happyculture,0,0,0,5,0,0,0
+1168,Hotel Champs Elys es Friedland by Happyculture,0,0,0,0,0,37,0
+1169,Hotel Champs Elys es Friedland by Happyculture,0,0,0,0,0,0,12
+1170,Hotel Chavanel,6,0,0,0,0,0,0
+1171,Hotel Chavanel,0,0,6,0,0,0,0
+1172,Hotel Chavanel,0,0,0,0,0,5,0
+1173,Hotel Chavanel,0,0,0,0,0,0,2
+1174,Hotel Claridge Paris,48,0,0,0,0,0,0
+1175,Hotel Claridge Paris,0,2,0,0,0,0,0
+1176,Hotel Claridge Paris,0,0,59,0,0,0,0
+1177,Hotel Claridge Paris,0,0,0,6,0,0,0
+1178,Hotel Claridge Paris,0,0,0,0,0,62,0
+1179,Hotel Claridge Paris,0,0,0,0,0,0,11
+1180,Hotel Daniel Paris,0,0,6,0,0,0,0
+1181,Hotel Daniel Paris,0,0,0,1,0,0,0
+1182,Hotel Daniel Paris,0,0,0,0,1,0,0
+1183,Hotel Daniel Paris,0,0,0,0,0,2,0
+1184,Hotel Daniel Paris,0,0,0,0,0,0,1
+1185,Hotel De Vigny,21,0,0,0,0,0,0
+1186,Hotel De Vigny,0,0,17,0,0,0,0
+1187,Hotel De Vigny,0,0,0,4,0,0,0
+1188,Hotel De Vigny,0,0,0,0,0,20,0
+1189,Hotel De Vigny,0,0,0,0,0,0,3
+1190,Hotel Des Saints Peres Esprit de France,27,0,0,0,0,0,0
+1191,Hotel Des Saints Peres Esprit de France,0,1,0,0,0,0,0
+1192,Hotel Des Saints Peres Esprit de France,0,0,39,0,0,0,0
+1193,Hotel Des Saints Peres Esprit de France,0,0,0,1,0,0,0
+1194,Hotel Des Saints Peres Esprit de France,0,0,0,0,1,0,0
+1195,Hotel Des Saints Peres Esprit de France,0,0,0,0,0,36,0
+1196,Hotel Des Saints Peres Esprit de France,0,0,0,0,0,0,11
+1197,Hotel Design Secret de Paris,43,0,0,0,0,0,0
+1198,Hotel Design Secret de Paris,0,0,68,0,0,0,0
+1199,Hotel Design Secret de Paris,0,0,0,8,0,0,0
+1200,Hotel Design Secret de Paris,0,0,0,0,2,0,0
+1201,Hotel Design Secret de Paris,0,0,0,0,0,20,0
+1202,Hotel Design Secret de Paris,0,0,0,0,0,0,10
+1203,Hotel Duminy Vendome,31,0,0,0,0,0,0
+1204,Hotel Duminy Vendome,0,5,0,0,0,0,0
+1205,Hotel Duminy Vendome,0,0,46,0,0,0,0
+1206,Hotel Duminy Vendome,0,0,0,10,0,0,0
+1207,Hotel Duminy Vendome,0,0,0,0,0,64,0
+1208,Hotel Duminy Vendome,0,0,0,0,0,0,33
+1209,Hotel Dupond Smith,13,0,0,0,0,0,0
+1210,Hotel Dupond Smith,0,1,0,0,0,0,0
+1211,Hotel Dupond Smith,0,0,11,0,0,0,0
+1212,Hotel Dupond Smith,0,0,0,1,0,0,0
+1213,Hotel Dupond Smith,0,0,0,0,0,5,0
+1214,Hotel Dupond Smith,0,0,0,0,0,0,2
+1215,Hotel Eden,18,0,0,0,0,0,0
+1216,Hotel Eden,0,4,0,0,0,0,0
+1217,Hotel Eden,0,0,29,0,0,0,0
+1218,Hotel Eden,0,0,0,3,0,0,0
+1219,Hotel Eden,0,0,0,0,2,0,0
+1220,Hotel Eden,0,0,0,0,0,19,0
+1221,Hotel Eden,0,0,0,0,0,0,1
+1222,Hotel Eiffel Blomet,7,0,0,0,0,0,0
+1223,Hotel Eiffel Blomet,0,1,0,0,0,0,0
+1224,Hotel Eiffel Blomet,0,0,9,0,0,0,0
+1225,Hotel Eiffel Blomet,0,0,0,1,0,0,0
+1226,Hotel Eiffel Blomet,0,0,0,0,1,0,0
+1227,Hotel Eiffel Blomet,0,0,0,0,0,3,0
+1228,Hotel Eiffel Blomet,0,0,0,0,0,0,2
+1229,Hotel Elys es Bassano,30,0,0,0,0,0,0
+1230,Hotel Elys es Bassano,0,3,0,0,0,0,0
+1231,Hotel Elys es Bassano,0,0,32,0,0,0,0
+1232,Hotel Elys es Bassano,0,0,0,4,0,0,0
+1233,Hotel Elys es Bassano,0,0,0,0,1,0,0
+1234,Hotel Elys es Bassano,0,0,0,0,0,39,0
+1235,Hotel Elys es Bassano,0,0,0,0,0,0,15
+1236,Hotel Eug ne en Ville,67,0,0,0,0,0,0
+1237,Hotel Eug ne en Ville,0,4,0,0,0,0,0
+1238,Hotel Eug ne en Ville,0,0,59,0,0,0,0
+1239,Hotel Eug ne en Ville,0,0,0,4,0,0,0
+1240,Hotel Eug ne en Ville,0,0,0,0,8,0,0
+1241,Hotel Eug ne en Ville,0,0,0,0,0,61,0
+1242,Hotel Eug ne en Ville,0,0,0,0,0,0,14
+1243,Hotel Georgette,24,0,0,0,0,0,0
+1244,Hotel Georgette,0,3,0,0,0,0,0
+1245,Hotel Georgette,0,0,19,0,0,0,0
+1246,Hotel Georgette,0,0,0,1,0,0,0
+1247,Hotel Georgette,0,0,0,0,0,22,0
+1248,Hotel Georgette,0,0,0,0,0,0,3
+1249,Hotel Indigo Paris Opera,35,0,0,0,0,0,0
+1250,Hotel Indigo Paris Opera,0,1,0,0,0,0,0
+1251,Hotel Indigo Paris Opera,0,0,49,0,0,0,0
+1252,Hotel Indigo Paris Opera,0,0,0,11,0,0,0
+1253,Hotel Indigo Paris Opera,0,0,0,0,4,0,0
+1254,Hotel Indigo Paris Opera,0,0,0,0,0,52,0
+1255,Hotel Indigo Paris Opera,0,0,0,0,0,0,5
+1256,Hotel L Antoine,67,0,0,0,0,0,0
+1257,Hotel L Antoine,0,6,0,0,0,0,0
+1258,Hotel L Antoine,0,0,78,0,0,0,0
+1259,Hotel L Antoine,0,0,0,6,0,0,0
+1260,Hotel L Antoine,0,0,0,0,10,0,0
+1261,Hotel L Antoine,0,0,0,0,0,51,0
+1262,Hotel L Antoine,0,0,0,0,0,0,13
+1263,Hotel La Lanterne,30,0,0,0,0,0,0
+1264,Hotel La Lanterne,0,3,0,0,0,0,0
+1265,Hotel La Lanterne,0,0,30,0,0,0,0
+1266,Hotel La Lanterne,0,0,0,4,0,0,0
+1267,Hotel La Lanterne,0,0,0,0,6,0,0
+1268,Hotel La Lanterne,0,0,0,0,0,31,0
+1269,Hotel La Lanterne,0,0,0,0,0,0,6
+1270,Hotel La Villa Saint Germain Des Pr s,22,0,0,0,0,0,0
+1271,Hotel La Villa Saint Germain Des Pr s,0,1,0,0,0,0,0
+1272,Hotel La Villa Saint Germain Des Pr s,0,0,18,0,0,0,0
+1273,Hotel La Villa Saint Germain Des Pr s,0,0,0,3,0,0,0
+1274,Hotel La Villa Saint Germain Des Pr s,0,0,0,0,1,0,0
+1275,Hotel La Villa Saint Germain Des Pr s,0,0,0,0,0,20,0
+1276,Hotel La Villa Saint Germain Des Pr s,0,0,0,0,0,0,2
+1277,Hotel Le 10 BIS,12,0,0,0,0,0,0
+1278,Hotel Le 10 BIS,0,2,0,0,0,0,0
+1279,Hotel Le 10 BIS,0,0,23,0,0,0,0
+1280,Hotel Le 10 BIS,0,0,0,1,0,0,0
+1281,Hotel Le 10 BIS,0,0,0,0,0,6,0
+1282,Hotel Le 10 BIS,0,0,0,0,0,0,1
+1283,Hotel Le Chat Noir,28,0,0,0,0,0,0
+1284,Hotel Le Chat Noir,0,4,0,0,0,0,0
+1285,Hotel Le Chat Noir,0,0,41,0,0,0,0
+1286,Hotel Le Chat Noir,0,0,0,1,0,0,0
+1287,Hotel Le Chat Noir,0,0,0,0,2,0,0
+1288,Hotel Le Chat Noir,0,0,0,0,0,30,0
+1289,Hotel Le Chat Noir,0,0,0,0,0,0,13
+1290,Hotel Le Mareuil,28,0,0,0,0,0,0
+1291,Hotel Le Mareuil,0,2,0,0,0,0,0
+1292,Hotel Le Mareuil,0,0,16,0,0,0,0
+1293,Hotel Le Mareuil,0,0,0,6,0,0,0
+1294,Hotel Le Mareuil,0,0,0,0,0,14,0
+1295,Hotel Le Mareuil,0,0,0,0,0,0,7
+1296,Hotel Le Pera,6,0,0,0,0,0,0
+1297,Hotel Le Pera,0,1,0,0,0,0,0
+1298,Hotel Le Pera,0,0,3,0,0,0,0
+1299,Hotel Le Pera,0,0,0,0,0,7,0
+1300,Hotel Le Pera,0,0,0,0,0,0,2
+1301,Hotel Le Placide Saint Germain Des Pr s,18,0,0,0,0,0,0
+1302,Hotel Le Placide Saint Germain Des Pr s,0,1,0,0,0,0,0
+1303,Hotel Le Placide Saint Germain Des Pr s,0,0,10,0,0,0,0
+1304,Hotel Le Placide Saint Germain Des Pr s,0,0,0,1,0,0,0
+1305,Hotel Le Placide Saint Germain Des Pr s,0,0,0,0,0,14,0
+1306,Hotel Le Placide Saint Germain Des Pr s,0,0,0,0,0,0,5
+1307,Hotel Le Saint Gregoire,3,0,0,0,0,0,0
+1308,Hotel Le Saint Gregoire,0,2,0,0,0,0,0
+1309,Hotel Le Saint Gregoire,0,0,8,0,0,0,0
+1310,Hotel Le Saint Gregoire,0,0,0,0,0,4,0
+1311,Hotel Le Saint Gregoire,0,0,0,0,0,0,5
+1312,Hotel Le Sainte Beuve,22,0,0,0,0,0,0
+1313,Hotel Le Sainte Beuve,0,0,37,0,0,0,0
+1314,Hotel Le Sainte Beuve,0,0,0,4,0,0,0
+1315,Hotel Le Sainte Beuve,0,0,0,0,0,34,0
+1316,Hotel Le Sainte Beuve,0,0,0,0,0,0,4
+1317,Hotel Le Six,15,0,0,0,0,0,0
+1318,Hotel Le Six,0,2,0,0,0,0,0
+1319,Hotel Le Six,0,0,40,0,0,0,0
+1320,Hotel Le Six,0,0,0,6,0,0,0
+1321,Hotel Le Six,0,0,0,0,0,19,0
+1322,Hotel Le Six,0,0,0,0,0,0,7
+1323,Hotel Le Squara,44,0,0,0,0,0,0
+1324,Hotel Le Squara,0,10,0,0,0,0,0
+1325,Hotel Le Squara,0,0,30,0,0,0,0
+1326,Hotel Le Squara,0,0,0,2,0,0,0
+1327,Hotel Le Squara,0,0,0,0,1,0,0
+1328,Hotel Le Squara,0,0,0,0,0,43,0
+1329,Hotel Le Squara,0,0,0,0,0,0,8
+1330,Hotel Le petit Paris,16,0,0,0,0,0,0
+1331,Hotel Le petit Paris,0,1,0,0,0,0,0
+1332,Hotel Le petit Paris,0,0,21,0,0,0,0
+1333,Hotel Le petit Paris,0,0,0,1,0,0,0
+1334,Hotel Le petit Paris,0,0,0,0,2,0,0
+1335,Hotel Le petit Paris,0,0,0,0,0,12,0
+1336,Hotel Le petit Paris,0,0,0,0,0,0,4
+1337,Hotel Les Bains Paris,15,0,0,0,0,0,0
+1338,Hotel Les Bains Paris,0,0,12,0,0,0,0
+1339,Hotel Les Bains Paris,0,0,0,1,0,0,0
+1340,Hotel Les Bains Paris,0,0,0,0,4,0,0
+1341,Hotel Les Bains Paris,0,0,0,0,0,5,0
+1342,Hotel Les Bulles De Paris,40,0,0,0,0,0,0
+1343,Hotel Les Bulles De Paris,0,9,0,0,0,0,0
+1344,Hotel Les Bulles De Paris,0,0,58,0,0,0,0
+1345,Hotel Les Bulles De Paris,0,0,0,4,0,0,0
+1346,Hotel Les Bulles De Paris,0,0,0,0,7,0,0
+1347,Hotel Les Bulles De Paris,0,0,0,0,0,56,0
+1348,Hotel Les Bulles De Paris,0,0,0,0,0,0,9
+1349,Hotel Les Rives de Notre Dame,20,0,0,0,0,0,0
+1350,Hotel Les Rives de Notre Dame,0,1,0,0,0,0,0
+1351,Hotel Les Rives de Notre Dame,0,0,37,0,0,0,0
+1352,Hotel Les Rives de Notre Dame,0,0,0,2,0,0,0
+1353,Hotel Les Rives de Notre Dame,0,0,0,0,0,35,0
+1354,Hotel Les Rives de Notre Dame,0,0,0,0,0,0,1
+1355,Hotel Les Th tres,38,0,0,0,0,0,0
+1356,Hotel Les Th tres,0,2,0,0,0,0,0
+1357,Hotel Les Th tres,0,0,42,0,0,0,0
+1358,Hotel Les Th tres,0,0,0,11,0,0,0
+1359,Hotel Les Th tres,0,0,0,0,0,29,0
+1360,Hotel Les Th tres,0,0,0,0,0,0,19
+1361,Hotel Louis 2,12,0,0,0,0,0,0
+1362,Hotel Louis 2,0,2,0,0,0,0,0
+1363,Hotel Louis 2,0,0,18,0,0,0,0
+1364,Hotel Louis 2,0,0,0,1,0,0,0
+1365,Hotel Louis 2,0,0,0,0,0,26,0
+1366,Hotel Louis 2,0,0,0,0,0,0,6
+1367,Hotel Louvre Montana,19,0,0,0,0,0,0
+1368,Hotel Louvre Montana,0,2,0,0,0,0,0
+1369,Hotel Louvre Montana,0,0,30,0,0,0,0
+1370,Hotel Louvre Montana,0,0,0,0,0,30,0
+1371,Hotel Louvre Montana,0,0,0,0,0,0,6
+1372,Hotel Lumen Paris Louvre,23,0,0,0,0,0,0
+1373,Hotel Lumen Paris Louvre,0,1,0,0,0,0,0
+1374,Hotel Lumen Paris Louvre,0,0,28,0,0,0,0
+1375,Hotel Lumen Paris Louvre,0,0,0,3,0,0,0
+1376,Hotel Lumen Paris Louvre,0,0,0,0,0,35,0
+1377,Hotel Lumen Paris Louvre,0,0,0,0,0,0,21
+1378,Hotel Mademoiselle,79,0,0,0,0,0,0
+1379,Hotel Mademoiselle,0,7,0,0,0,0,0
+1380,Hotel Mademoiselle,0,0,77,0,0,0,0
+1381,Hotel Mademoiselle,0,0,0,4,0,0,0
+1382,Hotel Mademoiselle,0,0,0,0,3,0,0
+1383,Hotel Mademoiselle,0,0,0,0,0,45,0
+1384,Hotel Mademoiselle,0,0,0,0,0,0,30
+1385,Hotel Maison Ath n e,22,0,0,0,0,0,0
+1386,Hotel Maison Ath n e,0,0,42,0,0,0,0
+1387,Hotel Maison Ath n e,0,0,0,10,0,0,0
+1388,Hotel Maison Ath n e,0,0,0,0,1,0,0
+1389,Hotel Maison Ath n e,0,0,0,0,0,30,0
+1390,Hotel Maison Ath n e,0,0,0,0,0,0,7
+1391,Hotel Maison FL,35,0,0,0,0,0,0
+1392,Hotel Maison FL,0,3,0,0,0,0,0
+1393,Hotel Maison FL,0,0,38,0,0,0,0
+1394,Hotel Maison FL,0,0,0,4,0,0,0
+1395,Hotel Maison FL,0,0,0,0,1,0,0
+1396,Hotel Maison FL,0,0,0,0,0,30,0
+1397,Hotel Maison FL,0,0,0,0,0,0,7
+1398,Hotel Malte Astotel,7,0,0,0,0,0,0
+1399,Hotel Malte Astotel,0,1,0,0,0,0,0
+1400,Hotel Malte Astotel,0,0,7,0,0,0,0
+1401,Hotel Malte Astotel,0,0,0,0,0,9,0
+1402,Hotel Malte Astotel,0,0,0,0,0,0,3
+1403,Hotel Marignan Champs Elys es,28,0,0,0,0,0,0
+1404,Hotel Marignan Champs Elys es,0,1,0,0,0,0,0
+1405,Hotel Marignan Champs Elys es,0,0,50,0,0,0,0
+1406,Hotel Marignan Champs Elys es,0,0,0,10,0,0,0
+1407,Hotel Marignan Champs Elys es,0,0,0,0,2,0,0
+1408,Hotel Marignan Champs Elys es,0,0,0,0,0,52,0
+1409,Hotel Marignan Champs Elys es,0,0,0,0,0,0,14
+1410,Hotel Mercure La Sorbonne Saint Germain des Pr s,14,0,0,0,0,0,0
+1411,Hotel Mercure La Sorbonne Saint Germain des Pr s,0,2,0,0,0,0,0
+1412,Hotel Mercure La Sorbonne Saint Germain des Pr s,0,0,28,0,0,0,0
+1413,Hotel Mercure La Sorbonne Saint Germain des Pr s,0,0,0,0,0,32,0
+1414,Hotel Mercure La Sorbonne Saint Germain des Pr s,0,0,0,0,0,0,10
+1415,Hotel Monceau Wagram,39,0,0,0,0,0,0
+1416,Hotel Monceau Wagram,0,9,0,0,0,0,0
+1417,Hotel Monceau Wagram,0,0,33,0,0,0,0
+1418,Hotel Monceau Wagram,0,0,0,2,0,0,0
+1419,Hotel Monceau Wagram,0,0,0,0,0,35,0
+1420,Hotel Monceau Wagram,0,0,0,0,0,0,19
+1421,Hotel Monge,41,0,0,0,0,0,0
+1422,Hotel Monge,0,3,0,0,0,0,0
+1423,Hotel Monge,0,0,56,0,0,0,0
+1424,Hotel Monge,0,0,0,5,0,0,0
+1425,Hotel Monge,0,0,0,0,2,0,0
+1426,Hotel Monge,0,0,0,0,0,42,0
+1427,Hotel Monge,0,0,0,0,0,0,23
+1428,Hotel Monsieur,83,0,0,0,0,0,0
+1429,Hotel Monsieur,0,6,0,0,0,0,0
+1430,Hotel Monsieur,0,0,72,0,0,0,0
+1431,Hotel Monsieur,0,0,0,13,0,0,0
+1432,Hotel Monsieur,0,0,0,0,2,0,0
+1433,Hotel Monsieur,0,0,0,0,0,62,0
+1434,Hotel Monsieur,0,0,0,0,0,0,17
+1435,Hotel Montaigne,19,0,0,0,0,0,0
+1436,Hotel Montaigne,0,1,0,0,0,0,0
+1437,Hotel Montaigne,0,0,21,0,0,0,0
+1438,Hotel Montaigne,0,0,0,4,0,0,0
+1439,Hotel Montaigne,0,0,0,0,0,25,0
+1440,Hotel Montaigne,0,0,0,0,0,0,2
+1441,Hotel Montalembert,10,0,0,0,0,0,0
+1442,Hotel Montalembert,0,0,19,0,0,0,0
+1443,Hotel Montalembert,0,0,0,3,0,0,0
+1444,Hotel Montalembert,0,0,0,0,0,14,0
+1445,Hotel Montalembert,0,0,0,0,0,0,4
+1446,Hotel OFF Paris Seine,19,0,0,0,0,0,0
+1447,Hotel OFF Paris Seine,0,1,0,0,0,0,0
+1448,Hotel OFF Paris Seine,0,0,20,0,0,0,0
+1449,Hotel OFF Paris Seine,0,0,0,1,0,0,0
+1450,Hotel OFF Paris Seine,0,0,0,0,6,0,0
+1451,Hotel OFF Paris Seine,0,0,0,0,0,19,0
+1452,Hotel OFF Paris Seine,0,0,0,0,0,0,4
+1453,Hotel Odeon Saint Germain,32,0,0,0,0,0,0
+1454,Hotel Odeon Saint Germain,0,4,0,0,0,0,0
+1455,Hotel Odeon Saint Germain,0,0,69,0,0,0,0
+1456,Hotel Odeon Saint Germain,0,0,0,5,0,0,0
+1457,Hotel Odeon Saint Germain,0,0,0,0,0,68,0
+1458,Hotel Odeon Saint Germain,0,0,0,0,0,0,12
+1459,Hotel Op ra Richepanse,113,0,0,0,0,0,0
+1460,Hotel Op ra Richepanse,0,7,0,0,0,0,0
+1461,Hotel Op ra Richepanse,0,0,91,0,0,0,0
+1462,Hotel Op ra Richepanse,0,0,0,13,0,0,0
+1463,Hotel Op ra Richepanse,0,0,0,0,4,0,0
+1464,Hotel Op ra Richepanse,0,0,0,0,0,98,0
+1465,Hotel Op ra Richepanse,0,0,0,0,0,0,19
+1466,Hotel Opera Cadet,17,0,0,0,0,0,0
+1467,Hotel Opera Cadet,0,0,20,0,0,0,0
+1468,Hotel Opera Cadet,0,0,0,1,0,0,0
+1469,Hotel Opera Cadet,0,0,0,0,0,15,0
+1470,Hotel Opera Cadet,0,0,0,0,0,0,15
+1471,Hotel Oscar,30,0,0,0,0,0,0
+1472,Hotel Oscar,0,2,0,0,0,0,0
+1473,Hotel Oscar,0,0,21,0,0,0,0
+1474,Hotel Oscar,0,0,0,4,0,0,0
+1475,Hotel Oscar,0,0,0,0,0,40,0
+1476,Hotel Oscar,0,0,0,0,0,0,2
+1477,Hotel Panache,36,0,0,0,0,0,0
+1478,Hotel Panache,0,4,0,0,0,0,0
+1479,Hotel Panache,0,0,31,0,0,0,0
+1480,Hotel Panache,0,0,0,3,0,0,0
+1481,Hotel Panache,0,0,0,0,16,0,0
+1482,Hotel Panache,0,0,0,0,0,21,0
+1483,Hotel Panache,0,0,0,0,0,0,6
+1484,Hotel Parc Saint Severin Esprit de France,48,0,0,0,0,0,0
+1485,Hotel Parc Saint Severin Esprit de France,0,9,0,0,0,0,0
+1486,Hotel Parc Saint Severin Esprit de France,0,0,74,0,0,0,0
+1487,Hotel Parc Saint Severin Esprit de France,0,0,0,8,0,0,0
+1488,Hotel Parc Saint Severin Esprit de France,0,0,0,0,0,78,0
+1489,Hotel Parc Saint Severin Esprit de France,0,0,0,0,0,0,9
+1490,Hotel Park Lane Paris,49,0,0,0,0,0,0
+1491,Hotel Park Lane Paris,0,8,0,0,0,0,0
+1492,Hotel Park Lane Paris,0,0,58,0,0,0,0
+1493,Hotel Park Lane Paris,0,0,0,9,0,0,0
+1494,Hotel Park Lane Paris,0,0,0,0,0,56,0
+1495,Hotel Park Lane Paris,0,0,0,0,0,0,18
+1496,Hotel Plaza Athenee Paris,5,0,0,0,0,0,0
+1497,Hotel Plaza Athenee Paris,0,0,6,0,0,0,0
+1498,Hotel Plaza Athenee Paris,0,0,0,6,0,0,0
+1499,Hotel Plaza Athenee Paris,0,0,0,0,0,1,0
+1500,Hotel Plaza Athenee Paris,0,0,0,0,0,0,1
+1501,Hotel Plaza Elys es,30,0,0,0,0,0,0
+1502,Hotel Plaza Elys es,0,5,0,0,0,0,0
+1503,Hotel Plaza Elys es,0,0,29,0,0,0,0
+1504,Hotel Plaza Elys es,0,0,0,3,0,0,0
+1505,Hotel Plaza Elys es,0,0,0,0,1,0,0
+1506,Hotel Plaza Elys es,0,0,0,0,0,19,0
+1507,Hotel Plaza Elys es,0,0,0,0,0,0,10
+1508,Hotel Pulitzer Paris,58,0,0,0,0,0,0
+1509,Hotel Pulitzer Paris,0,4,0,0,0,0,0
+1510,Hotel Pulitzer Paris,0,0,62,0,0,0,0
+1511,Hotel Pulitzer Paris,0,0,0,7,0,0,0
+1512,Hotel Pulitzer Paris,0,0,0,0,7,0,0
+1513,Hotel Pulitzer Paris,0,0,0,0,0,50,0
+1514,Hotel Pulitzer Paris,0,0,0,0,0,0,60
+1515,Hotel Royal Elys es,3,0,0,0,0,0,0
+1516,Hotel Royal Elys es,0,0,7,0,0,0,0
+1517,Hotel Royal Elys es,0,0,0,0,0,12,0
+1518,Hotel Royal Elys es,0,0,0,0,0,0,1
+1519,Hotel Saint Dominique,41,0,0,0,0,0,0
+1520,Hotel Saint Dominique,0,6,0,0,0,0,0
+1521,Hotel Saint Dominique,0,0,38,0,0,0,0
+1522,Hotel Saint Dominique,0,0,0,2,0,0,0
+1523,Hotel Saint Dominique,0,0,0,0,1,0,0
+1524,Hotel Saint Dominique,0,0,0,0,0,43,0
+1525,Hotel Saint Dominique,0,0,0,0,0,0,10
+1526,Hotel Saint Petersbourg Opera,145,0,0,0,0,0,0
+1527,Hotel Saint Petersbourg Opera,0,15,0,0,0,0,0
+1528,Hotel Saint Petersbourg Opera,0,0,122,0,0,0,0
+1529,Hotel Saint Petersbourg Opera,0,0,0,14,0,0,0
+1530,Hotel Saint Petersbourg Opera,0,0,0,0,0,139,0
+1531,Hotel Saint Petersbourg Opera,0,0,0,0,0,0,38
+1532,Hotel Scribe Paris Opera by Sofitel,33,0,0,0,0,0,0
+1533,Hotel Scribe Paris Opera by Sofitel,0,1,0,0,0,0,0
+1534,Hotel Scribe Paris Opera by Sofitel,0,0,50,0,0,0,0
+1535,Hotel Scribe Paris Opera by Sofitel,0,0,0,11,0,0,0
+1536,Hotel Scribe Paris Opera by Sofitel,0,0,0,0,1,0,0
+1537,Hotel Scribe Paris Opera by Sofitel,0,0,0,0,0,38,0
+1538,Hotel Scribe Paris Opera by Sofitel,0,0,0,0,0,0,8
+1539,Hotel Sezz Paris,9,0,0,0,0,0,0
+1540,Hotel Sezz Paris,0,0,10,0,0,0,0
+1541,Hotel Sezz Paris,0,0,0,2,0,0,0
+1542,Hotel Sezz Paris,0,0,0,0,1,0,0
+1543,Hotel Sezz Paris,0,0,0,0,0,2,0
+1544,Hotel Sezz Paris,0,0,0,0,0,0,1
+1545,Hotel Spa La Belle Juliette,28,0,0,0,0,0,0
+1546,Hotel Spa La Belle Juliette,0,1,0,0,0,0,0
+1547,Hotel Spa La Belle Juliette,0,0,23,0,0,0,0
+1548,Hotel Spa La Belle Juliette,0,0,0,4,0,0,0
+1549,Hotel Spa La Belle Juliette,0,0,0,0,2,0,0
+1550,Hotel Spa La Belle Juliette,0,0,0,0,0,21,0
+1551,Hotel Spa La Belle Juliette,0,0,0,0,0,0,7
+1552,Hotel Square,10,0,0,0,0,0,0
+1553,Hotel Square,0,0,13,0,0,0,0
+1554,Hotel Square,0,0,0,5,0,0,0
+1555,Hotel Square,0,0,0,0,1,0,0
+1556,Hotel Square,0,0,0,0,0,4,0
+1557,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,12,0,0,0,0,0,0
+1558,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,0,0,12,0,0,0,0
+1559,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,0,0,0,1,0,0,0
+1560,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,0,0,0,0,0,14,0
+1561,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,0,0,0,0,0,0,7
+1562,Hotel The Peninsula Paris,17,0,0,0,0,0,0
+1563,Hotel The Peninsula Paris,0,0,15,0,0,0,0
+1564,Hotel The Peninsula Paris,0,0,0,17,0,0,0
+1565,Hotel The Peninsula Paris,0,0,0,0,2,0,0
+1566,Hotel The Peninsula Paris,0,0,0,0,0,8,0
+1567,Hotel The Peninsula Paris,0,0,0,0,0,0,5
+1568,Hotel Tour d Auvergne Opera,8,0,0,0,0,0,0
+1569,Hotel Tour d Auvergne Opera,0,0,9,0,0,0,0
+1570,Hotel Tour d Auvergne Opera,0,0,0,1,0,0,0
+1571,Hotel Tour d Auvergne Opera,0,0,0,0,0,5,0
+1572,Hotel Tour d Auvergne Opera,0,0,0,0,0,0,1
+1573,Hotel Trianon Rive Gauche,92,0,0,0,0,0,0
+1574,Hotel Trianon Rive Gauche,0,9,0,0,0,0,0
+1575,Hotel Trianon Rive Gauche,0,0,62,0,0,0,0
+1576,Hotel Trianon Rive Gauche,0,0,0,6,0,0,0
+1577,Hotel Trianon Rive Gauche,0,0,0,0,1,0,0
+1578,Hotel Trianon Rive Gauche,0,0,0,0,0,85,0
+1579,Hotel Trianon Rive Gauche,0,0,0,0,0,0,34
+1580,Hotel Verneuil Saint Germain,12,0,0,0,0,0,0
+1581,Hotel Verneuil Saint Germain,0,1,0,0,0,0,0
+1582,Hotel Verneuil Saint Germain,0,0,34,0,0,0,0
+1583,Hotel Verneuil Saint Germain,0,0,0,3,0,0,0
+1584,Hotel Verneuil Saint Germain,0,0,0,0,0,33,0
+1585,Hotel Verneuil Saint Germain,0,0,0,0,0,0,5
+1586,Hotel Vignon,39,0,0,0,0,0,0
+1587,Hotel Vignon,0,6,0,0,0,0,0
+1588,Hotel Vignon,0,0,32,0,0,0,0
+1589,Hotel Vignon,0,0,0,5,0,0,0
+1590,Hotel Vignon,0,0,0,0,2,0,0
+1591,Hotel Vignon,0,0,0,0,0,55,0
+1592,Hotel Vignon,0,0,0,0,0,0,11
+1593,Hotel Villa Lafayette Paris IX,11,0,0,0,0,0,0
+1594,Hotel Villa Lafayette Paris IX,0,2,0,0,0,0,0
+1595,Hotel Villa Lafayette Paris IX,0,0,18,0,0,0,0
+1596,Hotel Villa Lafayette Paris IX,0,0,0,2,0,0,0
+1597,Hotel Villa Lafayette Paris IX,0,0,0,0,1,0,0
+1598,Hotel Villa Lafayette Paris IX,0,0,0,0,0,6,0
+1599,Hotel Villa Lafayette Paris IX,0,0,0,0,0,0,8
+1600,Hotel Villa Saxe Eiffel,25,0,0,0,0,0,0
+1601,Hotel Villa Saxe Eiffel,0,0,25,0,0,0,0
+1602,Hotel Villa Saxe Eiffel,0,0,0,2,0,0,0
+1603,Hotel Villa Saxe Eiffel,0,0,0,0,0,29,0
+1604,Hotel Villa Saxe Eiffel,0,0,0,0,0,0,11
+1605,Hotel West End,65,0,0,0,0,0,0
+1606,Hotel West End,0,4,0,0,0,0,0
+1607,Hotel West End,0,0,47,0,0,0,0
+1608,Hotel West End,0,0,0,5,0,0,0
+1609,Hotel West End,0,0,0,0,0,47,0
+1610,Hotel West End,0,0,0,0,0,0,33
+1611,Hotel Whistler,10,0,0,0,0,0,0
+1612,Hotel Whistler,0,1,0,0,0,0,0
+1613,Hotel Whistler,0,0,12,0,0,0,0
+1614,Hotel Whistler,0,0,0,0,2,0,0
+1615,Hotel Whistler,0,0,0,0,0,10,0
+1616,Hotel Whistler,0,0,0,0,0,0,6
+1617,Hotel d Orsay Esprit de France,81,0,0,0,0,0,0
+1618,Hotel d Orsay Esprit de France,0,4,0,0,0,0,0
+1619,Hotel d Orsay Esprit de France,0,0,106,0,0,0,0
+1620,Hotel d Orsay Esprit de France,0,0,0,12,0,0,0
+1621,Hotel d Orsay Esprit de France,0,0,0,0,2,0,0
+1622,Hotel d Orsay Esprit de France,0,0,0,0,0,98,0
+1623,Hotel d Orsay Esprit de France,0,0,0,0,0,0,26
+1624,Hotel de Nell,30,0,0,0,0,0,0
+1625,Hotel de Nell,0,2,0,0,0,0,0
+1626,Hotel de Nell,0,0,39,0,0,0,0
+1627,Hotel de Nell,0,0,0,9,0,0,0
+1628,Hotel de Nell,0,0,0,0,6,0,0
+1629,Hotel de Nell,0,0,0,0,0,20,0
+1630,Hotel de Nell,0,0,0,0,0,0,6
+1631,Hotel de Seze,26,0,0,0,0,0,0
+1632,Hotel de Seze,0,2,0,0,0,0,0
+1633,Hotel de Seze,0,0,36,0,0,0,0
+1634,Hotel de Seze,0,0,0,2,0,0,0
+1635,Hotel de Seze,0,0,0,0,0,31,0
+1636,Hotel de Seze,0,0,0,0,0,0,8
+1637,Hotel des Tuileries Relais du Silence,26,0,0,0,0,0,0
+1638,Hotel des Tuileries Relais du Silence,0,2,0,0,0,0,0
+1639,Hotel des Tuileries Relais du Silence,0,0,22,0,0,0,0
+1640,Hotel des Tuileries Relais du Silence,0,0,0,1,0,0,0
+1641,Hotel des Tuileries Relais du Silence,0,0,0,0,0,38,0
+1642,Hotel des Tuileries Relais du Silence,0,0,0,0,0,0,5
+1643,Hotel du Collectionneur Arc de Triomphe,74,0,0,0,0,0,0
+1644,Hotel du Collectionneur Arc de Triomphe,0,6,0,0,0,0,0
+1645,Hotel du Collectionneur Arc de Triomphe,0,0,83,0,0,0,0
+1646,Hotel du Collectionneur Arc de Triomphe,0,0,0,20,0,0,0
+1647,Hotel du Collectionneur Arc de Triomphe,0,0,0,0,3,0,0
+1648,Hotel du Collectionneur Arc de Triomphe,0,0,0,0,0,69,0
+1649,Hotel du Collectionneur Arc de Triomphe,0,0,0,0,0,0,14
+1650,Hotel du Louvre in the Unbound Collection by Hyatt,64,0,0,0,0,0,0
+1651,Hotel du Louvre in the Unbound Collection by Hyatt,0,2,0,0,0,0,0
+1652,Hotel du Louvre in the Unbound Collection by Hyatt,0,0,97,0,0,0,0
+1653,Hotel du Louvre in the Unbound Collection by Hyatt,0,0,0,21,0,0,0
+1654,Hotel du Louvre in the Unbound Collection by Hyatt,0,0,0,0,0,99,0
+1655,Hotel du Louvre in the Unbound Collection by Hyatt,0,0,0,0,0,0,8
+1656,Hotel du Petit Moulin,22,0,0,0,0,0,0
+1657,Hotel du Petit Moulin,0,1,0,0,0,0,0
+1658,Hotel du Petit Moulin,0,0,34,0,0,0,0
+1659,Hotel du Petit Moulin,0,0,0,2,0,0,0
+1660,Hotel du Petit Moulin,0,0,0,0,3,0,0
+1661,Hotel du Petit Moulin,0,0,0,0,0,30,0
+1662,Hotel du Petit Moulin,0,0,0,0,0,0,4
+1663,Hotel le Lapin Blanc,79,0,0,0,0,0,0
+1664,Hotel le Lapin Blanc,0,9,0,0,0,0,0
+1665,Hotel le Lapin Blanc,0,0,53,0,0,0,0
+1666,Hotel le Lapin Blanc,0,0,0,4,0,0,0
+1667,Hotel le Lapin Blanc,0,0,0,0,15,0,0
+1668,Hotel le Lapin Blanc,0,0,0,0,0,53,0
+1669,Hotel le Lapin Blanc,0,0,0,0,0,0,5
+1670,Hyatt Regency Paris Etoile,155,0,0,0,0,0,0
+1671,Hyatt Regency Paris Etoile,0,5,0,0,0,0,0
+1672,Hyatt Regency Paris Etoile,0,0,149,0,0,0,0
+1673,Hyatt Regency Paris Etoile,0,0,0,35,0,0,0
+1674,Hyatt Regency Paris Etoile,0,0,0,0,0,165,0
+1675,Hyatt Regency Paris Etoile,0,0,0,0,0,0,47
+1676,Ibis Styles Paris Gare Saint Lazare,2,0,0,0,0,0,0
+1677,Ibis Styles Paris Gare Saint Lazare,0,1,0,0,0,0,0
+1678,Ibis Styles Paris Gare Saint Lazare,0,0,2,0,0,0,0
+1679,Ibis Styles Paris Gare Saint Lazare,0,0,0,0,1,0,0
+1680,Ibis Styles Paris Gare Saint Lazare,0,0,0,0,0,1,0
+1681,Ibis Styles Paris Gare Saint Lazare,0,0,0,0,0,0,5
+1682,Idol Hotel,61,0,0,0,0,0,0
+1683,Idol Hotel,0,1,0,0,0,0,0
+1684,Idol Hotel,0,0,43,0,0,0,0
+1685,Idol Hotel,0,0,0,5,0,0,0
+1686,Idol Hotel,0,0,0,0,5,0,0
+1687,Idol Hotel,0,0,0,0,0,16,0
+1688,Idol Hotel,0,0,0,0,0,0,11
+1689,InterContinental Paris Avenue Marceau,4,0,0,0,0,0,0
+1690,InterContinental Paris Avenue Marceau,0,1,0,0,0,0,0
+1691,InterContinental Paris Avenue Marceau,0,0,12,0,0,0,0
+1692,InterContinental Paris Avenue Marceau,0,0,0,3,0,0,0
+1693,InterContinental Paris Avenue Marceau,0,0,0,0,0,16,0
+1694,InterContinental Paris Avenue Marceau,0,0,0,0,0,0,1
+1695,InterContinental Paris Le Grand,26,0,0,0,0,0,0
+1696,InterContinental Paris Le Grand,0,0,35,0,0,0,0
+1697,InterContinental Paris Le Grand,0,0,0,7,0,0,0
+1698,InterContinental Paris Le Grand,0,0,0,0,0,36,0
+1699,InterContinental Paris Le Grand,0,0,0,0,0,0,17
+1700,K K H tel Cayr Saint Germain des Pr s,100,0,0,0,0,0,0
+1701,K K H tel Cayr Saint Germain des Pr s,0,9,0,0,0,0,0
+1702,K K H tel Cayr Saint Germain des Pr s,0,0,98,0,0,0,0
+1703,K K H tel Cayr Saint Germain des Pr s,0,0,0,17,0,0,0
+1704,K K H tel Cayr Saint Germain des Pr s,0,0,0,0,0,117,0
+1705,K K H tel Cayr Saint Germain des Pr s,0,0,0,0,0,0,39
+1706,Kube Hotel Ice Bar,9,0,0,0,0,0,0
+1707,Kube Hotel Ice Bar,0,0,6,0,0,0,0
+1708,Kube Hotel Ice Bar,0,0,0,1,0,0,0
+1709,Kube Hotel Ice Bar,0,0,0,0,0,1,0
+1710,L Edmond H tel,5,0,0,0,0,0,0
+1711,L Edmond H tel,0,1,0,0,0,0,0
+1712,L Edmond H tel,0,0,13,0,0,0,0
+1713,L Edmond H tel,0,0,0,0,1,0,0
+1714,L Edmond H tel,0,0,0,0,0,7,0
+1715,L Edmond H tel,0,0,0,0,0,0,1
+1716,L Empire Paris,42,0,0,0,0,0,0
+1717,L Empire Paris,0,2,0,0,0,0,0
+1718,L Empire Paris,0,0,48,0,0,0,0
+1719,L Empire Paris,0,0,0,4,0,0,0
+1720,L Empire Paris,0,0,0,0,1,0,0
+1721,L Empire Paris,0,0,0,0,0,44,0
+1722,L Empire Paris,0,0,0,0,0,0,20
+1723,L H tel,19,0,0,0,0,0,0
+1724,L H tel,0,0,34,0,0,0,0
+1725,L H tel,0,0,0,8,0,0,0
+1726,L H tel,0,0,0,0,0,14,0
+1727,L H tel,0,0,0,0,0,0,8
+1728,L Hotel Pergol se Paris,60,0,0,0,0,0,0
+1729,L Hotel Pergol se Paris,0,7,0,0,0,0,0
+1730,L Hotel Pergol se Paris,0,0,61,0,0,0,0
+1731,L Hotel Pergol se Paris,0,0,0,3,0,0,0
+1732,L Hotel Pergol se Paris,0,0,0,0,0,60,0
+1733,L Hotel Pergol se Paris,0,0,0,0,0,0,12
+1734,La Chambre du Marais,38,0,0,0,0,0,0
+1735,La Chambre du Marais,0,5,0,0,0,0,0
+1736,La Chambre du Marais,0,0,33,0,0,0,0
+1737,La Chambre du Marais,0,0,0,16,0,0,0
+1738,La Chambre du Marais,0,0,0,0,3,0,0
+1739,La Chambre du Marais,0,0,0,0,0,31,0
+1740,La Chambre du Marais,0,0,0,0,0,0,14
+1741,La Clef Tour Eiffel,111,0,0,0,0,0,0
+1742,La Clef Tour Eiffel,0,9,0,0,0,0,0
+1743,La Clef Tour Eiffel,0,0,100,0,0,0,0
+1744,La Clef Tour Eiffel,0,0,0,15,0,0,0
+1745,La Clef Tour Eiffel,0,0,0,0,3,0,0
+1746,La Clef Tour Eiffel,0,0,0,0,0,111,0
+1747,La Clef Tour Eiffel,0,0,0,0,0,0,15
+1748,La Maison Champs Elys es,14,0,0,0,0,0,0
+1749,La Maison Champs Elys es,0,1,0,0,0,0,0
+1750,La Maison Champs Elys es,0,0,34,0,0,0,0
+1751,La Maison Champs Elys es,0,0,0,6,0,0,0
+1752,La Maison Champs Elys es,0,0,0,0,2,0,0
+1753,La Maison Champs Elys es,0,0,0,0,0,27,0
+1754,La Maison Champs Elys es,0,0,0,0,0,0,8
+1755,La Maison Favart,35,0,0,0,0,0,0
+1756,La Maison Favart,0,0,66,0,0,0,0
+1757,La Maison Favart,0,0,0,11,0,0,0
+1758,La Maison Favart,0,0,0,0,2,0,0
+1759,La Maison Favart,0,0,0,0,0,40,0
+1760,La Maison Favart,0,0,0,0,0,0,15
+1761,La Tremoille Paris,13,0,0,0,0,0,0
+1762,La Tremoille Paris,0,1,0,0,0,0,0
+1763,La Tremoille Paris,0,0,20,0,0,0,0
+1764,La Tremoille Paris,0,0,0,5,0,0,0
+1765,La Tremoille Paris,0,0,0,0,0,22,0
+1766,La Tremoille Paris,0,0,0,0,0,0,3
+1767,La Villa Haussmann,7,0,0,0,0,0,0
+1768,La Villa Haussmann,0,0,19,0,0,0,0
+1769,La Villa Haussmann,0,0,0,2,0,0,0
+1770,La Villa Haussmann,0,0,0,0,1,0,0
+1771,La Villa Haussmann,0,0,0,0,0,6,0
+1772,La Villa Haussmann,0,0,0,0,0,0,4
+1773,La Villa Maillot,37,0,0,0,0,0,0
+1774,La Villa Maillot,0,4,0,0,0,0,0
+1775,La Villa Maillot,0,0,35,0,0,0,0
+1776,La Villa Maillot,0,0,0,2,0,0,0
+1777,La Villa Maillot,0,0,0,0,3,0,0
+1778,La Villa Maillot,0,0,0,0,0,12,0
+1779,La Villa Maillot,0,0,0,0,0,0,8
+1780,La Villa Royale,48,0,0,0,0,0,0
+1781,La Villa Royale,0,1,0,0,0,0,0
+1782,La Villa Royale,0,0,28,0,0,0,0
+1783,La Villa Royale,0,0,0,3,0,0,0
+1784,La Villa Royale,0,0,0,0,1,0,0
+1785,La Villa Royale,0,0,0,0,0,14,0
+1786,La Villa Royale,0,0,0,0,0,0,4
+1787,La Villa des Ternes,41,0,0,0,0,0,0
+1788,La Villa des Ternes,0,7,0,0,0,0,0
+1789,La Villa des Ternes,0,0,45,0,0,0,0
+1790,La Villa des Ternes,0,0,0,3,0,0,0
+1791,La Villa des Ternes,0,0,0,0,0,47,0
+1792,La Villa des Ternes,0,0,0,0,0,0,3
+1793,Le 123 Elysees Astotel,21,0,0,0,0,0,0
+1794,Le 123 Elysees Astotel,0,0,20,0,0,0,0
+1795,Le 123 Elysees Astotel,0,0,0,0,0,18,0
+1796,Le 123 Elysees Astotel,0,0,0,0,0,0,9
+1797,Le 123 S bastopol Astotel,45,0,0,0,0,0,0
+1798,Le 123 S bastopol Astotel,0,5,0,0,0,0,0
+1799,Le 123 S bastopol Astotel,0,0,71,0,0,0,0
+1800,Le 123 S bastopol Astotel,0,0,0,8,0,0,0
+1801,Le 123 S bastopol Astotel,0,0,0,0,3,0,0
+1802,Le 123 S bastopol Astotel,0,0,0,0,0,30,0
+1803,Le 123 S bastopol Astotel,0,0,0,0,0,0,35
+1804,Le 7 Eiffel Hotel,15,0,0,0,0,0,0
+1805,Le 7 Eiffel Hotel,0,4,0,0,0,0,0
+1806,Le 7 Eiffel Hotel,0,0,19,0,0,0,0
+1807,Le 7 Eiffel Hotel,0,0,0,4,0,0,0
+1808,Le 7 Eiffel Hotel,0,0,0,0,1,0,0
+1809,Le 7 Eiffel Hotel,0,0,0,0,0,34,0
+1810,Le 7 Eiffel Hotel,0,0,0,0,0,0,5
+1811,Le A,26,0,0,0,0,0,0
+1812,Le A,0,2,0,0,0,0,0
+1813,Le A,0,0,58,0,0,0,0
+1814,Le A,0,0,0,9,0,0,0
+1815,Le A,0,0,0,0,2,0,0
+1816,Le A,0,0,0,0,0,31,0
+1817,Le A,0,0,0,0,0,0,13
+1818,Le Belmont Champs Elys es,29,0,0,0,0,0,0
+1819,Le Belmont Champs Elys es,0,1,0,0,0,0,0
+1820,Le Belmont Champs Elys es,0,0,23,0,0,0,0
+1821,Le Belmont Champs Elys es,0,0,0,3,0,0,0
+1822,Le Belmont Champs Elys es,0,0,0,0,0,26,0
+1823,Le Belmont Champs Elys es,0,0,0,0,0,0,9
+1824,Le Burgundy Paris,45,0,0,0,0,0,0
+1825,Le Burgundy Paris,0,5,0,0,0,0,0
+1826,Le Burgundy Paris,0,0,48,0,0,0,0
+1827,Le Burgundy Paris,0,0,0,17,0,0,0
+1828,Le Burgundy Paris,0,0,0,0,5,0,0
+1829,Le Burgundy Paris,0,0,0,0,0,51,0
+1830,Le Burgundy Paris,0,0,0,0,0,0,12
+1831,Le Cinq Codet,95,0,0,0,0,0,0
+1832,Le Cinq Codet,0,10,0,0,0,0,0
+1833,Le Cinq Codet,0,0,105,0,0,0,0
+1834,Le Cinq Codet,0,0,0,30,0,0,0
+1835,Le Cinq Codet,0,0,0,0,18,0,0
+1836,Le Cinq Codet,0,0,0,0,0,53,0
+1837,Le Cinq Codet,0,0,0,0,0,0,22
+1838,Le Dokhan s a Tribute Portfolio Hotel,21,0,0,0,0,0,0
+1839,Le Dokhan s a Tribute Portfolio Hotel,0,2,0,0,0,0,0
+1840,Le Dokhan s a Tribute Portfolio Hotel,0,0,17,0,0,0,0
+1841,Le Dokhan s a Tribute Portfolio Hotel,0,0,0,3,0,0,0
+1842,Le Dokhan s a Tribute Portfolio Hotel,0,0,0,0,1,0,0
+1843,Le Dokhan s a Tribute Portfolio Hotel,0,0,0,0,0,16,0
+1844,Le Dokhan s a Tribute Portfolio Hotel,0,0,0,0,0,0,5
+1845,Le G n ral H tel,54,0,0,0,0,0,0
+1846,Le G n ral H tel,0,5,0,0,0,0,0
+1847,Le G n ral H tel,0,0,55,0,0,0,0
+1848,Le G n ral H tel,0,0,0,8,0,0,0
+1849,Le G n ral H tel,0,0,0,0,9,0,0
+1850,Le G n ral H tel,0,0,0,0,0,32,0
+1851,Le G n ral H tel,0,0,0,0,0,0,4
+1852,Le Grand H tel de Normandie,6,0,0,0,0,0,0
+1853,Le Grand H tel de Normandie,0,1,0,0,0,0,0
+1854,Le Grand H tel de Normandie,0,0,8,0,0,0,0
+1855,Le Grand H tel de Normandie,0,0,0,1,0,0,0
+1856,Le Grand H tel de Normandie,0,0,0,0,0,7,0
+1857,Le Grand H tel de Normandie,0,0,0,0,0,0,2
+1858,Le Grey Hotel,26,0,0,0,0,0,0
+1859,Le Grey Hotel,0,2,0,0,0,0,0
+1860,Le Grey Hotel,0,0,34,0,0,0,0
+1861,Le Grey Hotel,0,0,0,0,0,17,0
+1862,Le Grey Hotel,0,0,0,0,0,0,6
+1863,Le Lavoisier,4,0,0,0,0,0,0
+1864,Le Lavoisier,0,0,1,0,0,0,0
+1865,Le Lavoisier,0,0,0,0,0,2,0
+1866,Le Littr ,20,0,0,0,0,0,0
+1867,Le Littr ,0,2,0,0,0,0,0
+1868,Le Littr ,0,0,17,0,0,0,0
+1869,Le Littr ,0,0,0,2,0,0,0
+1870,Le Littr ,0,0,0,0,0,8,0
+1871,Le Littr ,0,0,0,0,0,0,9
+1872,Le M ridien Etoile,14,0,0,0,0,0,0
+1873,Le M ridien Etoile,0,2,0,0,0,0,0
+1874,Le M ridien Etoile,0,0,12,0,0,0,0
+1875,Le M ridien Etoile,0,0,0,1,0,0,0
+1876,Le M ridien Etoile,0,0,0,0,0,8,0
+1877,Le M ridien Etoile,0,0,0,0,0,0,13
+1878,Le Marceau Bastille,54,0,0,0,0,0,0
+1879,Le Marceau Bastille,0,5,0,0,0,0,0
+1880,Le Marceau Bastille,0,0,44,0,0,0,0
+1881,Le Marceau Bastille,0,0,0,4,0,0,0
+1882,Le Marceau Bastille,0,0,0,0,3,0,0
+1883,Le Marceau Bastille,0,0,0,0,0,31,0
+1884,Le Marceau Bastille,0,0,0,0,0,0,42
+1885,Le Marcel,33,0,0,0,0,0,0
+1886,Le Marcel,0,2,0,0,0,0,0
+1887,Le Marcel,0,0,26,0,0,0,0
+1888,Le Marcel,0,0,0,2,0,0,0
+1889,Le Marcel,0,0,0,0,1,0,0
+1890,Le Marcel,0,0,0,0,0,21,0
+1891,Le Marcel,0,0,0,0,0,0,10
+1892,Le Marquis Eiffel,34,0,0,0,0,0,0
+1893,Le Marquis Eiffel,0,6,0,0,0,0,0
+1894,Le Marquis Eiffel,0,0,41,0,0,0,0
+1895,Le Marquis Eiffel,0,0,0,5,0,0,0
+1896,Le Marquis Eiffel,0,0,0,0,0,36,0
+1897,Le Marquis Eiffel,0,0,0,0,0,0,9
+1898,Le Mathurin Hotel Spa,48,0,0,0,0,0,0
+1899,Le Mathurin Hotel Spa,0,4,0,0,0,0,0
+1900,Le Mathurin Hotel Spa,0,0,45,0,0,0,0
+1901,Le Mathurin Hotel Spa,0,0,0,10,0,0,0
+1902,Le Mathurin Hotel Spa,0,0,0,0,2,0,0
+1903,Le Mathurin Hotel Spa,0,0,0,0,0,43,0
+1904,Le Mathurin Hotel Spa,0,0,0,0,0,0,22
+1905,Le Metropolitan a Tribute Portfolio Hotel,23,0,0,0,0,0,0
+1906,Le Metropolitan a Tribute Portfolio Hotel,0,0,31,0,0,0,0
+1907,Le Metropolitan a Tribute Portfolio Hotel,0,0,0,2,0,0,0
+1908,Le Metropolitan a Tribute Portfolio Hotel,0,0,0,0,0,24,0
+1909,Le Metropolitan a Tribute Portfolio Hotel,0,0,0,0,0,0,4
+1910,Le Meurice,13,0,0,0,0,0,0
+1911,Le Meurice,0,1,0,0,0,0,0
+1912,Le Meurice,0,0,13,0,0,0,0
+1913,Le Meurice,0,0,0,7,0,0,0
+1914,Le Meurice,0,0,0,0,0,5,0
+1915,Le Meurice,0,0,0,0,0,0,4
+1916,Le Narcisse Blanc Spa,24,0,0,0,0,0,0
+1917,Le Narcisse Blanc Spa,0,0,34,0,0,0,0
+1918,Le Narcisse Blanc Spa,0,0,0,7,0,0,0
+1919,Le Narcisse Blanc Spa,0,0,0,0,1,0,0
+1920,Le Narcisse Blanc Spa,0,0,0,0,0,16,0
+1921,Le Narcisse Blanc Spa,0,0,0,0,0,0,3
+1922,Le Parisis Paris Tour Eiffel,191,0,0,0,0,0,0
+1923,Le Parisis Paris Tour Eiffel,0,19,0,0,0,0,0
+1924,Le Parisis Paris Tour Eiffel,0,0,147,0,0,0,0
+1925,Le Parisis Paris Tour Eiffel,0,0,0,15,0,0,0
+1926,Le Parisis Paris Tour Eiffel,0,0,0,0,1,0,0
+1927,Le Parisis Paris Tour Eiffel,0,0,0,0,0,107,0
+1928,Le Parisis Paris Tour Eiffel,0,0,0,0,0,0,30
+1929,Le Pavillon de la Reine Spa,30,0,0,0,0,0,0
+1930,Le Pavillon de la Reine Spa,0,1,0,0,0,0,0
+1931,Le Pavillon de la Reine Spa,0,0,59,0,0,0,0
+1932,Le Pavillon de la Reine Spa,0,0,0,14,0,0,0
+1933,Le Pavillon de la Reine Spa,0,0,0,0,1,0,0
+1934,Le Pavillon de la Reine Spa,0,0,0,0,0,45,0
+1935,Le Pavillon de la Reine Spa,0,0,0,0,0,0,15
+1936,Le Pavillon des Lettres,11,0,0,0,0,0,0
+1937,Le Pavillon des Lettres,0,0,12,0,0,0,0
+1938,Le Pavillon des Lettres,0,0,0,4,0,0,0
+1939,Le Pavillon des Lettres,0,0,0,0,2,0,0
+1940,Le Pavillon des Lettres,0,0,0,0,0,13,0
+1941,Le Pavillon des Lettres,0,0,0,0,0,0,3
+1942,Le Pigalle Hotel,17,0,0,0,0,0,0
+1943,Le Pigalle Hotel,0,0,20,0,0,0,0
+1944,Le Pigalle Hotel,0,0,0,1,0,0,0
+1945,Le Pigalle Hotel,0,0,0,0,1,0,0
+1946,Le Pigalle Hotel,0,0,0,0,0,3,0
+1947,Le Pradey,15,0,0,0,0,0,0
+1948,Le Pradey,0,0,20,0,0,0,0
+1949,Le Pradey,0,0,0,2,0,0,0
+1950,Le Pradey,0,0,0,0,1,0,0
+1951,Le Pradey,0,0,0,0,0,28,0
+1952,Le Pradey,0,0,0,0,0,0,4
+1953,Le Relais M dicis,11,0,0,0,0,0,0
+1954,Le Relais M dicis,0,1,0,0,0,0,0
+1955,Le Relais M dicis,0,0,10,0,0,0,0
+1956,Le Relais M dicis,0,0,0,1,0,0,0
+1957,Le Relais M dicis,0,0,0,0,0,9,0
+1958,Le Relais M dicis,0,0,0,0,0,0,4
+1959,Le Relais Madeleine,22,0,0,0,0,0,0
+1960,Le Relais Madeleine,0,4,0,0,0,0,0
+1961,Le Relais Madeleine,0,0,33,0,0,0,0
+1962,Le Relais Madeleine,0,0,0,0,0,28,0
+1963,Le Relais Madeleine,0,0,0,0,0,0,7
+1964,Le Relais Montmartre,75,0,0,0,0,0,0
+1965,Le Relais Montmartre,0,11,0,0,0,0,0
+1966,Le Relais Montmartre,0,0,86,0,0,0,0
+1967,Le Relais Montmartre,0,0,0,5,0,0,0
+1968,Le Relais Montmartre,0,0,0,0,3,0,0
+1969,Le Relais Montmartre,0,0,0,0,0,80,0
+1970,Le Relais Montmartre,0,0,0,0,0,0,15
+1971,Le Roch Hotel Spa,9,0,0,0,0,0,0
+1972,Le Roch Hotel Spa,0,0,11,0,0,0,0
+1973,Le Roch Hotel Spa,0,0,0,6,0,0,0
+1974,Le Roch Hotel Spa,0,0,0,0,5,0,0
+1975,Le Roch Hotel Spa,0,0,0,0,0,8,0
+1976,Le Roch Hotel Spa,0,0,0,0,0,0,1
+1977,Le Saint Hotel Paris,16,0,0,0,0,0,0
+1978,Le Saint Hotel Paris,0,0,11,0,0,0,0
+1979,Le Saint Hotel Paris,0,0,0,1,0,0,0
+1980,Le Saint Hotel Paris,0,0,0,0,1,0,0
+1981,Le Saint Hotel Paris,0,0,0,0,0,17,0
+1982,Le Saint Hotel Paris,0,0,0,0,0,0,7
+1983,Le Senat,37,0,0,0,0,0,0
+1984,Le Senat,0,5,0,0,0,0,0
+1985,Le Senat,0,0,29,0,0,0,0
+1986,Le Senat,0,0,0,3,0,0,0
+1987,Le Senat,0,0,0,0,1,0,0
+1988,Le Senat,0,0,0,0,0,37,0
+1989,Le Senat,0,0,0,0,0,0,9
+1990,Le Tourville Eiffel,39,0,0,0,0,0,0
+1991,Le Tourville Eiffel,0,2,0,0,0,0,0
+1992,Le Tourville Eiffel,0,0,64,0,0,0,0
+1993,Le Tourville Eiffel,0,0,0,6,0,0,0
+1994,Le Tourville Eiffel,0,0,0,0,1,0,0
+1995,Le Tourville Eiffel,0,0,0,0,0,50,0
+1996,Le Tourville Eiffel,0,0,0,0,0,0,15
+1997,Le Tsuba Hotel,15,0,0,0,0,0,0
+1998,Le Tsuba Hotel,0,1,0,0,0,0,0
+1999,Le Tsuba Hotel,0,0,23,0,0,0,0
+2000,Le Tsuba Hotel,0,0,0,1,0,0,0
+2001,Le Tsuba Hotel,0,0,0,0,4,0,0
+2002,Le Tsuba Hotel,0,0,0,0,0,18,0
+2003,Le Tsuba Hotel,0,0,0,0,0,0,10
+2004,Legend Saint Germain by Elegancia,34,0,0,0,0,0,0
+2005,Legend Saint Germain by Elegancia,0,3,0,0,0,0,0
+2006,Legend Saint Germain by Elegancia,0,0,36,0,0,0,0
+2007,Legend Saint Germain by Elegancia,0,0,0,0,3,0,0
+2008,Legend Saint Germain by Elegancia,0,0,0,0,0,22,0
+2009,Legend Saint Germain by Elegancia,0,0,0,0,0,0,11
+2010,Les Jardins De La Villa Spa,38,0,0,0,0,0,0
+2011,Les Jardins De La Villa Spa,0,4,0,0,0,0,0
+2012,Les Jardins De La Villa Spa,0,0,35,0,0,0,0
+2013,Les Jardins De La Villa Spa,0,0,0,7,0,0,0
+2014,Les Jardins De La Villa Spa,0,0,0,0,2,0,0
+2015,Les Jardins De La Villa Spa,0,0,0,0,0,23,0
+2016,Les Jardins De La Villa Spa,0,0,0,0,0,0,10
+2017,Les Jardins Du Marais,50,0,0,0,0,0,0
+2018,Les Jardins Du Marais,0,2,0,0,0,0,0
+2019,Les Jardins Du Marais,0,0,39,0,0,0,0
+2020,Les Jardins Du Marais,0,0,0,2,0,0,0
+2021,Les Jardins Du Marais,0,0,0,0,1,0,0
+2022,Les Jardins Du Marais,0,0,0,0,0,39,0
+2023,Les Jardins Du Marais,0,0,0,0,0,0,14
+2024,Les Matins de Paris Spa,27,0,0,0,0,0,0
+2025,Les Matins de Paris Spa,0,3,0,0,0,0,0
+2026,Les Matins de Paris Spa,0,0,22,0,0,0,0
+2027,Les Matins de Paris Spa,0,0,0,3,0,0,0
+2028,Les Matins de Paris Spa,0,0,0,0,0,23,0
+2029,Les Matins de Paris Spa,0,0,0,0,0,0,6
+2030,Les Plumes Hotel,36,0,0,0,0,0,0
+2031,Les Plumes Hotel,0,0,50,0,0,0,0
+2032,Les Plumes Hotel,0,0,0,3,0,0,0
+2033,Les Plumes Hotel,0,0,0,0,3,0,0
+2034,Les Plumes Hotel,0,0,0,0,0,32,0
+2035,Les Plumes Hotel,0,0,0,0,0,0,10
+2036,Little Palace Hotel,115,0,0,0,0,0,0
+2037,Little Palace Hotel,0,8,0,0,0,0,0
+2038,Little Palace Hotel,0,0,103,0,0,0,0
+2039,Little Palace Hotel,0,0,0,4,0,0,0
+2040,Little Palace Hotel,0,0,0,0,6,0,0
+2041,Little Palace Hotel,0,0,0,0,0,112,0
+2042,Little Palace Hotel,0,0,0,0,0,0,31
+2043,Lyric H tel Paris,38,0,0,0,0,0,0
+2044,Lyric H tel Paris,0,2,0,0,0,0,0
+2045,Lyric H tel Paris,0,0,33,0,0,0,0
+2046,Lyric H tel Paris,0,0,0,4,0,0,0
+2047,Lyric H tel Paris,0,0,0,0,4,0,0
+2048,Lyric H tel Paris,0,0,0,0,0,28,0
+2049,Lyric H tel Paris,0,0,0,0,0,0,20
+2050,MARQUIS Faubourg St Honor Relais Ch teaux,2,0,0,0,0,0,0
+2051,MARQUIS Faubourg St Honor Relais Ch teaux,0,0,4,0,0,0,0
+2052,MARQUIS Faubourg St Honor Relais Ch teaux,0,0,0,0,0,3,0
+2053,Madeleine Plaza,34,0,0,0,0,0,0
+2054,Madeleine Plaza,0,1,0,0,0,0,0
+2055,Madeleine Plaza,0,0,42,0,0,0,0
+2056,Madeleine Plaza,0,0,0,3,0,0,0
+2057,Madeleine Plaza,0,0,0,0,0,61,0
+2058,Madeleine Plaza,0,0,0,0,0,0,11
+2059,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,33,0,0,0,0,0,0
+2060,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,0,0,47,0,0,0,0
+2061,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,0,0,0,3,0,0,0
+2062,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,0,0,0,0,2,0,0
+2063,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,0,0,0,0,0,45,0
+2064,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,0,0,0,0,0,0,3
+2065,Maison Albar Hotel Paris C line,29,0,0,0,0,0,0
+2066,Maison Albar Hotel Paris C line,0,1,0,0,0,0,0
+2067,Maison Albar Hotel Paris C line,0,0,26,0,0,0,0
+2068,Maison Albar Hotel Paris C line,0,0,0,1,0,0,0
+2069,Maison Albar Hotel Paris C line,0,0,0,0,1,0,0
+2070,Maison Albar Hotel Paris C line,0,0,0,0,0,23,0
+2071,Maison Albar Hotel Paris C line,0,0,0,0,0,0,5
+2072,Maison Albar Hotel Paris Op ra Diamond,121,0,0,0,0,0,0
+2073,Maison Albar Hotel Paris Op ra Diamond,0,4,0,0,0,0,0
+2074,Maison Albar Hotel Paris Op ra Diamond,0,0,103,0,0,0,0
+2075,Maison Albar Hotel Paris Op ra Diamond,0,0,0,16,0,0,0
+2076,Maison Albar Hotel Paris Op ra Diamond,0,0,0,0,4,0,0
+2077,Maison Albar Hotel Paris Op ra Diamond,0,0,0,0,0,77,0
+2078,Maison Albar Hotel Paris Op ra Diamond,0,0,0,0,0,0,21
+2079,Maison Souquet,21,0,0,0,0,0,0
+2080,Maison Souquet,0,0,41,0,0,0,0
+2081,Maison Souquet,0,0,0,13,0,0,0
+2082,Maison Souquet,0,0,0,0,1,0,0
+2083,Maison Souquet,0,0,0,0,0,16,0
+2084,Maison Souquet,0,0,0,0,0,0,4
+2085,Majestic Hotel Spa,15,0,0,0,0,0,0
+2086,Majestic Hotel Spa,0,0,11,0,0,0,0
+2087,Majestic Hotel Spa,0,0,0,3,0,0,0
+2088,Majestic Hotel Spa,0,0,0,0,0,8,0
+2089,Majestic Hotel Spa,0,0,0,0,0,0,1
+2090,Mandarin Oriental Paris,3,0,0,0,0,0,0
+2091,Mandarin Oriental Paris,0,0,7,0,0,0,0
+2092,Mandarin Oriental Paris,0,0,0,2,0,0,0
+2093,Mandarin Oriental Paris,0,0,0,0,0,4,0
+2094,Mandarin Oriental Paris,0,0,0,0,0,0,2
+2095,Maxim Op ra,15,0,0,0,0,0,0
+2096,Maxim Op ra,0,2,0,0,0,0,0
+2097,Maxim Op ra,0,0,10,0,0,0,0
+2098,Maxim Op ra,0,0,0,1,0,0,0
+2099,Maxim Op ra,0,0,0,0,0,8,0
+2100,Maxim Op ra,0,0,0,0,0,0,1
+2101,Melia Paris Champs Elys es,2,0,0,0,0,0,0
+2102,Melia Paris Champs Elys es,0,0,4,0,0,0,0
+2103,Melia Paris Champs Elys es,0,0,0,0,0,1,0
+2104,Melia Paris Notre Dame,12,0,0,0,0,0,0
+2105,Melia Paris Notre Dame,0,2,0,0,0,0,0
+2106,Melia Paris Notre Dame,0,0,23,0,0,0,0
+2107,Melia Paris Notre Dame,0,0,0,4,0,0,0
+2108,Melia Paris Notre Dame,0,0,0,0,1,0,0
+2109,Melia Paris Notre Dame,0,0,0,0,0,23,0
+2110,Melia Paris Notre Dame,0,0,0,0,0,0,6
+2111,Melia Paris Tour Eiffel,7,0,0,0,0,0,0
+2112,Melia Paris Tour Eiffel,0,0,14,0,0,0,0
+2113,Melia Paris Tour Eiffel,0,0,0,2,0,0,0
+2114,Melia Paris Tour Eiffel,0,0,0,0,0,14,0
+2115,Melia Paris Tour Eiffel,0,0,0,0,0,0,6
+2116,Melia Paris Vendome,9,0,0,0,0,0,0
+2117,Melia Paris Vendome,0,1,0,0,0,0,0
+2118,Melia Paris Vendome,0,0,11,0,0,0,0
+2119,Melia Paris Vendome,0,0,0,3,0,0,0
+2120,Melia Paris Vendome,0,0,0,0,0,15,0
+2121,Melia Paris Vendome,0,0,0,0,0,0,4
+2122,Mercure Paris 15 Porte de Versailles,8,0,0,0,0,0,0
+2123,Mercure Paris 15 Porte de Versailles,0,2,0,0,0,0,0
+2124,Mercure Paris 15 Porte de Versailles,0,0,8,0,0,0,0
+2125,Mercure Paris 15 Porte de Versailles,0,0,0,2,0,0,0
+2126,Mercure Paris 15 Porte de Versailles,0,0,0,0,0,2,0
+2127,Mercure Paris 15 Porte de Versailles,0,0,0,0,0,0,3
+2128,Mercure Paris 17 me Saint Lazare Monceau,6,0,0,0,0,0,0
+2129,Mercure Paris 17 me Saint Lazare Monceau,0,0,4,0,0,0,0
+2130,Mercure Paris 17 me Saint Lazare Monceau,0,0,0,0,0,2,0
+2131,Mercure Paris 17 me Saint Lazare Monceau,0,0,0,0,0,0,3
+2132,Mercure Paris 19 Philharmonie La Villette,17,0,0,0,0,0,0
+2133,Mercure Paris 19 Philharmonie La Villette,0,1,0,0,0,0,0
+2134,Mercure Paris 19 Philharmonie La Villette,0,0,12,0,0,0,0
+2135,Mercure Paris 19 Philharmonie La Villette,0,0,0,3,0,0,0
+2136,Mercure Paris 19 Philharmonie La Villette,0,0,0,0,0,15,0
+2137,Mercure Paris 19 Philharmonie La Villette,0,0,0,0,0,0,5
+2138,Mercure Paris Alesia,25,0,0,0,0,0,0
+2139,Mercure Paris Alesia,0,3,0,0,0,0,0
+2140,Mercure Paris Alesia,0,0,26,0,0,0,0
+2141,Mercure Paris Alesia,0,0,0,6,0,0,0
+2142,Mercure Paris Alesia,0,0,0,0,3,0,0
+2143,Mercure Paris Alesia,0,0,0,0,0,18,0
+2144,Mercure Paris Alesia,0,0,0,0,0,0,9
+2145,Mercure Paris Arc de Triomphe Etoile,7,0,0,0,0,0,0
+2146,Mercure Paris Arc de Triomphe Etoile,0,0,4,0,0,0,0
+2147,Mercure Paris Arc de Triomphe Etoile,0,0,0,1,0,0,0
+2148,Mercure Paris Arc de Triomphe Etoile,0,0,0,0,0,5,0
+2149,Mercure Paris Bastille Marais,15,0,0,0,0,0,0
+2150,Mercure Paris Bastille Marais,0,1,0,0,0,0,0
+2151,Mercure Paris Bastille Marais,0,0,10,0,0,0,0
+2152,Mercure Paris Bastille Marais,0,0,0,1,0,0,0
+2153,Mercure Paris Bastille Marais,0,0,0,0,0,10,0
+2154,Mercure Paris Bastille Marais,0,0,0,0,0,0,1
+2155,Mercure Paris Bastille Saint Antoine,7,0,0,0,0,0,0
+2156,Mercure Paris Bastille Saint Antoine,0,0,7,0,0,0,0
+2157,Mercure Paris Bastille Saint Antoine,0,0,0,0,0,3,0
+2158,Mercure Paris Bercy Biblioth que,34,0,0,0,0,0,0
+2159,Mercure Paris Bercy Biblioth que,0,6,0,0,0,0,0
+2160,Mercure Paris Bercy Biblioth que,0,0,36,0,0,0,0
+2161,Mercure Paris Bercy Biblioth que,0,0,0,3,0,0,0
+2162,Mercure Paris Bercy Biblioth que,0,0,0,0,1,0,0
+2163,Mercure Paris Bercy Biblioth que,0,0,0,0,0,23,0
+2164,Mercure Paris Bercy Biblioth que,0,0,0,0,0,0,19
+2165,Mercure Paris Centre Tour Eiffel,123,0,0,0,0,0,0
+2166,Mercure Paris Centre Tour Eiffel,0,11,0,0,0,0,0
+2167,Mercure Paris Centre Tour Eiffel,0,0,150,0,0,0,0
+2168,Mercure Paris Centre Tour Eiffel,0,0,0,16,0,0,0
+2169,Mercure Paris Centre Tour Eiffel,0,0,0,0,2,0,0
+2170,Mercure Paris Centre Tour Eiffel,0,0,0,0,0,210,0
+2171,Mercure Paris Centre Tour Eiffel,0,0,0,0,0,0,64
+2172,Mercure Paris Champs Elys es,7,0,0,0,0,0,0
+2173,Mercure Paris Champs Elys es,0,1,0,0,0,0,0
+2174,Mercure Paris Champs Elys es,0,0,7,0,0,0,0
+2175,Mercure Paris Champs Elys es,0,0,0,0,0,11,0
+2176,Mercure Paris Champs Elys es,0,0,0,0,0,0,2
+2177,Mercure Paris Gare De Lyon TGV,75,0,0,0,0,0,0
+2178,Mercure Paris Gare De Lyon TGV,0,5,0,0,0,0,0
+2179,Mercure Paris Gare De Lyon TGV,0,0,90,0,0,0,0
+2180,Mercure Paris Gare De Lyon TGV,0,0,0,9,0,0,0
+2181,Mercure Paris Gare De Lyon TGV,0,0,0,0,0,121,0
+2182,Mercure Paris Gare De Lyon TGV,0,0,0,0,0,0,40
+2183,Mercure Paris Gare Montparnasse,11,0,0,0,0,0,0
+2184,Mercure Paris Gare Montparnasse,0,1,0,0,0,0,0
+2185,Mercure Paris Gare Montparnasse,0,0,4,0,0,0,0
+2186,Mercure Paris Gare Montparnasse,0,0,0,0,0,8,0
+2187,Mercure Paris Gare Montparnasse,0,0,0,0,0,0,4
+2188,Mercure Paris Gobelins Place d Italie,6,0,0,0,0,0,0
+2189,Mercure Paris Gobelins Place d Italie,0,0,3,0,0,0,0
+2190,Mercure Paris Gobelins Place d Italie,0,0,0,2,0,0,0
+2191,Mercure Paris Gobelins Place d Italie,0,0,0,0,0,5,0
+2192,Mercure Paris Gobelins Place d Italie,0,0,0,0,0,0,1
+2193,Mercure Paris Montmartre Sacr Coeur,93,0,0,0,0,0,0
+2194,Mercure Paris Montmartre Sacr Coeur,0,5,0,0,0,0,0
+2195,Mercure Paris Montmartre Sacr Coeur,0,0,66,0,0,0,0
+2196,Mercure Paris Montmartre Sacr Coeur,0,0,0,8,0,0,0
+2197,Mercure Paris Montmartre Sacr Coeur,0,0,0,0,0,75,0
+2198,Mercure Paris Montmartre Sacr Coeur,0,0,0,0,0,0,32
+2199,Mercure Paris Montparnasse Raspail,23,0,0,0,0,0,0
+2200,Mercure Paris Montparnasse Raspail,0,3,0,0,0,0,0
+2201,Mercure Paris Montparnasse Raspail,0,0,34,0,0,0,0
+2202,Mercure Paris Montparnasse Raspail,0,0,0,3,0,0,0
+2203,Mercure Paris Montparnasse Raspail,0,0,0,0,1,0,0
+2204,Mercure Paris Montparnasse Raspail,0,0,0,0,0,25,0
+2205,Mercure Paris Montparnasse Raspail,0,0,0,0,0,0,14
+2206,Mercure Paris Notre Dame Saint Germain des Pr s,12,0,0,0,0,0,0
+2207,Mercure Paris Notre Dame Saint Germain des Pr s,0,3,0,0,0,0,0
+2208,Mercure Paris Notre Dame Saint Germain des Pr s,0,0,21,0,0,0,0
+2209,Mercure Paris Notre Dame Saint Germain des Pr s,0,0,0,3,0,0,0
+2210,Mercure Paris Notre Dame Saint Germain des Pr s,0,0,0,0,0,27,0
+2211,Mercure Paris Notre Dame Saint Germain des Pr s,0,0,0,0,0,0,4
+2212,Mercure Paris Op ra Faubourg Montmartre,6,0,0,0,0,0,0
+2213,Mercure Paris Op ra Faubourg Montmartre,0,0,7,0,0,0,0
+2214,Mercure Paris Op ra Faubourg Montmartre,0,0,0,0,0,11,0
+2215,Mercure Paris Op ra Faubourg Montmartre,0,0,0,0,0,0,1
+2216,Mercure Paris Opera Garnier,24,0,0,0,0,0,0
+2217,Mercure Paris Opera Garnier,0,3,0,0,0,0,0
+2218,Mercure Paris Opera Garnier,0,0,25,0,0,0,0
+2219,Mercure Paris Opera Garnier,0,0,0,4,0,0,0
+2220,Mercure Paris Opera Garnier,0,0,0,0,0,31,0
+2221,Mercure Paris Opera Garnier,0,0,0,0,0,0,9
+2222,Mercure Paris Opera Grands Boulevards,26,0,0,0,0,0,0
+2223,Mercure Paris Opera Grands Boulevards,0,1,0,0,0,0,0
+2224,Mercure Paris Opera Grands Boulevards,0,0,21,0,0,0,0
+2225,Mercure Paris Opera Grands Boulevards,0,0,0,0,0,16,0
+2226,Mercure Paris Opera Grands Boulevards,0,0,0,0,0,0,12
+2227,Mercure Paris Opera Louvre,39,0,0,0,0,0,0
+2228,Mercure Paris Opera Louvre,0,4,0,0,0,0,0
+2229,Mercure Paris Opera Louvre,0,0,18,0,0,0,0
+2230,Mercure Paris Opera Louvre,0,0,0,5,0,0,0
+2231,Mercure Paris Opera Louvre,0,0,0,0,0,23,0
+2232,Mercure Paris Opera Louvre,0,0,0,0,0,0,10
+2233,Mercure Paris Pigalle Sacre Coeur,26,0,0,0,0,0,0
+2234,Mercure Paris Pigalle Sacre Coeur,0,4,0,0,0,0,0
+2235,Mercure Paris Pigalle Sacre Coeur,0,0,11,0,0,0,0
+2236,Mercure Paris Pigalle Sacre Coeur,0,0,0,3,0,0,0
+2237,Mercure Paris Pigalle Sacre Coeur,0,0,0,0,0,16,0
+2238,Mercure Paris Pigalle Sacre Coeur,0,0,0,0,0,0,1
+2239,Mercure Paris Place d Italie,3,0,0,0,0,0,0
+2240,Mercure Paris Place d Italie,0,2,0,0,0,0,0
+2241,Mercure Paris Place d Italie,0,0,9,0,0,0,0
+2242,Mercure Paris Place d Italie,0,0,0,0,0,6,0
+2243,Mercure Paris Place d Italie,0,0,0,0,0,0,1
+2244,Mercure Paris Porte De Versailles Expo,8,0,0,0,0,0,0
+2245,Mercure Paris Porte De Versailles Expo,0,2,0,0,0,0,0
+2246,Mercure Paris Porte De Versailles Expo,0,0,7,0,0,0,0
+2247,Mercure Paris Porte De Versailles Expo,0,0,0,1,0,0,0
+2248,Mercure Paris Porte De Versailles Expo,0,0,0,0,0,4,0
+2249,Mercure Paris Porte De Versailles Expo,0,0,0,0,0,0,2
+2250,Mercure Paris Porte d Orleans,1,0,0,0,0,0,0
+2251,Mercure Paris Porte d Orleans,0,0,3,0,0,0,0
+2252,Mercure Paris Porte d Orleans,0,0,0,0,0,0,3
+2253,Mercure Paris Terminus Nord,336,0,0,0,0,0,0
+2254,Mercure Paris Terminus Nord,0,29,0,0,0,0,0
+2255,Mercure Paris Terminus Nord,0,0,252,0,0,0,0
+2256,Mercure Paris Terminus Nord,0,0,0,19,0,0,0
+2257,Mercure Paris Terminus Nord,0,0,0,0,1,0,0
+2258,Mercure Paris Terminus Nord,0,0,0,0,0,382,0
+2259,Mercure Paris Terminus Nord,0,0,0,0,0,0,113
+2260,Mercure Paris Tour Eiffel Pont Mirabeau,21,0,0,0,0,0,0
+2261,Mercure Paris Tour Eiffel Pont Mirabeau,0,4,0,0,0,0,0
+2262,Mercure Paris Tour Eiffel Pont Mirabeau,0,0,29,0,0,0,0
+2263,Mercure Paris Tour Eiffel Pont Mirabeau,0,0,0,1,0,0,0
+2264,Mercure Paris Tour Eiffel Pont Mirabeau,0,0,0,0,1,0,0
+2265,Mercure Paris Tour Eiffel Pont Mirabeau,0,0,0,0,0,19,0
+2266,Mercure Paris Tour Eiffel Pont Mirabeau,0,0,0,0,0,0,7
+2267,Mercure Tour Eiffel Grenelle,14,0,0,0,0,0,0
+2268,Mercure Tour Eiffel Grenelle,0,2,0,0,0,0,0
+2269,Mercure Tour Eiffel Grenelle,0,0,8,0,0,0,0
+2270,Mercure Tour Eiffel Grenelle,0,0,0,2,0,0,0
+2271,Mercure Tour Eiffel Grenelle,0,0,0,0,0,12,0
+2272,Mercure Tour Eiffel Grenelle,0,0,0,0,0,0,1
+2273,Mercure Vaugirard Paris Porte De Versailles,41,0,0,0,0,0,0
+2274,Mercure Vaugirard Paris Porte De Versailles,0,3,0,0,0,0,0
+2275,Mercure Vaugirard Paris Porte De Versailles,0,0,28,0,0,0,0
+2276,Mercure Vaugirard Paris Porte De Versailles,0,0,0,4,0,0,0
+2277,Mercure Vaugirard Paris Porte De Versailles,0,0,0,0,0,27,0
+2278,Mercure Vaugirard Paris Porte De Versailles,0,0,0,0,0,0,8
+2279,Mill sime H tel,82,0,0,0,0,0,0
+2280,Mill sime H tel,0,5,0,0,0,0,0
+2281,Mill sime H tel,0,0,73,0,0,0,0
+2282,Mill sime H tel,0,0,0,6,0,0,0
+2283,Mill sime H tel,0,0,0,0,4,0,0
+2284,Mill sime H tel,0,0,0,0,0,74,0
+2285,Mill sime H tel,0,0,0,0,0,0,16
+2286,Millennium Hotel Paris Opera,37,0,0,0,0,0,0
+2287,Millennium Hotel Paris Opera,0,0,27,0,0,0,0
+2288,Millennium Hotel Paris Opera,0,0,0,4,0,0,0
+2289,Millennium Hotel Paris Opera,0,0,0,0,0,40,0
+2290,Millennium Hotel Paris Opera,0,0,0,0,0,0,9
+2291,Molitor Paris MGallery by Sofitel,11,0,0,0,0,0,0
+2292,Molitor Paris MGallery by Sofitel,0,0,13,0,0,0,0
+2293,Molitor Paris MGallery by Sofitel,0,0,0,1,0,0,0
+2294,Molitor Paris MGallery by Sofitel,0,0,0,0,2,0,0
+2295,Molitor Paris MGallery by Sofitel,0,0,0,0,0,3,0
+2296,Molitor Paris MGallery by Sofitel,0,0,0,0,0,0,5
+2297,Monhotel Lounge SPA,16,0,0,0,0,0,0
+2298,Monhotel Lounge SPA,0,0,16,0,0,0,0
+2299,Monhotel Lounge SPA,0,0,0,3,0,0,0
+2300,Monhotel Lounge SPA,0,0,0,0,0,13,0
+2301,Monhotel Lounge SPA,0,0,0,0,0,0,3
+2302,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,28,0,0,0,0,0,0
+2303,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,0,2,0,0,0,0,0
+2304,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,0,0,23,0,0,0,0
+2305,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,0,0,0,2,0,0,0
+2306,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,0,0,0,0,1,0,0
+2307,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,0,0,0,0,0,15,0
+2308,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,0,0,0,0,0,0,5
+2309,Montfleuri,53,0,0,0,0,0,0
+2310,Montfleuri,0,3,0,0,0,0,0
+2311,Montfleuri,0,0,63,0,0,0,0
+2312,Montfleuri,0,0,0,8,0,0,0
+2313,Montfleuri,0,0,0,0,2,0,0
+2314,Montfleuri,0,0,0,0,0,76,0
+2315,Montfleuri,0,0,0,0,0,0,15
+2316,My Home In Paris,38,0,0,0,0,0,0
+2317,My Home In Paris,0,3,0,0,0,0,0
+2318,My Home In Paris,0,0,26,0,0,0,0
+2319,My Home In Paris,0,0,0,5,0,0,0
+2320,My Home In Paris,0,0,0,0,1,0,0
+2321,My Home In Paris,0,0,0,0,0,22,0
+2322,My Home In Paris,0,0,0,0,0,0,27
+2323,Napoleon Paris,45,0,0,0,0,0,0
+2324,Napoleon Paris,0,1,0,0,0,0,0
+2325,Napoleon Paris,0,0,61,0,0,0,0
+2326,Napoleon Paris,0,0,0,15,0,0,0
+2327,Napoleon Paris,0,0,0,0,3,0,0
+2328,Napoleon Paris,0,0,0,0,0,72,0
+2329,Napoleon Paris,0,0,0,0,0,0,3
+2330,Nell Hotel Suites,8,0,0,0,0,0,0
+2331,Nell Hotel Suites,0,1,0,0,0,0,0
+2332,Nell Hotel Suites,0,0,16,0,0,0,0
+2333,Nell Hotel Suites,0,0,0,3,0,0,0
+2334,Nell Hotel Suites,0,0,0,0,1,0,0
+2335,Nell Hotel Suites,0,0,0,0,0,12,0
+2336,Nell Hotel Suites,0,0,0,0,0,0,2
+2337,Newhotel Roblin,95,0,0,0,0,0,0
+2338,Newhotel Roblin,0,8,0,0,0,0,0
+2339,Newhotel Roblin,0,0,91,0,0,0,0
+2340,Newhotel Roblin,0,0,0,10,0,0,0
+2341,Newhotel Roblin,0,0,0,0,3,0,0
+2342,Newhotel Roblin,0,0,0,0,0,115,0
+2343,Newhotel Roblin,0,0,0,0,0,0,21
+2344,Nolinski Paris,16,0,0,0,0,0,0
+2345,Nolinski Paris,0,0,42,0,0,0,0
+2346,Nolinski Paris,0,0,0,24,0,0,0
+2347,Nolinski Paris,0,0,0,0,10,0,0
+2348,Nolinski Paris,0,0,0,0,0,21,0
+2349,Nolinski Paris,0,0,0,0,0,0,4
+2350,Novotel Paris 14 Porte d Orl ans,14,0,0,0,0,0,0
+2351,Novotel Paris 14 Porte d Orl ans,0,1,0,0,0,0,0
+2352,Novotel Paris 14 Porte d Orl ans,0,0,11,0,0,0,0
+2353,Novotel Paris 14 Porte d Orl ans,0,0,0,3,0,0,0
+2354,Novotel Paris 14 Porte d Orl ans,0,0,0,0,0,3,0
+2355,Novotel Paris 14 Porte d Orl ans,0,0,0,0,0,0,6
+2356,Novotel Paris 17,24,0,0,0,0,0,0
+2357,Novotel Paris 17,0,0,25,0,0,0,0
+2358,Novotel Paris 17,0,0,0,2,0,0,0
+2359,Novotel Paris 17,0,0,0,0,0,7,0
+2360,Novotel Paris 17,0,0,0,0,0,0,11
+2361,Novotel Paris Centre Bercy,45,0,0,0,0,0,0
+2362,Novotel Paris Centre Bercy,0,3,0,0,0,0,0
+2363,Novotel Paris Centre Bercy,0,0,41,0,0,0,0
+2364,Novotel Paris Centre Bercy,0,0,0,4,0,0,0
+2365,Novotel Paris Centre Bercy,0,0,0,0,0,32,0
+2366,Novotel Paris Centre Bercy,0,0,0,0,0,0,20
+2367,Novotel Paris Centre Gare Montparnasse,63,0,0,0,0,0,0
+2368,Novotel Paris Centre Gare Montparnasse,0,4,0,0,0,0,0
+2369,Novotel Paris Centre Gare Montparnasse,0,0,56,0,0,0,0
+2370,Novotel Paris Centre Gare Montparnasse,0,0,0,6,0,0,0
+2371,Novotel Paris Centre Gare Montparnasse,0,0,0,0,1,0,0
+2372,Novotel Paris Centre Gare Montparnasse,0,0,0,0,0,34,0
+2373,Novotel Paris Centre Gare Montparnasse,0,0,0,0,0,0,40
+2374,Novotel Paris Centre Tour Eiffel,118,0,0,0,0,0,0
+2375,Novotel Paris Centre Tour Eiffel,0,5,0,0,0,0,0
+2376,Novotel Paris Centre Tour Eiffel,0,0,98,0,0,0,0
+2377,Novotel Paris Centre Tour Eiffel,0,0,0,19,0,0,0
+2378,Novotel Paris Centre Tour Eiffel,0,0,0,0,0,117,0
+2379,Novotel Paris Centre Tour Eiffel,0,0,0,0,0,0,41
+2380,Novotel Paris Gare De Lyon,150,0,0,0,0,0,0
+2381,Novotel Paris Gare De Lyon,0,21,0,0,0,0,0
+2382,Novotel Paris Gare De Lyon,0,0,148,0,0,0,0
+2383,Novotel Paris Gare De Lyon,0,0,0,23,0,0,0
+2384,Novotel Paris Gare De Lyon,0,0,0,0,0,117,0
+2385,Novotel Paris Gare De Lyon,0,0,0,0,0,0,85
+2386,Novotel Paris Les Halles,123,0,0,0,0,0,0
+2387,Novotel Paris Les Halles,0,11,0,0,0,0,0
+2388,Novotel Paris Les Halles,0,0,165,0,0,0,0
+2389,Novotel Paris Les Halles,0,0,0,19,0,0,0
+2390,Novotel Paris Les Halles,0,0,0,0,3,0,0
+2391,Novotel Paris Les Halles,0,0,0,0,0,144,0
+2392,Novotel Paris Les Halles,0,0,0,0,0,0,68
+2393,Novotel Paris Vaugirard Montparnasse,48,0,0,0,0,0,0
+2394,Novotel Paris Vaugirard Montparnasse,0,3,0,0,0,0,0
+2395,Novotel Paris Vaugirard Montparnasse,0,0,63,0,0,0,0
+2396,Novotel Paris Vaugirard Montparnasse,0,0,0,7,0,0,0
+2397,Novotel Paris Vaugirard Montparnasse,0,0,0,0,0,43,0
+2398,Novotel Paris Vaugirard Montparnasse,0,0,0,0,0,0,26
+2399,Novotel Suites Paris Expo Porte de Versailles,123,0,0,0,0,0,0
+2400,Novotel Suites Paris Expo Porte de Versailles,0,13,0,0,0,0,0
+2401,Novotel Suites Paris Expo Porte de Versailles,0,0,68,0,0,0,0
+2402,Novotel Suites Paris Expo Porte de Versailles,0,0,0,8,0,0,0
+2403,Novotel Suites Paris Expo Porte de Versailles,0,0,0,0,6,0,0
+2404,Novotel Suites Paris Expo Porte de Versailles,0,0,0,0,0,36,0
+2405,Novotel Suites Paris Expo Porte de Versailles,0,0,0,0,0,0,41
+2406,Novotel Suites Paris Montreuil Vincennes,58,0,0,0,0,0,0
+2407,Novotel Suites Paris Montreuil Vincennes,0,8,0,0,0,0,0
+2408,Novotel Suites Paris Montreuil Vincennes,0,0,33,0,0,0,0
+2409,Novotel Suites Paris Montreuil Vincennes,0,0,0,1,0,0,0
+2410,Novotel Suites Paris Montreuil Vincennes,0,0,0,0,0,6,0
+2411,Novotel Suites Paris Montreuil Vincennes,0,0,0,0,0,0,11
+2412,Novotel Suites Paris Nord 18 me,77,0,0,0,0,0,0
+2413,Novotel Suites Paris Nord 18 me,0,10,0,0,0,0,0
+2414,Novotel Suites Paris Nord 18 me,0,0,29,0,0,0,0
+2415,Novotel Suites Paris Nord 18 me,0,0,0,5,0,0,0
+2416,Novotel Suites Paris Nord 18 me,0,0,0,0,0,8,0
+2417,Novotel Suites Paris Nord 18 me,0,0,0,0,0,0,10
+2418,Oceania Paris Porte De Versailles,75,0,0,0,0,0,0
+2419,Oceania Paris Porte De Versailles,0,5,0,0,0,0,0
+2420,Oceania Paris Porte De Versailles,0,0,77,0,0,0,0
+2421,Oceania Paris Porte De Versailles,0,0,0,6,0,0,0
+2422,Oceania Paris Porte De Versailles,0,0,0,0,1,0,0
+2423,Oceania Paris Porte De Versailles,0,0,0,0,0,34,0
+2424,Oceania Paris Porte De Versailles,0,0,0,0,0,0,31
+2425,Okko Hotels Paris Porte De Versailles,22,0,0,0,0,0,0
+2426,Okko Hotels Paris Porte De Versailles,0,2,0,0,0,0,0
+2427,Okko Hotels Paris Porte De Versailles,0,0,17,0,0,0,0
+2428,Okko Hotels Paris Porte De Versailles,0,0,0,5,0,0,0
+2429,Okko Hotels Paris Porte De Versailles,0,0,0,0,5,0,0
+2430,Okko Hotels Paris Porte De Versailles,0,0,0,0,0,4,0
+2431,Okko Hotels Paris Porte De Versailles,0,0,0,0,0,0,6
+2432,Op ra Marigny,30,0,0,0,0,0,0
+2433,Op ra Marigny,0,3,0,0,0,0,0
+2434,Op ra Marigny,0,0,30,0,0,0,0
+2435,Op ra Marigny,0,0,0,5,0,0,0
+2436,Op ra Marigny,0,0,0,0,1,0,0
+2437,Op ra Marigny,0,0,0,0,0,37,0
+2438,Op ra Marigny,0,0,0,0,0,0,11
+2439,Paris Marriott Champs Elysees Hotel,8,0,0,0,0,0,0
+2440,Paris Marriott Champs Elysees Hotel,0,0,27,0,0,0,0
+2441,Paris Marriott Champs Elysees Hotel,0,0,0,7,0,0,0
+2442,Paris Marriott Champs Elysees Hotel,0,0,0,0,0,29,0
+2443,Paris Marriott Champs Elysees Hotel,0,0,0,0,0,0,3
+2444,Paris Marriott Opera Ambassador Hotel,12,0,0,0,0,0,0
+2445,Paris Marriott Opera Ambassador Hotel,0,0,14,0,0,0,0
+2446,Paris Marriott Opera Ambassador Hotel,0,0,0,1,0,0,0
+2447,Paris Marriott Opera Ambassador Hotel,0,0,0,0,0,10,0
+2448,Paris Marriott Opera Ambassador Hotel,0,0,0,0,0,0,5
+2449,Paris Marriott Rive Gauche Hotel,11,0,0,0,0,0,0
+2450,Paris Marriott Rive Gauche Hotel,0,0,9,0,0,0,0
+2451,Paris Marriott Rive Gauche Hotel,0,0,0,2,0,0,0
+2452,Paris Marriott Rive Gauche Hotel,0,0,0,0,0,6,0
+2453,Paris Marriott Rive Gauche Hotel,0,0,0,0,0,0,6
+2454,Park Hyatt Paris Vendome,12,0,0,0,0,0,0
+2455,Park Hyatt Paris Vendome,0,1,0,0,0,0,0
+2456,Park Hyatt Paris Vendome,0,0,7,0,0,0,0
+2457,Park Hyatt Paris Vendome,0,0,0,3,0,0,0
+2458,Park Hyatt Paris Vendome,0,0,0,0,0,5,0
+2459,Park Hyatt Paris Vendome,0,0,0,0,0,0,1
+2460,Pershing Hall,4,0,0,0,0,0,0
+2461,Pershing Hall,0,0,3,0,0,0,0
+2462,Pershing Hall,0,0,0,3,0,0,0
+2463,Pershing Hall,0,0,0,0,0,6,0
+2464,Phileas Hotel,68,0,0,0,0,0,0
+2465,Phileas Hotel,0,12,0,0,0,0,0
+2466,Phileas Hotel,0,0,58,0,0,0,0
+2467,Phileas Hotel,0,0,0,4,0,0,0
+2468,Phileas Hotel,0,0,0,0,2,0,0
+2469,Phileas Hotel,0,0,0,0,0,51,0
+2470,Phileas Hotel,0,0,0,0,0,0,17
+2471,Platine Hotel Spa,29,0,0,0,0,0,0
+2472,Platine Hotel Spa,0,2,0,0,0,0,0
+2473,Platine Hotel Spa,0,0,41,0,0,0,0
+2474,Platine Hotel Spa,0,0,0,3,0,0,0
+2475,Platine Hotel Spa,0,0,0,0,7,0,0
+2476,Platine Hotel Spa,0,0,0,0,0,38,0
+2477,Platine Hotel Spa,0,0,0,0,0,0,6
+2478,Plaza Tour Eiffel,19,0,0,0,0,0,0
+2479,Plaza Tour Eiffel,0,3,0,0,0,0,0
+2480,Plaza Tour Eiffel,0,0,22,0,0,0,0
+2481,Plaza Tour Eiffel,0,0,0,3,0,0,0
+2482,Plaza Tour Eiffel,0,0,0,0,2,0,0
+2483,Plaza Tour Eiffel,0,0,0,0,0,14,0
+2484,Plaza Tour Eiffel,0,0,0,0,0,0,9
+2485,Prince de Galles a Luxury Collection hotel Paris,3,0,0,0,0,0,0
+2486,Prince de Galles a Luxury Collection hotel Paris,0,2,0,0,0,0,0
+2487,Prince de Galles a Luxury Collection hotel Paris,0,0,6,0,0,0,0
+2488,Prince de Galles a Luxury Collection hotel Paris,0,0,0,4,0,0,0
+2489,Prince de Galles a Luxury Collection hotel Paris,0,0,0,0,1,0,0
+2490,Prince de Galles a Luxury Collection hotel Paris,0,0,0,0,0,10,0
+2491,Pullman Paris Centre Bercy,56,0,0,0,0,0,0
+2492,Pullman Paris Centre Bercy,0,2,0,0,0,0,0
+2493,Pullman Paris Centre Bercy,0,0,82,0,0,0,0
+2494,Pullman Paris Centre Bercy,0,0,0,10,0,0,0
+2495,Pullman Paris Centre Bercy,0,0,0,0,0,35,0
+2496,Pullman Paris Centre Bercy,0,0,0,0,0,0,35
+2497,Pullman Paris Montparnasse,63,0,0,0,0,0,0
+2498,Pullman Paris Montparnasse,0,4,0,0,0,0,0
+2499,Pullman Paris Montparnasse,0,0,53,0,0,0,0
+2500,Pullman Paris Montparnasse,0,0,0,10,0,0,0
+2501,Pullman Paris Montparnasse,0,0,0,0,0,54,0
+2502,Pullman Paris Montparnasse,0,0,0,0,0,0,39
+2503,Pullman Paris Tour Eiffel,269,0,0,0,0,0,0
+2504,Pullman Paris Tour Eiffel,0,19,0,0,0,0,0
+2505,Pullman Paris Tour Eiffel,0,0,238,0,0,0,0
+2506,Pullman Paris Tour Eiffel,0,0,0,50,0,0,0
+2507,Pullman Paris Tour Eiffel,0,0,0,0,2,0,0
+2508,Pullman Paris Tour Eiffel,0,0,0,0,0,211,0
+2509,Pullman Paris Tour Eiffel,0,0,0,0,0,0,106
+2510,R Kipling by Happyculture,20,0,0,0,0,0,0
+2511,R Kipling by Happyculture,0,2,0,0,0,0,0
+2512,R Kipling by Happyculture,0,0,30,0,0,0,0
+2513,R Kipling by Happyculture,0,0,0,2,0,0,0
+2514,R Kipling by Happyculture,0,0,0,0,2,0,0
+2515,R Kipling by Happyculture,0,0,0,0,0,14,0
+2516,R Kipling by Happyculture,0,0,0,0,0,0,16
+2517,Radisson Blu Champs Elys es Paris,20,0,0,0,0,0,0
+2518,Radisson Blu Champs Elys es Paris,0,3,0,0,0,0,0
+2519,Radisson Blu Champs Elys es Paris,0,0,30,0,0,0,0
+2520,Radisson Blu Champs Elys es Paris,0,0,0,4,0,0,0
+2521,Radisson Blu Champs Elys es Paris,0,0,0,0,0,38,0
+2522,Radisson Blu Champs Elys es Paris,0,0,0,0,0,0,9
+2523,Relais Christine,21,0,0,0,0,0,0
+2524,Relais Christine,0,0,32,0,0,0,0
+2525,Relais Christine,0,0,0,7,0,0,0
+2526,Relais Christine,0,0,0,0,0,41,0
+2527,Relais Christine,0,0,0,0,0,0,6
+2528,Relais Du Louvre,41,0,0,0,0,0,0
+2529,Relais Du Louvre,0,2,0,0,0,0,0
+2530,Relais Du Louvre,0,0,47,0,0,0,0
+2531,Relais Du Louvre,0,0,0,5,0,0,0
+2532,Relais Du Louvre,0,0,0,0,0,32,0
+2533,Relais Du Louvre,0,0,0,0,0,0,13
+2534,Relais H tel du Vieux Paris,70,0,0,0,0,0,0
+2535,Relais H tel du Vieux Paris,0,5,0,0,0,0,0
+2536,Relais H tel du Vieux Paris,0,0,70,0,0,0,0
+2537,Relais H tel du Vieux Paris,0,0,0,2,0,0,0
+2538,Relais H tel du Vieux Paris,0,0,0,0,1,0,0
+2539,Relais H tel du Vieux Paris,0,0,0,0,0,80,0
+2540,Relais H tel du Vieux Paris,0,0,0,0,0,0,19
+2541,Relais Saint Jacques,47,0,0,0,0,0,0
+2542,Relais Saint Jacques,0,4,0,0,0,0,0
+2543,Relais Saint Jacques,0,0,39,0,0,0,0
+2544,Relais Saint Jacques,0,0,0,4,0,0,0
+2545,Relais Saint Jacques,0,0,0,0,3,0,0
+2546,Relais Saint Jacques,0,0,0,0,0,34,0
+2547,Relais Saint Jacques,0,0,0,0,0,0,10
+2548,Renaissance Paris Arc de Triomphe Hotel,14,0,0,0,0,0,0
+2549,Renaissance Paris Arc de Triomphe Hotel,0,0,19,0,0,0,0
+2550,Renaissance Paris Arc de Triomphe Hotel,0,0,0,2,0,0,0
+2551,Renaissance Paris Arc de Triomphe Hotel,0,0,0,0,0,15,0
+2552,Renaissance Paris Arc de Triomphe Hotel,0,0,0,0,0,0,1
+2553,Renaissance Paris Le Parc Trocadero Hotel,5,0,0,0,0,0,0
+2554,Renaissance Paris Le Parc Trocadero Hotel,0,0,5,0,0,0,0
+2555,Renaissance Paris Le Parc Trocadero Hotel,0,0,0,0,0,4,0
+2556,Renaissance Paris Le Parc Trocadero Hotel,0,0,0,0,0,0,4
+2557,Renaissance Paris Republique Hotel Spa,3,0,0,0,0,0,0
+2558,Renaissance Paris Republique Hotel Spa,0,0,5,0,0,0,0
+2559,Renaissance Paris Republique Hotel Spa,0,0,0,2,0,0,0
+2560,Renaissance Paris Republique Hotel Spa,0,0,0,0,2,0,0
+2561,Renaissance Paris Republique Hotel Spa,0,0,0,0,0,0,1
+2562,Renaissance Paris Vendome Hotel,2,0,0,0,0,0,0
+2563,Renaissance Paris Vendome Hotel,0,0,4,0,0,0,0
+2564,Renaissance Paris Vendome Hotel,0,0,0,1,0,0,0
+2565,Renaissance Paris Vendome Hotel,0,0,0,0,0,8,0
+2566,Residence Du Roy,76,0,0,0,0,0,0
+2567,Residence Du Roy,0,6,0,0,0,0,0
+2568,Residence Du Roy,0,0,58,0,0,0,0
+2569,Residence Du Roy,0,0,0,6,0,0,0
+2570,Residence Du Roy,0,0,0,0,0,86,0
+2571,Residence Du Roy,0,0,0,0,0,0,10
+2572,Residence Henri IV,81,0,0,0,0,0,0
+2573,Residence Henri IV,0,8,0,0,0,0,0
+2574,Residence Henri IV,0,0,79,0,0,0,0
+2575,Residence Henri IV,0,0,0,6,0,0,0
+2576,Residence Henri IV,0,0,0,0,0,70,0
+2577,Residence Henri IV,0,0,0,0,0,0,21
+2578,Ritz Paris,4,0,0,0,0,0,0
+2579,Ritz Paris,0,0,11,0,0,0,0
+2580,Ritz Paris,0,0,0,5,0,0,0
+2581,Ritz Paris,0,0,0,0,0,1,0
+2582,Ritz Paris,0,0,0,0,0,0,2
+2583,Rochester Champs Elysees,36,0,0,0,0,0,0
+2584,Rochester Champs Elysees,0,6,0,0,0,0,0
+2585,Rochester Champs Elysees,0,0,47,0,0,0,0
+2586,Rochester Champs Elysees,0,0,0,7,0,0,0
+2587,Rochester Champs Elysees,0,0,0,0,1,0,0
+2588,Rochester Champs Elysees,0,0,0,0,0,38,0
+2589,Rochester Champs Elysees,0,0,0,0,0,0,9
+2590,Royal Garden Champs Elysees,40,0,0,0,0,0,0
+2591,Royal Garden Champs Elysees,0,2,0,0,0,0,0
+2592,Royal Garden Champs Elysees,0,0,54,0,0,0,0
+2593,Royal Garden Champs Elysees,0,0,0,8,0,0,0
+2594,Royal Garden Champs Elysees,0,0,0,0,0,56,0
+2595,Royal Garden Champs Elysees,0,0,0,0,0,0,15
+2596,Royal Hotel Champs Elys es,47,0,0,0,0,0,0
+2597,Royal Hotel Champs Elys es,0,2,0,0,0,0,0
+2598,Royal Hotel Champs Elys es,0,0,43,0,0,0,0
+2599,Royal Hotel Champs Elys es,0,0,0,6,0,0,0
+2600,Royal Hotel Champs Elys es,0,0,0,0,0,66,0
+2601,Royal Hotel Champs Elys es,0,0,0,0,0,0,12
+2602,Royal Saint Honore,42,0,0,0,0,0,0
+2603,Royal Saint Honore,0,1,0,0,0,0,0
+2604,Royal Saint Honore,0,0,50,0,0,0,0
+2605,Royal Saint Honore,0,0,0,7,0,0,0
+2606,Royal Saint Honore,0,0,0,0,0,51,0
+2607,Royal Saint Honore,0,0,0,0,0,0,7
+2608,Royal Saint Michel,89,0,0,0,0,0,0
+2609,Royal Saint Michel,0,10,0,0,0,0,0
+2610,Royal Saint Michel,0,0,76,0,0,0,0
+2611,Royal Saint Michel,0,0,0,12,0,0,0
+2612,Royal Saint Michel,0,0,0,0,0,137,0
+2613,Royal Saint Michel,0,0,0,0,0,0,41
+2614,Saint James Albany Paris Hotel Spa,167,0,0,0,0,0,0
+2615,Saint James Albany Paris Hotel Spa,0,8,0,0,0,0,0
+2616,Saint James Albany Paris Hotel Spa,0,0,184,0,0,0,0
+2617,Saint James Albany Paris Hotel Spa,0,0,0,35,0,0,0
+2618,Saint James Albany Paris Hotel Spa,0,0,0,0,1,0,0
+2619,Saint James Albany Paris Hotel Spa,0,0,0,0,0,263,0
+2620,Saint James Albany Paris Hotel Spa,0,0,0,0,0,0,61
+2621,Select Hotel,112,0,0,0,0,0,0
+2622,Select Hotel,0,4,0,0,0,0,0
+2623,Select Hotel,0,0,77,0,0,0,0
+2624,Select Hotel,0,0,0,2,0,0,0
+2625,Select Hotel,0,0,0,0,5,0,0
+2626,Select Hotel,0,0,0,0,0,119,0
+2627,Select Hotel,0,0,0,0,0,0,36
+2628,Seven Hotel,27,0,0,0,0,0,0
+2629,Seven Hotel,0,2,0,0,0,0,0
+2630,Seven Hotel,0,0,15,0,0,0,0
+2631,Seven Hotel,0,0,0,3,0,0,0
+2632,Seven Hotel,0,0,0,0,3,0,0
+2633,Seven Hotel,0,0,0,0,0,3,0
+2634,Seven Hotel,0,0,0,0,0,0,3
+2635,Shangri La Hotel Paris,13,0,0,0,0,0,0
+2636,Shangri La Hotel Paris,0,0,12,0,0,0,0
+2637,Shangri La Hotel Paris,0,0,0,9,0,0,0
+2638,Shangri La Hotel Paris,0,0,0,0,0,3,0
+2639,Snob Hotel by Elegancia,17,0,0,0,0,0,0
+2640,Snob Hotel by Elegancia,0,2,0,0,0,0,0
+2641,Snob Hotel by Elegancia,0,0,21,0,0,0,0
+2642,Snob Hotel by Elegancia,0,0,0,4,0,0,0
+2643,Snob Hotel by Elegancia,0,0,0,0,7,0,0
+2644,Snob Hotel by Elegancia,0,0,0,0,0,23,0
+2645,Snob Hotel by Elegancia,0,0,0,0,0,0,7
+2646,Sofitel Paris Arc De Triomphe,63,0,0,0,0,0,0
+2647,Sofitel Paris Arc De Triomphe,0,1,0,0,0,0,0
+2648,Sofitel Paris Arc De Triomphe,0,0,77,0,0,0,0
+2649,Sofitel Paris Arc De Triomphe,0,0,0,22,0,0,0
+2650,Sofitel Paris Arc De Triomphe,0,0,0,0,1,0,0
+2651,Sofitel Paris Arc De Triomphe,0,0,0,0,0,52,0
+2652,Sofitel Paris Arc De Triomphe,0,0,0,0,0,0,12
+2653,Sofitel Paris Baltimore Tour Eiffel,21,0,0,0,0,0,0
+2654,Sofitel Paris Baltimore Tour Eiffel,0,3,0,0,0,0,0
+2655,Sofitel Paris Baltimore Tour Eiffel,0,0,47,0,0,0,0
+2656,Sofitel Paris Baltimore Tour Eiffel,0,0,0,9,0,0,0
+2657,Sofitel Paris Baltimore Tour Eiffel,0,0,0,0,0,33,0
+2658,Sofitel Paris Baltimore Tour Eiffel,0,0,0,0,0,0,18
+2659,Sofitel Paris Le Faubourg,34,0,0,0,0,0,0
+2660,Sofitel Paris Le Faubourg,0,0,38,0,0,0,0
+2661,Sofitel Paris Le Faubourg,0,0,0,9,0,0,0
+2662,Sofitel Paris Le Faubourg,0,0,0,0,5,0,0
+2663,Sofitel Paris Le Faubourg,0,0,0,0,0,43,0
+2664,Sofitel Paris Le Faubourg,0,0,0,0,0,0,5
+2665,Splendid Etoile,48,0,0,0,0,0,0
+2666,Splendid Etoile,0,3,0,0,0,0,0
+2667,Splendid Etoile,0,0,46,0,0,0,0
+2668,Splendid Etoile,0,0,0,3,0,0,0
+2669,Splendid Etoile,0,0,0,0,1,0,0
+2670,Splendid Etoile,0,0,0,0,0,55,0
+2671,Splendid Etoile,0,0,0,0,0,0,3
+2672,Splendide Royal Paris,7,0,0,0,0,0,0
+2673,Splendide Royal Paris,0,0,7,0,0,0,0
+2674,Splendide Royal Paris,0,0,0,2,0,0,0
+2675,Splendide Royal Paris,0,0,0,0,0,4,0
+2676,Splendide Royal Paris,0,0,0,0,0,0,3
+2677,Suites H tel Helzear Champs Elys es,51,0,0,0,0,0,0
+2678,Suites H tel Helzear Champs Elys es,0,7,0,0,0,0,0
+2679,Suites H tel Helzear Champs Elys es,0,0,69,0,0,0,0
+2680,Suites H tel Helzear Champs Elys es,0,0,0,11,0,0,0
+2681,Suites H tel Helzear Champs Elys es,0,0,0,0,3,0,0
+2682,Suites H tel Helzear Champs Elys es,0,0,0,0,0,84,0
+2683,Suites H tel Helzear Champs Elys es,0,0,0,0,0,0,4
+2684,Suites H tel Helzear Montparnasse,13,0,0,0,0,0,0
+2685,Suites H tel Helzear Montparnasse,0,0,27,0,0,0,0
+2686,Suites H tel Helzear Montparnasse,0,0,0,0,0,24,0
+2687,Suites H tel Helzear Montparnasse,0,0,0,0,0,0,4
+2688,TRYP Paris Op ra,17,0,0,0,0,0,0
+2689,TRYP Paris Op ra,0,1,0,0,0,0,0
+2690,TRYP Paris Op ra,0,0,21,0,0,0,0
+2691,TRYP Paris Op ra,0,0,0,0,0,25,0
+2692,TRYP Paris Op ra,0,0,0,0,0,0,3
+2693,Terrass H tel Montmartre by MH,75,0,0,0,0,0,0
+2694,Terrass H tel Montmartre by MH,0,2,0,0,0,0,0
+2695,Terrass H tel Montmartre by MH,0,0,85,0,0,0,0
+2696,Terrass H tel Montmartre by MH,0,0,0,6,0,0,0
+2697,Terrass H tel Montmartre by MH,0,0,0,0,4,0,0
+2698,Terrass H tel Montmartre by MH,0,0,0,0,0,56,0
+2699,Terrass H tel Montmartre by MH,0,0,0,0,0,0,24
+2700,The Chess Hotel,70,0,0,0,0,0,0
+2701,The Chess Hotel,0,8,0,0,0,0,0
+2702,The Chess Hotel,0,0,66,0,0,0,0
+2703,The Chess Hotel,0,0,0,9,0,0,0
+2704,The Chess Hotel,0,0,0,0,10,0,0
+2705,The Chess Hotel,0,0,0,0,0,97,0
+2706,The Chess Hotel,0,0,0,0,0,0,17
+2707,The Westin Paris Vend me,17,0,0,0,0,0,0
+2708,The Westin Paris Vend me,0,1,0,0,0,0,0
+2709,The Westin Paris Vend me,0,0,27,0,0,0,0
+2710,The Westin Paris Vend me,0,0,0,8,0,0,0
+2711,The Westin Paris Vend me,0,0,0,0,0,33,0
+2712,The Westin Paris Vend me,0,0,0,0,0,0,3
+2713,Timhotel Op ra Blanche Fontaine,44,0,0,0,0,0,0
+2714,Timhotel Op ra Blanche Fontaine,0,8,0,0,0,0,0
+2715,Timhotel Op ra Blanche Fontaine,0,0,30,0,0,0,0
+2716,Timhotel Op ra Blanche Fontaine,0,0,0,1,0,0,0
+2717,Timhotel Op ra Blanche Fontaine,0,0,0,0,0,28,0
+2718,Timhotel Op ra Blanche Fontaine,0,0,0,0,0,0,9
+2719,Timhotel Op ra Grands Magasins,39,0,0,0,0,0,0
+2720,Timhotel Op ra Grands Magasins,0,4,0,0,0,0,0
+2721,Timhotel Op ra Grands Magasins,0,0,18,0,0,0,0
+2722,Timhotel Op ra Grands Magasins,0,0,0,1,0,0,0
+2723,Timhotel Op ra Grands Magasins,0,0,0,0,2,0,0
+2724,Timhotel Op ra Grands Magasins,0,0,0,0,0,15,0
+2725,Timhotel Op ra Grands Magasins,0,0,0,0,0,0,3
+2726,Trinit Haussmann,32,0,0,0,0,0,0
+2727,Trinit Haussmann,0,8,0,0,0,0,0
+2728,Trinit Haussmann,0,0,14,0,0,0,0
+2729,Trinit Haussmann,0,0,0,1,0,0,0
+2730,Trinit Haussmann,0,0,0,0,0,14,0
+2731,Trinit Haussmann,0,0,0,0,0,0,7
+2732,Vice Versa,13,0,0,0,0,0,0
+2733,Vice Versa,0,0,21,0,0,0,0
+2734,Vice Versa,0,0,0,4,0,0,0
+2735,Vice Versa,0,0,0,0,3,0,0
+2736,Vice Versa,0,0,0,0,0,4,0
+2737,Victoire Germain,23,0,0,0,0,0,0
+2738,Victoire Germain,0,1,0,0,0,0,0
+2739,Victoire Germain,0,0,25,0,0,0,0
+2740,Victoire Germain,0,0,0,2,0,0,0
+2741,Victoire Germain,0,0,0,0,4,0,0
+2742,Victoire Germain,0,0,0,0,0,28,0
+2743,Victoire Germain,0,0,0,0,0,0,2
+2744,Victoires Opera,8,0,0,0,0,0,0
+2745,Victoires Opera,0,0,8,0,0,0,0
+2746,Victoires Opera,0,0,0,0,0,18,0
+2747,Victoria Palace Hotel,6,0,0,0,0,0,0
+2748,Victoria Palace Hotel,0,1,0,0,0,0,0
+2749,Victoria Palace Hotel,0,0,10,0,0,0,0
+2750,Victoria Palace Hotel,0,0,0,4,0,0,0
+2751,Victoria Palace Hotel,0,0,0,0,0,4,0
+2752,Victoria Palace Hotel,0,0,0,0,0,0,3
+2753,Villa Alessandra,1,0,0,0,0,0,0
+2754,Villa Alessandra,0,0,4,0,0,0,0
+2755,Villa Alessandra,0,0,0,1,0,0,0
+2756,Villa Alessandra,0,0,0,0,0,8,0
+2757,Villa Alessandra,0,0,0,0,0,0,1
+2758,Villa Beaumarchais,88,0,0,0,0,0,0
+2759,Villa Beaumarchais,0,11,0,0,0,0,0
+2760,Villa Beaumarchais,0,0,99,0,0,0,0
+2761,Villa Beaumarchais,0,0,0,9,0,0,0
+2762,Villa Beaumarchais,0,0,0,0,1,0,0
+2763,Villa Beaumarchais,0,0,0,0,0,104,0
+2764,Villa Beaumarchais,0,0,0,0,0,0,41
+2765,Villa Eugenie,6,0,0,0,0,0,0
+2766,Villa Eugenie,0,0,12,0,0,0,0
+2767,Villa Eugenie,0,0,0,0,0,3,0
+2768,Villa Lut ce Port Royal,13,0,0,0,0,0,0
+2769,Villa Lut ce Port Royal,0,1,0,0,0,0,0
+2770,Villa Lut ce Port Royal,0,0,10,0,0,0,0
+2771,Villa Lut ce Port Royal,0,0,0,0,1,0,0
+2772,Villa Lut ce Port Royal,0,0,0,0,0,4,0
+2773,Villa Lut ce Port Royal,0,0,0,0,0,0,2
+2774,Villa Montparnasse,9,0,0,0,0,0,0
+2775,Villa Montparnasse,0,0,18,0,0,0,0
+2776,Villa Montparnasse,0,0,0,0,1,0,0
+2777,Villa Montparnasse,0,0,0,0,0,14,0
+2778,Villa Montparnasse,0,0,0,0,0,0,6
+2779,Villa Opera Drouot,34,0,0,0,0,0,0
+2780,Villa Opera Drouot,0,3,0,0,0,0,0
+2781,Villa Opera Drouot,0,0,42,0,0,0,0
+2782,Villa Opera Drouot,0,0,0,1,0,0,0
+2783,Villa Opera Drouot,0,0,0,0,0,31,0
+2784,Villa Opera Drouot,0,0,0,0,0,0,10
+2785,Villa Panth on,73,0,0,0,0,0,0
+2786,Villa Panth on,0,5,0,0,0,0,0
+2787,Villa Panth on,0,0,91,0,0,0,0
+2788,Villa Panth on,0,0,0,6,0,0,0
+2789,Villa Panth on,0,0,0,0,0,112,0
+2790,Villa Panth on,0,0,0,0,0,0,14
+2791,Villa d Estr es,7,0,0,0,0,0,0
+2792,Villa d Estr es,0,0,11,0,0,0,0
+2793,Villa d Estr es,0,0,0,2,0,0,0
+2794,Villa d Estr es,0,0,0,0,0,15,0
+2795,Villa d Estr es,0,0,0,0,0,0,1
+2796,W Paris Op ra,6,0,0,0,0,0,0
+2797,W Paris Op ra,0,0,12,0,0,0,0
+2798,W Paris Op ra,0,0,0,3,0,0,0
+2799,W Paris Op ra,0,0,0,0,1,0,0
+2800,W Paris Op ra,0,0,0,0,0,15,0
+2801,Waldorf Madeleine,82,0,0,0,0,0,0
+2802,Waldorf Madeleine,0,8,0,0,0,0,0
+2803,Waldorf Madeleine,0,0,79,0,0,0,0
+2804,Waldorf Madeleine,0,0,0,11,0,0,0
+2805,Waldorf Madeleine,0,0,0,0,2,0,0
+2806,Waldorf Madeleine,0,0,0,0,0,101,0
+2807,Waldorf Madeleine,0,0,0,0,0,0,16
+2808,Warwick Paris Former Warwick Champs Elysees ,62,0,0,0,0,0,0
+2809,Warwick Paris Former Warwick Champs Elysees ,0,4,0,0,0,0,0
+2810,Warwick Paris Former Warwick Champs Elysees ,0,0,82,0,0,0,0
+2811,Warwick Paris Former Warwick Champs Elysees ,0,0,0,17,0,0,0
+2812,Warwick Paris Former Warwick Champs Elysees ,0,0,0,0,1,0,0
+2813,Warwick Paris Former Warwick Champs Elysees ,0,0,0,0,0,129,0
+2814,Warwick Paris Former Warwick Champs Elysees ,0,0,0,0,0,0,28
+2815,Westside Arc de Triomphe Hotel,75,0,0,0,0,0,0
+2816,Westside Arc de Triomphe Hotel,0,12,0,0,0,0,0
+2817,Westside Arc de Triomphe Hotel,0,0,108,0,0,0,0
+2818,Westside Arc de Triomphe Hotel,0,0,0,12,0,0,0
+2819,Westside Arc de Triomphe Hotel,0,0,0,0,0,72,0
+2820,Westside Arc de Triomphe Hotel,0,0,0,0,0,0,30
+2821,Windsor Opera,8,0,0,0,0,0,0
+2822,Windsor Opera,0,3,0,0,0,0,0
+2823,Windsor Opera,0,0,11,0,0,0,0
+2824,Windsor Opera,0,0,0,0,0,8,0
+2825,Windsor Opera,0,0,0,0,0,0,1
+2826,XO Hotel,4,0,0,0,0,0,0
+2827,XO Hotel,0,0,3,0,0,0,0
+2828,XO Hotel,0,0,0,1,0,0,0
+2829,XO Hotel,0,0,0,0,1,0,0
+2830,XO Hotel,0,0,0,0,0,3,0
+2831,XO Hotel,0,0,0,0,0,0,1
